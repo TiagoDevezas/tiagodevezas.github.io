@@ -1,408 +1,384 @@
-@charset "UTF-8";
-/*! normalize.css v2.0.1 | MIT License | git.io/normalize */
-/* ==========================================================================
-   HTML5 display definitions
-   ========================================================================== */
-/*
- * Corrects `block` display not defined in IE 8/9.
- */
-/* line 12, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-nav,
-section,
-summary {
-  display: block; }
+/* line 1, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/extends/_button.scss */
+button,
+input[type="submit"] {
+  -webkit-font-smoothing: antialiased;
+  background-color: #477DCA;
+  border-radius: 0.1875em;
+  color: white;
+  display: inline-block;
+  font-size: 1em;
+  font-weight: bold;
+  line-height: 1;
+  padding: .75em 1em;
+  text-decoration: none; }
+  /* line 13, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/extends/_button.scss */
+  button:hover,
+  input[type="submit"]:hover {
+    background-color: #2c5999;
+    color: white; }
 
-/*
- * Corrects `inline-block` display not defined in IE 8/9.
- */
-/* line 30, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-audio,
-canvas,
-video {
-  display: inline-block; }
-
-/*
- * Prevents modern browsers from displaying `audio` without controls.
- * Remove excess height in iOS 5 devices.
- */
-/* line 41, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-audio:not([controls]) {
-  display: none;
-  height: 0; }
-
-/*
- * Addresses styling for `hidden` attribute not present in IE 8/9.
- */
-/* line 50, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-[hidden] {
-  display: none; }
-
-/* ==========================================================================
-   Base
-   ========================================================================== */
-/*
- * 1. Sets default font family to sans-serif.
- * 2. Prevents iOS text size adjust after orientation change, without disabling
- *    user zoom.
- */
-/* line 64, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-html {
-  font-family: sans-serif;
-  /* 1 */
-  -webkit-text-size-adjust: 100%;
-  /* 2 */
-  -ms-text-size-adjust: 100%;
-  /* 2 */ }
-
-/*
- * Removes default margin.
- */
-/* line 74, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
+/* line 1, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_typography.scss */
 body {
-  margin: 0; }
+  -webkit-font-smoothing: antialiased;
+  background-color: white;
+  color: #333;
+  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-size: 1em;
+  line-height: 1.5; }
 
-/* ==========================================================================
-   Links
-   ========================================================================== */
-/*
- * Addresses `outline` inconsistency between Chrome and other browsers.
- */
-/* line 86, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-a:focus {
-  outline: thin dotted; }
+/* line 10, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_typography.scss */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  line-height: 1.25em;
+  margin: 0;
+  text-rendering: optimizeLegibility; }
 
-/*
- * Improves readability when focused and also mouse hovered in all browsers.
- */
-/* line 94, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-a:active,
-a:hover {
-  outline: 0; }
-
-/* ==========================================================================
-   Typography
-   ========================================================================== */
-/*
- * Addresses `h1` font sizes within `section` and `article` in Firefox 4+,
- * Safari 5, and Chrome.
- */
-/* line 108, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
+/* line 17, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_typography.scss */
 h1 {
+  font-size: 2.25em; }
+
+/* line 21, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_typography.scss */
+h2 {
   font-size: 2em; }
 
-/*
- * Addresses styling not present in IE 8/9, Safari 5, and Chrome.
- */
-/* line 116, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-abbr[title] {
-  border-bottom: 1px dotted; }
+/* line 25, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_typography.scss */
+h3 {
+  font-size: 1.75em; }
 
-/*
- * Addresses style set to `bolder` in Firefox 4+, Safari 5, and Chrome.
- */
-/* line 124, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-b,
-strong {
-  font-weight: bold; }
+/* line 29, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_typography.scss */
+h4 {
+  font-size: 1.5em; }
 
-/*
- * Addresses styling not present in Safari 5 and Chrome.
- */
-/* line 133, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-dfn {
-  font-style: italic; }
+/* line 33, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_typography.scss */
+h5 {
+  font-size: 1.25em; }
 
-/*
- * Addresses styling not present in IE 8/9.
- */
-/* line 141, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-mark {
-  background: #ff0;
-  color: #000; }
-
-/*
- * Corrects font family set oddly in Safari 5 and Chrome.
- */
-/* line 151, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-code,
-kbd,
-pre,
-samp {
-  font-family: monospace, serif;
+/* line 37, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_typography.scss */
+h6 {
   font-size: 1em; }
 
-/*
- * Improves readability of pre-formatted text in all browsers.
- */
-/* line 163, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-pre {
-  white-space: pre;
-  white-space: pre-wrap;
-  word-wrap: break-word; }
+/* line 41, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_typography.scss */
+p {
+  margin: 0 0 0.75em; }
 
-/*
- * Sets consistent quote types.
- */
-/* line 173, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-q {
-  quotes: "\201C" "\201D" "\2018" "\2019"; }
+/* line 45, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_typography.scss */
+a {
+  -webkit-transition: color 0.1s linear;
+  -moz-transition: color 0.1s linear;
+  transition: color 0.1s linear;
+  color: #477DCA;
+  text-decoration: none; }
+  /* line 50, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_typography.scss */
+  a:hover {
+    color: #2c5999; }
+  /* line 54, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_typography.scss */
+  a:active, a:focus {
+    color: #2c5999;
+    outline: none; }
 
-/*
- * Addresses inconsistent and variable font size in all browsers.
- */
-/* line 181, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-small {
-  font-size: 80%; }
+/* line 60, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_typography.scss */
+hr {
+  border-bottom: 1px solid #DDD;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  margin: 1.5em 0; }
 
-/*
- * Prevents `sub` and `sup` affecting `line-height` in all browsers.
- */
-/* line 189, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-sub,
-sup {
-  font-size: 75%;
-  line-height: 0;
-  position: relative;
-  vertical-align: baseline; }
-
-/* line 197, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-sup {
-  top: -0.5em; }
-
-/* line 201, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-sub {
-  bottom: -0.25em; }
-
-/* ==========================================================================
-   Embedded content
-   ========================================================================== */
-/*
- * Removes border when inside `a` element in IE 8/9.
- */
-/* line 213, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
+/* line 68, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_typography.scss */
 img {
-  border: 0; }
-
-/*
- * Corrects overflow displayed oddly in IE 9.
- */
-/* line 221, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-svg:not(:root) {
-  overflow: hidden; }
-
-/* ==========================================================================
-   Figures
-   ========================================================================== */
-/*
- * Addresses margin not present in IE 8/9 and Safari 5.
- */
-/* line 233, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-figure {
-  margin: 0; }
-
-/* ==========================================================================
-   Forms
-   ========================================================================== */
-/*
- * Define consistent border, margin, and padding.
- */
-/* line 245, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-fieldset {
-  border: 1px solid #c0c0c0;
-  margin: 0 2px;
-  padding: 0.35em 0.625em 0.75em; }
-
-/*
- * 1. Corrects color not being inherited in IE 8/9.
- * 2. Remove padding so people aren't caught out if they zero out fieldsets.
- */
-/* line 256, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-legend {
-  border: 0;
-  /* 1 */
-  padding: 0;
-  /* 2 */ }
-
-/*
- * 1. Corrects font family not being inherited in all browsers.
- * 2. Corrects font size not being inherited in all browsers.
- * 3. Addresses margins set differently in Firefox 4+, Safari 5, and Chrome
- */
-/* line 267, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-button,
-input,
-select,
-textarea {
-  font-family: inherit;
-  /* 1 */
-  font-size: 100%;
-  /* 2 */
   margin: 0;
-  /* 3 */ }
+  max-width: 100%; }
 
-/*
- * Addresses Firefox 4+ setting `line-height` on `input` using `!important` in
- * the UA stylesheet.
- */
-/* line 281, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-button,
-input {
-  line-height: normal; }
+/* line 73, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_typography.scss */
+blockquote {
+  border-left: 2px solid #DDD;
+  color: #595959;
+  margin: 1.5em 0;
+  padding-left: 0.75em; }
 
-/*
- * 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio`
- *    and `video` controls.
- * 2. Corrects inability to style clickable `input` types in iOS.
- * 3. Improves usability and consistency of cursor style between image-type
- *    `input` and others.
- */
-/* line 294, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-button,
-html input[type="button"],
-input[type="reset"],
-input[type="submit"] {
-  -webkit-appearance: button;
-  /* 2 */
-  cursor: pointer;
-  /* 3 */ }
+/* line 80, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_typography.scss */
+cite {
+  color: #737373;
+  font-style: italic; }
+  /* line 84, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_typography.scss */
+  cite:before {
+    content: '\2014 \00A0'; }
 
-/*
- * Re-set default cursor for disabled elements.
- */
-/* line 306, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-button[disabled],
-input[disabled] {
-  cursor: default; }
+/* line 1, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_forms.scss */
+fieldset {
+  background: #f7f7f7;
+  border: 1px solid #DDD;
+  margin: 0 0 0.75em 0;
+  padding: 1.5em; }
 
-/*
- * 1. Addresses box sizing set to `content-box` in IE 8/9.
- * 2. Removes excess padding in IE 8/9.
- */
-/* line 316, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-input[type="checkbox"],
-input[type="radio"] {
+/* line 8, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_forms.scss */
+input,
+label,
+select {
+  display: block;
+  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-size: 1em; }
+
+/* line 16, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_forms.scss */
+label {
+  font-weight: bold;
+  margin-bottom: 0.375em; }
+  /* line 20, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_forms.scss */
+  label.required:after {
+    content: "*"; }
+  /* line 24, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_forms.scss */
+  label abbr {
+    display: none; }
+
+/* line 29, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_forms.scss */
+textarea,
+input[type="email"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="url"], input[type="color"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="month"], input[type="time"], input[type="week"],
+select[multiple=multiple] {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
   box-sizing: border-box;
-  /* 1 */
-  padding: 0;
-  /* 2 */ }
+  -webkit-transition: border-color;
+  -moz-transition: border-color;
+  transition: border-color;
+  background-color: white;
+  border-radius: 0.1875em;
+  border: 1px solid #DDD;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.06);
+  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-size: 1em;
+  margin-bottom: 0.75em;
+  padding: 0.5em 0.5em;
+  width: 100%; }
+  /* line 44, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_forms.scss */
+  textarea:hover,
+  input[type="email"]:hover, input[type="number"]:hover, input[type="password"]:hover, input[type="search"]:hover, input[type="tel"]:hover, input[type="text"]:hover, input[type="url"]:hover, input[type="color"]:hover, input[type="date"]:hover, input[type="datetime"]:hover, input[type="datetime-local"]:hover, input[type="month"]:hover, input[type="time"]:hover, input[type="week"]:hover,
+  select[multiple=multiple]:hover {
+    border-color: #c4c4c4; }
+  /* line 48, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_forms.scss */
+  textarea:focus,
+  input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="url"]:focus, input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus,
+  select[multiple=multiple]:focus {
+    border-color: #477DCA;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.06), 0 0 5px rgba(55, 112, 192, 0.7);
+    outline: none; }
 
-/*
- * 1. Addresses `appearance` set to `searchfield` in Safari 5 and Chrome.
- * 2. Addresses `box-sizing` set to `border-box` in Safari 5 and Chrome
- *    (include `-moz` to future-proof).
- */
-/* line 328, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-input[type="search"] {
-  -webkit-appearance: textfield;
-  /* 1 */
-  -moz-box-sizing: content-box;
-  -webkit-box-sizing: content-box;
-  /* 2 */
-  box-sizing: content-box; }
-
-/*
- * Removes inner padding and search cancel button in Safari 5 and Chrome
- * on OS X.
- */
-/* line 340, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-input[type="search"]::-webkit-search-cancel-button,
-input[type="search"]::-webkit-search-decoration {
-  -webkit-appearance: none; }
-
-/*
- * Removes inner padding and border in Firefox 4+.
- */
-/* line 349, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
-button::-moz-focus-inner,
-input::-moz-focus-inner {
-  border: 0;
-  padding: 0; }
-
-/*
- * 1. Removes default vertical scrollbar in IE 8/9.
- * 2. Improves readability and alignment in all browsers.
- */
-/* line 360, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
+/* line 55, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_forms.scss */
 textarea {
-  overflow: auto;
-  /* 1 */
-  vertical-align: top;
-  /* 2 */ }
+  resize: vertical; }
 
-/* ==========================================================================
-   Tables
-   ========================================================================== */
-/*
- * Remove most spacing between table cells.
- */
-/* line 373, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/normalize.css */
+/* line 59, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_forms.scss */
+input[type="search"] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  -o-appearance: none;
+  appearance: none; }
+
+/* line 63, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_forms.scss */
+input[type="checkbox"], input[type="radio"] {
+  display: inline;
+  margin-right: 0.375em; }
+
+/* line 68, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_forms.scss */
+input[type="file"] {
+  margin-bottom: 0.75em;
+  padding-bottom: 0.5em;
+  width: 100%; }
+
+/* line 74, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_forms.scss */
+select {
+  width: auto;
+  max-width: 100%;
+  margin-bottom: 1.5em; }
+
+/* line 1, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_tables.scss */
 table {
   border-collapse: collapse;
-  border-spacing: 0; }
+  margin: 0.75em 0;
+  table-layout: fixed;
+  width: 100%; }
 
-/* line 6, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/all.css.scss */
-body {
-  background: #d4d4d4 url("../images/background.png");
-  text-align: center;
-  font-family: sans-serif; }
-
-/* line 11, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/all.css.scss */
-h1 {
-  color: rgba(0, 0, 0, 0.3);
+/* line 8, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_tables.scss */
+th {
+  border-bottom: 1px solid #b7b7b7;
   font-weight: bold;
-  font-size: 32px;
-  letter-spacing: -1px;
-  text-transform: uppercase;
-  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
-  background: url("../images/middleman.png") no-repeat center 100px;
-  padding: 350px 0 10px;
-  margin: 0; }
+  padding: 0.75em 0;
+  text-align: left; }
 
-/* line 22, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/all.css.scss */
-.doc {
-  font-size: 14px;
-  margin: 0; }
+/* line 15, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_tables.scss */
+td {
+  border-bottom: 1px solid #DDD;
+  padding: 0.75em 0; }
 
-/* line 25, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/all.css.scss */
-.doc:before,
-.doc:after {
-  opacity: .2;
-  padding: 6px;
-  font-style: normal;
-  position: relative;
-  content: "•"; }
+/* line 20, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_tables.scss */
+tr, td, th {
+  vertical-align: middle; }
 
-/* line 32, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/all.css.scss */
-.doc a {
-  color: rgba(0, 0, 0, 0.3); }
+/* line 1, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_lists.scss */
+ul, ol {
+  margin: 0;
+  padding: 0;
+  list-style-type: none; }
+/* line 19, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_lists.scss */
+dl {
+  margin-bottom: 0.75em; }
+  /* line 22, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_lists.scss */
+  dl dt {
+    font-weight: bold;
+    margin-top: 0.75em; }
+  /* line 27, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_lists.scss */
+  dl dd {
+    margin: 0; }
 
-/* line 34, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/all.css.scss */
-.doc a:hover {
-  color: #666; }
+/* line 1, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/base/_buttons.scss */
+button,
+input[type="submit"] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  -o-appearance: none;
+  appearance: none;
+  border: none;
+  cursor: pointer;
+  user-select: none;
+  vertical-align: middle;
+  white-space: nowrap; }
 
-/* line 37, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/all.css.scss */
-.welcome {
-  -webkit-animation-name: welcome;
-  -webkit-animation-duration: .9s; }
+/* line 2, /home/tiago/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/neat-1.6.0/app/assets/stylesheets/grid/_grid.scss */
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
 
-@-webkit-keyframes welcome {
-  from {
-    -webkit-transform: scale(0);
-    opacity: 0; }
-  50% {
-    -webkit-transform: scale(0);
-    opacity: 0; }
-  82.5% {
-    -webkit-transform: scale(1.03);
-    -webkit-animation-timing-function: ease-out;
-    opacity: 1; }
-  to {
-    -webkit-transform: scale(1); } }
+/* line 1, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/partials/_layout.scss */
+.container {
+  max-width: 68em;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 80em; }
+  /* line 15, /home/tiago/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/bourbon-4.0.2/app/assets/stylesheets/addons/_clearfix.scss */
+  .container:after {
+    content: "";
+    display: table;
+    clear: both; }
+
+/* line 6, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/partials/_layout.scss */
+.main {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 100%;
+  padding-top: 15%; }
+  /* line 38, /home/tiago/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/neat-1.6.0/app/assets/stylesheets/grid/_span-columns.scss */
+  .main:last-child {
+    margin-right: 0; }
+
+/* line 11, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/partials/_layout.scss */
+.showcase {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 100%;
+  padding: 20px;
+  cursor: pointer; }
+  /* line 38, /home/tiago/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/neat-1.6.0/app/assets/stylesheets/grid/_span-columns.scss */
+  .showcase:last-child {
+    margin-right: 0; }
+  /* line 15, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/partials/_layout.scss */
+  .showcase .project {
+    position: relative;
+    border-radius: 3px;
+    margin-bottom: 25px; }
+    @media screen and (min-width: 53.75em) {
+      /* line 15, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/partials/_layout.scss */
+      .showcase .project {
+        float: left;
+        display: block;
+        margin-right: 2.35765%;
+        width: 31.76157%;
+        margin-bottom: 0; }
+        /* line 38, /home/tiago/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/neat-1.6.0/app/assets/stylesheets/grid/_span-columns.scss */
+        .showcase .project:last-child {
+          margin-right: 0; }
+        /* line 52, /home/tiago/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/neat-1.6.0/app/assets/stylesheets/grid/_omega.scss */
+        .showcase .project:nth-child(3n) {
+          margin-right: 0; }
+        /* line 57, /home/tiago/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/neat-1.6.0/app/assets/stylesheets/grid/_omega.scss */
+        .showcase .project:nth-child(3n+1) {
+          clear: left; } }
+    /* line 24, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/partials/_layout.scss */
+    .showcase .project a.cover-link {
+      color: rgba(0, 0, 0, 0.7);
+      display: block; }
+      /* line 27, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/partials/_layout.scss */
+      .showcase .project a.cover-link .project-image {
+        position: relative;
+        max-height: 225px;
+        overflow: hidden; }
+        /* line 31, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/partials/_layout.scss */
+        .showcase .project a.cover-link .project-image:after {
+          content: '';
+          position: absolute;
+          width: 100%;
+          height: 100%;
+          top: 0;
+          left: 0;
+          background: rgba(0, 0, 0, 0.05);
+          -webkit-transition: all 0.5s;
+          -moz-transition: all 0.5s;
+          transition: all 0.5s; }
+        /* line 41, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/partials/_layout.scss */
+        .showcase .project a.cover-link .project-image img {
+          width: 100%; }
+      /* line 45, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/partials/_layout.scss */
+      .showcase .project a.cover-link:hover {
+        color: rgba(0, 0, 0, 0.9); }
+        /* line 46, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/partials/_layout.scss */
+        .showcase .project a.cover-link:hover .project-image:after {
+          background: rgba(0, 0, 0, 0.3); }
+
+/* line 55, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/partials/_layout.scss */
+.center {
+  text-align: center; }
+
+/* line 1, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/partials/_bg-colors.scss */
+body {
+  background-color: #EEE; }
+
+/* line 5, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/partials/_bg-colors.scss */
+.showcase {
+  background-color: #FFF; }
+  /* line 7, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/partials/_bg-colors.scss */
+  .showcase .project {
+    background-color: #f7f7f7;
+    border: 1px solid #DDD; }
+    /* line 10, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/partials/_bg-colors.scss */
+    .showcase .project:hover, .showcase .project:active {
+      background-color: #FFF; }
+
+/* line 1, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/partials/_headers.scss */
+h1 {
+  color: #555;
+  margin: 0 0 0.75em; }
+
+/* line 1, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/partials/_type.scss */
+.project {
+  text-align: left; }
+  /* line 3, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/partials/_type.scss */
+  .project p {
+    margin: 0; }
+  /* line 6, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/partials/_type.scss */
+  .project .project-heading {
+    font-weight: bold;
+    border-top: 1px solid #DDD;
+    border-bottom: 1px solid #DDD;
+    padding: 8px 13px; }
+  /* line 13, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/partials/_type.scss */
+  .project .project-description p {
+    padding: 8px 13px;
+    font-size: 0.9em;
+    line-height: 1.5em; }
+
+/* line 20, /home/tiago/Projectos/tiagodevezas.github.io/source/stylesheets/partials/_type.scss */
+p.subtitle {
+  font-size: 25px; }
