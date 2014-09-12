@@ -268,7 +268,7 @@ input[type="submit"] {
   display: block;
   margin-right: 2.35765%;
   width: 100%;
-  padding-top: 15%; }
+  padding-top: 5%; }
   /* line 38, /home/tiago/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/neat-1.6.0/app/assets/stylesheets/grid/_span-columns.scss */
   .main:last-child {
     margin-right: 0; }
