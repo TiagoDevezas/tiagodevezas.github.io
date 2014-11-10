@@ -1,0 +1,112 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" ng-app="followupApp">
+<!--<![endif]-->
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title ng-bind-template="follow.up - Agregador de Notícias da UP{{' | ' + header}}"></title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width">
+  <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+  <link rel="stylesheet" href="styles/bc044884.main.css">
+</head>
+
+<body>
+  <!--[if lt IE 7]>
+      <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+      <![endif]-->
+
+  <!--[if lt IE 9]>
+      <script src="components/es5-shim/es5-shim.js"></script>
+      <script src="components/json3/lib/json3.min.js"></script>
+      <![endif]-->
+
+      <!-- Add your site or application content here -->
+
+      <div class="main-container" ng-controller="MainCtrl">
+        <div class="contain-to-grid">
+        <div class="row">
+        <div class="large-10 columns remove-padding">
+          
+          <nav class="top-bar remove-bottom-margin">
+            <ul class="title-area">
+              <li class="name">
+                <h1>
+                  <a ng-href="#/">follow.up
+                    <span class="subtitle">&nbsp;&nbsp;&nbsp;Agregador de notícias da UP
+                      <span>
+                      </span></span></a>
+                    </h1>
+                  </li>
+                  <li class="toggle-topbar menu-icon show-for-small"><a href="#"><span>Menu</span></a></li>
+                </ul>
+                <section class="top-bar-section">
+                  <ul class="right">
+                    <li><a href="#/sobre" ng-click="closeMobileMenu()">Sobre</a></li>
+                    <li class="show-for-small divider"></li>
+                  </ul>
+                  <ul class="right show-for-small">
+                    <li ng-repeat="uo in uoList">
+                      <a ng-href="#/{{uo.url}}" active-link="active" ng-click="closeMobileMenu()">{{uo.name}}</a>
+                    </li>
+                  </ul>
+                </section>
+                </nav></div>
+                </div>
+              
+            </div>
+
+            <section class="main">
+              <div class="row">
+                <div class="large-2 columns">
+
+                  <div id="sidebar" ng-cloak="">
+                    <ul class="side-nav remove-top-padding remove-bottom-padding hide-for-small">
+                      <li ng-repeat="uo in uoList">
+                        <a ng-href="#/{{uo.url}}" active-link="active">{{uo.name}}</a>
+                      </li>
+                    </ul>
+                  </div>
+
+                </div>
+
+                <div class="large-10 columns">
+
+                  <div id="content">
+                    <div ng-view=""></div>
+                  </div>
+
+                </div>
+              </div>
+
+            </section>
+
+          </div>
+
+          <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+          <script src="https://code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script>
+          <script src="components/angular/angular.min.js"></script>
+          <script src="components/foundation-js/custom.modernizr.js"></script>
+          <script src="components/foundation-js/foundation.min.js"></script>
+          <script src="components/foundation-js/foundation.topbar.js"></script>
+
+          <script src="scripts/e6d8452b.scripts.js"></script>
+
+          <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+          <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-49476800-1', 'auto');
+            ga('send', 'pageview');
+          </script>
+        </body>
+
+        </html>

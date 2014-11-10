@@ -1,0 +1,163 @@
+<div class="row">
+
+
+  <div ng-controller="DateFilterCtrl" class="large-10 columns">
+
+    <form ng-controller="SearchCtrl" class="remove-bottom-margin">
+      <div class="row collapse">
+        <div class="small-10 columns">
+          <input class="search" type="text" ng-model="query" placeholder="Pesquisar...">
+        </div>
+        <div class="small-2 columns">
+          <button class="button prefix" type="submit" ng-click="search()">
+            <i class="icon-search icon-small"></i>
+          </button>
+        </div>
+      </div>
+    </form>
+
+    <h2 class="subheader">{{header}}
+      <small>{{subheader}}</small>
+    </h2>
+    <div class="filter-buttons" ng-hide="hideFilterOptions">
+      <button class="small button secondary filter-btn" ng-click="showPanel = !showPanel; hideDate = false; hideTopics = true; hideSource = true;" ng-hide="hideDateButton">
+        <i class="icon-time"></i>&nbsp;{{dateText()}}
+        <i class="icon-caret-down"></i>
+      </button>
+      <button class="small button secondary filter-btn" ng-click="showPanel = !showPanel; hideTopics = false; hideDate = true; hideSource = true;" ng-hide="hideTopicButton">
+        <i class="icon-reorder"></i>&nbsp;{{topic || 'Todos'}}
+        <i class="icon-caret-down"></i>
+      </button>
+      <button class="small button secondary filter-btn" ng-click="showPanel = !showPanel; hideSource = false; hideDate = true; hideTopics = true;" ng-hide="hideSourceButton">
+        <i class="icon-rss"></i>&nbsp;{{source || 'Todas'}}
+        <i class="icon-caret-down"></i>
+      </button>
+    </div>
+
+    <div class="alert-box secondary filter-options" ng-show="showPanel">
+      <div ng-cloak="" ng-controller="TopicListCtrl" ng-hide="hideTopics">
+        <div class="row">
+          <div class="large-1 columns">
+            <p>Tópico</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="large-12 columns">
+            <div ng-show="loading">A carregar</div>
+            <dl class="sub-nav topic-list" ng-hide="loading">
+              <dd class="active">
+                <a ng-href="#/{{uo}}/topico/todos">Todos</a>
+              </dd>
+              <dd ng-repeat="topic in topics">
+                <a ng-href="#/{{uo}}/topico/{{topic.name | urlify}}" active-link="active">{{topic.name}} ({{topic.total_items}})</a>
+              </dd>
+            </dl>
+          </div>
+        </div>
+      </div>
+
+      <div class="date-filter" ng-hide="hideDate">
+        <div class="row">
+          <div class="large-12 columns">
+            <p>Data</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="large-3 columns">
+            <select ng-model="dateOptions" ng-options="option for option in selectOptions" ng-change="change(dateOptions)">
+            </select>
+          </div>
+        </div>
+        <div class="row">
+          <div class="large-9 columns">
+            <form>
+              <div class="row">
+                <div class="large-4 columns">
+                  <input type="text" ng-model="startDate" my-date-picker="" placeholder="Início">
+                </div>
+                <div class="large-4 columns">
+                  <input type="text" ng-model="endDate" my-date-picker="" placeholder="Fim">
+                </div>
+                <div class="large-4 columns">
+                  <button class="small button" ng-click="searchArticles()">Submeter</button>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+
+      <div class="source-filter" ng-hide="hideSource">
+        <div class="row">
+          <div class="large-12 columns">
+            <p>Fonte</p>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="large-12 columns">
+            <div ng-show="loading">A carregar</div>
+            <dl class="sub-nav source-list" ng-hide="loading">
+              <dd class="active">
+                <a ng-href="#/search/{{query}}">Todas</a>
+              </dd>
+              <dd ng-repeat="source in sources | orderBy:'-count'">
+                <a ng-href="#/search/{{source.name}}/{{query}}" active-link="active">{{source.name}} ({{source.count}})</a>
+              </dd>
+            </dl>
+          </div>
+        </div>
+
+      </div>
+
+      <a class="close" ng-click="showPanel = !showPanel">&times;</a>
+    </div>
+
+    <div class="articles" infinite-scroll="loadMore()" infinite-scroll-disabled="busy" infinite-scroll-distance="1">
+      <div class="row">
+        <div class="large-12 columns" ng-hide="hideViewButtons">
+          <ul class="button-group right">
+            <li>
+              <a href="" class="button small secondary list-toggle" list-toggle="btn-active" ng-class="{'btn-active': showDescription}" ng-click="setDescription(true)">
+                <i class="icon-th-list"></i>
+              </a>
+            </li>
+            <li>
+              <a href="" class="button small secondary list-toggle" list-toggle="btn-active" ng-class="{'btn-active': !showDescription}" ng-click="setDescription(false)">
+                <i class="icon-list"></i>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div ng-repeat="article in articles" ng-class="{panel: showDescription, article: showDescription}">
+        <div class="article-content">
+          <div class="title">
+            <h3>
+              <a ng-href="{{article.link}}" target="_blank">{{article.title}}</a>
+            </h3>
+          </div>
+          <div class="description">
+            <p ng-show="showDescription">
+              <a ng-href="#/{{article.source}}">{{article.source}}</a>
+              |
+              <a ng-href="#/{{article.source}}/topico/{{article.feed | urlify}}">{{article.feed}}</a>
+              - {{article.date | trimDate}}
+            </p>
+            <p ng-show="showDescription">{{article.description}}</p>
+          </div>
+        </div>
+        <hr ng-hide="showDescription">
+      </div>
+
+      <div class="panel article" ng-show="noResults">Nenhum resultado encontrado.</div>
+
+      <div data-alert="" class="alert-box" ng-show="showBox">
+        Fim dos resultados.
+        <a class="close" ng-click="showBox = !showBox">&times;</a>
+      </div>
+
+    </div>
+  </div>
+
+</div>
