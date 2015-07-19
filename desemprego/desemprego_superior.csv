@@ -1,0 +1,1109 @@
+Estabelecimento,CodigoEstabelecimento,UnidadeOrganica,CodigoUnidadeOrganica,Natureza,TipoEnsino,NomeCurso,CodigoCurso,Grau,NumeroDiplomadosCurso,AmostraAceite,NumeroDiplomadosDesempregados,TaxaDesempregoRegistadoCurso,AnosLetivosDiplomados,Fonte
+Universidade Fernando Pessoa,2750,Universidade Fernando Pessoa,2750,Privado,Universitário,Criminologia,9066,Licenciatura,61,Sim,42,"68,9",2009/10_2012/13,DGEEC
+Universidade Lusíada de Vila Nova de Famalicão,2402,Universidade Lusíada de Vila Nova de Famalicão,2402,Privado,Universitário,Arquitectura,9257,Mestrado Integrado,105,Sim,54,"51,4",2009/10_2012/13,DGEEC
+Escola Superior Artística do Porto,4010,Escola Superior Artística do Porto,4010,Privado,Universitário,Arquitectura,9257,Mestrado Integrado,132,Sim,63,"47,7",2009/10_2012/13,DGEEC
+Universidade Fernando Pessoa,2750,Escola Superior de Saúde,2752,Privado,Politécnico,Análises Clínicas e de Saúde Pública,9497,Licenciatura,46,Sim,21,"45,7",2009/10_2012/13,DGEEC
+Universidade Lusófona do Porto,4032,Universidade Lusófona do Porto,4032,Privado,Universitário,Arquitectura,9257,Mestrado Integrado,36,Sim,15,"41,7",2009/10_2012/13,DGEEC
+Universidade Portucalense Infante D. Henrique,2500,Universidade Portucalense Infante D. Henrique,2500,Privado,Universitário,Educação Social,9084,Licenciatura,112,Sim,45,"40,2",2009/10_2012/13,DGEEC
+Instituto Superior Politécnico Gaya,4440,Escola Superior de Desenvolvimento Social e Comunitário,4441,Privado,Politécnico,Turismo,9254,Licenciatura,33,Sim,13,"39,4",2009/10_2012/13,DGEEC
+Escola Superior de Tecnologias de Fafe,4115,Escola Superior de Tecnologias de Fafe,4115,Privado,Politécnico,Informática de Gestão,9186,Licenciatura,34,Sim,13,"38,2",2009/10_2012/13,DGEEC
+Universidade Católica Portuguesa,2200,Faculdade de Ciências Sociais,2221,Privado,Universitário,Serviço Social,9238,Licenciatura,230,Sim,86,"37,4",2009/10_2012/13,DGEEC
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências Humanas e Sociais,1202,Público,Universitário,Línguas e Relações Empresariais,9196,Licenciatura,74,Sim,26,"35,1",2009/10_2012/13,DGES
+Instituto Superior Politécnico Gaya,4440,Escola Superior de Desenvolvimento Social e Comunitário,4441,Privado,Politécnico,Serviço Social,9238,Licenciatura,77,Sim,27,"35,1",2009/10_2012/13,DGEEC
+Universidade Fernando Pessoa,2750,Universidade Fernando Pessoa,2750,Privado,Universitário,Psicologia,9219,Licenciatura,39,Sim,13,"33,3",2009/10_2012/13,DGEEC
+Escola Superior Artística do Porto,4010,Escola Superior Artística do Porto,4010,Privado,Universitário,Artes Visuais - Fotografia,9683,Licenciatura,77,Sim,25,"32,5",2009/10_2012/13,DGEEC
+Escola Superior de Tecnologias de Fafe,4115,Escola Superior de Tecnologias de Fafe,4115,Privado,Politécnico,Contabilidade,9056,Licenciatura,53,Sim,17,"32,1",2009/10_2012/13,DGEEC
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,"Cinema, Vídeo e Comunicação Multimédia",9049,Licenciatura,129,Sim,40,31,2009/10_2012/13,DGEEC
+Universidade Fernando Pessoa,2750,Universidade Fernando Pessoa,2750,Privado,Universitário,Ciências da Comunicação,9023,Licenciatura,102,Sim,31,"30,4",2009/10_2012/13,DGEEC
+Escola Universitária das Artes de Coimbra,4120,Escola Universitária das Artes de Coimbra,4120,Privado,Universitário,Arquitectura,9257,Mestrado Integrado,109,Sim,33,"30,3",2009/10_2012/13,DGEEC
+Instituto Superior de Serviço Social do Porto,4520,Instituto Superior de Serviço Social do Porto,4520,Privado,Universitário,Serviço Social,9238,Licenciatura,310,Sim,93,30,2009/10_2012/13,DGEEC
+CESPU-Instituto Politécnico de Saúde do Norte,4107,Escola Superior de Saúde do Vale do Ave,4108,Privado,Politécnico,Fisioterapia,9504,Licenciatura,88,Sim,26,"29,5",2009/10_2012/13,DGEEC
+Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Vídeo e Cinema Documental,9932,Licenciatura,41,Sim,12,"29,2",2009/10_2012/13,DGES
+Escola Superior de Artes e Design,4069,Escola Superior de Artes e Design,4069,Privado,Politécnico,Design,9069,Licenciatura,533,Sim,155,"29,1",2009/10_2012/13,DGEEC
+Universidade de Évora,600,Escola de Ciências Sociais,604,Público,Universitário,Ciências da Informação e da Documentação,9039,Licenciatura,43,Sim,12,"27,9",2009/10_2012/13,DGES
+Instituto Superior de Entre Douro e Vouga,4283,Instituto Superior de Entre Douro e Vouga,4283,Privado,Politécnico,"Marketing, Publicidade e Relações Públicas",9208,Licenciatura,65,Sim,18,"27,7",2009/10_2012/13,DGEEC
+Instituto Universitário da Maia - ISMAI,4358,Instituto Universitário da Maia - ISMAI,4358,Privado,Universitário,Turismo,9254,Licenciatura,65,Sim,18,"27,7",2009/10_2012/13,DGEEC
+Escola Superior de Educação de Paula Frassinetti,4085,Escola Superior de Educação de Paula Frassinetti,4085,Privado,Politécnico,Educação Social,9084,Licenciatura,69,Sim,19,"27,5",2009/10_2012/13,DGEEC
+Instituto Politécnico de Coimbra,3060,Escola Superior de Educação de Coimbra,3062,Público,Politécnico,Gerontologia Social,9668,Licenciatura,73,Sim,20,"27,3",2009/10_2012/13,DGES
+Instituto Universitário da Maia - ISMAI,4358,Instituto Universitário da Maia - ISMAI,4358,Privado,Universitário,Ciências da Comunicação,9023,Licenciatura,165,Sim,45,"27,3",2009/10_2012/13,DGEEC
+Instituto Universitário da Maia - ISMAI,4358,Instituto Universitário da Maia - ISMAI,4358,Privado,Universitário,Relações Públicas,9230,Licenciatura,63,Sim,17,27,2009/10_2012/13,DGEEC
+Escola Superior Artística do Porto,4010,Escola Superior Artística do Porto,4010,Privado,Universitário,Cinema e Audiovisual,9713,Licenciatura,116,Sim,31,"26,7",2009/10_2012/13,DGEEC
+Universidade Lusíada do Porto,2401,Universidade Lusíada do Porto,2401,Privado,Universitário,Arquitectura,9257,Mestrado Integrado,390,Sim,103,"26,4",2009/10_2012/13,DGEEC
+Instituto Politécnico de Setúbal,3150,Escola Superior de Tecnologia de Setúbal,3152,Público,Politécnico,Engenharia do Ambiente,9099,Licenciatura,68,Sim,18,"26,4",2009/10_2012/13,DGES
+Instituto Universitário da Maia - ISMAI,4358,Instituto Universitário da Maia - ISMAI,4358,Privado,Universitário,Gestão de Marketing,9156,Licenciatura,42,Sim,11,"26,2",2009/10_2012/13,DGEEC
+Instituto Politécnico da Guarda,3090,Escola Superior de Tecnologia e Gestão,3092,Público,Politécnico,Design de Equipamento,9072,Licenciatura,69,Sim,18,26,2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências Humanas e Sociais,1202,Público,Universitário,Teatro e Artes Performativas,9803,Licenciatura,51,Sim,13,"25,4",2009/10_2012/13,DGES
+Instituto Politécnico de Bragança,3040,Escola Superior Agrária de Bragança,3041,Público,Politécnico,Engenharia Zootécnica,9129,Licenciatura,32,Sim,8,25,2009/10_2012/13,DGES
+Instituto Superior de Novas Profissões,4150,Instituto Superior de Novas Profissões,4150,Privado,Politécnico,Relações Públicas e Publicidade,9232,Licenciatura,143,Sim,35,"24,5",2009/10_2012/13,DGEEC
+Instituto Universitário da Maia - ISMAI,4358,Instituto Universitário da Maia - ISMAI,4358,Privado,Universitário,Tecnologias de Comunicação Multimédia,9249,Licenciatura,144,Sim,35,"24,3",2009/10_2012/13,DGEEC
+Instituto Politécnico de Bragança,3040,Escola Superior Agrária de Bragança,3041,Público,Politécnico,Engenharia do Ambiente,9099,Licenciatura,66,Sim,16,"24,2",2009/10_2012/13,DGES
+Escola Superior Artística do Porto,4010,Escola Superior Artística do Porto,4010,Privado,Universitário,Design e Comunicação Multimédia,9728,Licenciatura,66,Sim,16,"24,2",2009/10_2012/13,DGEEC
+Instituto Politécnico de Coimbra,3060,Escola Superior Agrária de Coimbra,3061,Público,Politécnico,Agricultura Biológica,9673,Licenciatura,50,Sim,12,24,2009/10_2012/13,DGES
+Instituto Politécnico da Guarda,3090,Escola Superior de Tecnologia e Gestão,3092,Público,Politécnico,Marketing,9205,Licenciatura,81,Sim,19,"23,4",2009/10_2012/13,DGES
+Instituto Politécnico de Portalegre,3120,Escola Superior de Tecnologia e Gestão,3122,Público,Politécnico,Design de Comunicação,9070,Licenciatura,86,Sim,20,"23,2",2009/10_2012/13,DGES
+Instituto Universitário da Maia - ISMAI,4358,Instituto Universitário da Maia - ISMAI,4358,Privado,Universitário,Criminologia,9066,Licenciatura,285,Sim,66,"23,2",2009/10_2012/13,DGEEC
+Escola Superior de Tecnologias de Fafe,4115,Escola Superior de Tecnologias de Fafe,4115,Privado,Politécnico,Turismo,9254,Licenciatura,39,Sim,9,"23,1",2009/10_2012/13,DGEEC
+Universidade Católica Portuguesa,2200,Escola Superior de Biotecnologia,2210,Privado,Universitário,Ciências da Nutrição,9554,Licenciatura,126,Sim,29,23,2009/10_2012/13,DGEEC
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,Ciências Farmacêuticas,9494,Mestrado Integrado,105,Sim,24,"22,9",2009/10_2012/13,DGEEC
+Instituto Politécnico do Porto,3130,Escola Superior de Música e das Artes do Espectáculo,3132,Público,Politécnico,Tecnologia da Comunicação Multimédia,9863,Licenciatura,40,Sim,9,"22,5",2009/10_2012/13,DGES
+Instituto Politécnico de Bragança,3040,Escola Superior de Saúde de Bragança,7015,Público,Politécnico,Análises Clínicas e de Saúde Pública,9497,Licenciatura,138,Sim,31,"22,4",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Psicologia e de Ciências da Educação,507,Público,Universitário,Serviço Social,9238,Licenciatura,139,Sim,31,"22,3",2009/10_2012/13,DGES
+Instituto Universitário da Maia - ISMAI,4358,Instituto Universitário da Maia - ISMAI,4358,Privado,Universitário,Gestão de Recursos Humanos,9157,Licenciatura,206,Sim,46,"22,3",2009/10_2012/13,DGEEC
+Universidade da Beira Interior,400,Universidade da Beira Interior,400,Público,Universitário,Ciência Política e Relações Internacionais,9020,Licenciatura,90,Sim,20,"22,2",2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências Humanas e Sociais,1202,Público,Universitário,Economia,9081,Licenciatura,155,Sim,34,"21,9",2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências Humanas e Sociais,1202,Público,Universitário,Ciências da Comunicação,9023,Licenciatura,229,Sim,50,"21,8",2009/10_2012/13,DGES
+Instituto Universitário da Maia - ISMAI,4358,Instituto Universitário da Maia - ISMAI,4358,Privado,Universitário,Gestão do Desporto,9162,Licenciatura,170,Sim,37,"21,8",2009/10_2012/13,DGEEC
+Universidade de Coimbra,500,Faculdade de Economia,503,Público,Universitário,Sociologia,9240,Licenciatura,92,Sim,20,"21,7",2009/10_2012/13,DGES
+Universidade Lusíada do Porto,2401,Universidade Lusíada do Porto,2401,Privado,Universitário,Criminologia,9066,Licenciatura,69,Sim,15,"21,7",2009/10_2012/13,DGEEC
+Instituto Superior Miguel Torga,4500,Instituto Superior Miguel Torga,4500,Privado,Universitário,Multimédia,9213,Licenciatura,60,Sim,13,"21,7",2009/10_2012/13,DGEEC
+Universidade de Évora,600,Escola de Ciências Sociais,604,Público,Universitário,Sociologia,9240,Licenciatura,106,Sim,23,"21,6",2009/10_2012/13,DGES
+Instituto Superior de Ciências Empresariais e do Turismo,4280,Instituto Superior de Ciências Empresariais e do Turismo,4280,Privado,Politécnico,Marketing e Publicidade,9206,Licenciatura,51,Sim,11,"21,6",2009/10_2012/13,DGEEC
+Instituto Superior de Tecnologias Avançadas de Lisboa (Porto),4531,Instituto Superior de Tecnologias Avançadas de Lisboa (Porto),4531,Privado,Politécnico,Engenharia Multimédia,9124,Licenciatura,51,Sim,11,"21,6",2009/10_2012/13,DGEEC
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências Humanas e Sociais,1202,Público,Universitário,Serviço Social,9238,Licenciatura,223,Sim,48,"21,5",2009/10_2012/13,DGES
+Instituto Politécnico de Bragança,3040,"Escola Superior de Comunicação, Administração e Turismo de Mirandela",3045,Público,Politécnico,Turismo,9254,Licenciatura,65,Sim,14,"21,5",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Tecnologia da Saúde do Porto,7230,Público,Politécnico,Radioterapia,8153,Licenciatura,80,Sim,17,"21,5",2009/10_2012/13,DGES
+Instituto Superior de Ciências Empresariais e do Turismo,4280,Instituto Superior de Ciências Empresariais e do Turismo,4280,Privado,Politécnico,Turismo,9254,Licenciatura,146,Sim,31,"21,2",2009/10_2012/13,DGEEC
+Universidade Católica Portuguesa,2200,Escola das Artes,2265,Privado,Universitário,Arte - Conservação e Restauro,9551,Licenciatura,43,Sim,9,"20,9",2009/10_2012/13,DGEEC
+Universidade Portucalense Infante D. Henrique,2500,Universidade Portucalense Infante D. Henrique,2500,Privado,Universitário,Economia,9081,Licenciatura,86,Sim,18,"20,9",2009/10_2012/13,DGEEC
+Universidade Fernando Pessoa,2750,Universidade Fernando Pessoa,2750,Privado,Universitário,Ciências Farmacêuticas,9494,Mestrado Integrado,226,Sim,47,"20,8",2009/10_2012/13,DGEEC
+Instituto Politécnico de Bragança,3040,Escola Superior Agrária de Bragança,3041,Público,Politécnico,Enfermagem Veterinária,9085,Licenciatura,101,Sim,21,"20,7",2009/10_2012/13,DGES
+Instituto Superior de Educação e Ciências,4298,Instituto Superior de Educação e Ciências,4298,Privado,Politécnico,Design e Produção Gráfica,9073,Licenciatura,63,Sim,13,"20,6",2009/10_2012/13,DGEEC
+Instituto Politécnico de Castelo Branco,3050,Escola Superior de Educação de Castelo Branco,3052,Público,Politécnico,Serviço Social,9238,Licenciatura,185,Sim,38,"20,5",2009/10_2012/13,DGES
+Escola Superior de Saúde Jean Piaget de Vila Nova de Gaia,4101,Escola Superior de Saúde Jean Piaget de Vila Nova de Gaia,4101,Privado,Politécnico,Fisioterapia,9504,Licenciatura,224,Sim,46,"20,5",2009/10_2012/13,DGEEC
+Universidade Portucalense Infante D. Henrique,2500,Universidade Portucalense Infante D. Henrique,2500,Privado,Universitário,Gestão,9147,Licenciatura,167,Sim,34,"20,4",2009/10_2012/13,DGEEC
+Instituto Superior de Serviço Social do Porto,4520,Instituto Superior de Serviço Social do Porto,4520,Privado,Universitário,Gerontologia Social,9668,Licenciatura,54,Sim,11,"20,4",2009/10_2012/13,DGEEC
+Instituto Politécnico do Cávado e do Ave,3030,Escola Superior de Gestão,3031,Público,Politécnico,Gestão de Actividades Turísticas,8156,Licenciatura,59,Sim,12,"20,3",2009/10_2012/13,DGES
+Instituto Politécnico do Cávado e do Ave,3030,Escola Superior de Tecnologia,3032,Público,Politécnico,Design Gráfico,9470,Licenciatura,192,Sim,39,"20,3",2009/10_2012/13,DGES
+Instituto Politécnico de Bragança,3040,"Escola Superior de Comunicação, Administração e Turismo de Mirandela",3045,Público,Politécnico,Marketing,9205,Licenciatura,54,Sim,11,"20,3",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Educação,3131,Público,Politécnico,Educação Social,9084,Licenciatura,359,Sim,73,"20,3",2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Engenharia Biológica,9358,Mestrado Integrado,198,Sim,40,"20,2",2009/10_2012/13,DGES
+Universidade Portucalense Infante D. Henrique,2500,Universidade Portucalense Infante D. Henrique,2500,Privado,Universitário,Direito,9078,Licenciatura,124,Sim,25,"20,2",2009/10_2012/13,DGEEC
+Instituto Politécnico de Viseu,3180,Escola Superior de Educação de Viseu,3181,Público,Politécnico,Artes Plásticas e Multimédia,9347,Licenciatura,104,Sim,21,"20,1",2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências da Vida e do Ambiente,1204,Público,Universitário,Ciências do Desporto,9707,Licenciatura,160,Sim,32,20,2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Ciências,1503,Público,Universitário,Engenharia da Energia e do Ambiente,9811,Mestrado Integrado,80,Sim,16,20,2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Letras,1506,Público,Universitário,Estudos Asiáticos,9914,Licenciatura,40,Sim,8,20,2009/10_2012/13,DGES
+Universidade Lusíada,2400,Universidade Lusíada,2400,Privado,Universitário,Comunicação e Multimédia,9052,Licenciatura,125,Sim,25,20,2009/10_2012/13,DGEEC
+Instituto Politécnico de Bragança,3040,Escola Superior de Tecnologia e de Gestão de Bragança,3043,Público,Politécnico,Engenharia de Energias Renováveis,9910,Licenciatura,60,Sim,12,20,2009/10_2012/13,DGES
+Instituto Superior de Ciências da Informação e da Administração,4277,Instituto Superior de Ciências da Informação e da Administração,4277,Privado,Politécnico,Gestão Internacional,9175,Licenciatura,35,Sim,7,20,2009/10_2012/13,DGEEC
+Instituto Politécnico de Coimbra,3060,Escola Superior de Tecnologia da Saúde de Coimbra,7210,Público,Politécnico,Saúde Ambiental,9861,Licenciatura,95,Sim,19,20,2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior de Ciências Sociais e Políticas,1516,Público,Universitário,Administração Pública,9002,Licenciatura,272,Sim,54,"19,8",2009/10_2012/13,DGES
+Instituto Politécnico de Bragança,3040,"Escola Superior de Comunicação, Administração e Turismo de Mirandela",3045,Público,Politécnico,Solicitadoria,9242,Licenciatura,227,Sim,45,"19,8",2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Sociologia,9240,Licenciatura,218,Sim,43,"19,7",2009/10_2012/13,DGES
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,Sociologia,9240,Licenciatura,51,Sim,10,"19,6",2009/10_2012/13,DGEEC
+Universidade Lusíada do Porto,2401,Universidade Lusíada do Porto,2401,Privado,Universitário,Relações Internacionais,9229,Licenciatura,41,Sim,8,"19,5",2009/10_2012/13,DGEEC
+Instituto Politécnico de Bragança,3040,Escola Superior de Educação de Bragança,3042,Público,Politécnico,Animação e Produção Artística,9933,Licenciatura,41,Sim,8,"19,5",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Educação e Ciências Sociais,3101,Público,Politécnico,Animação Cultural,9466,Licenciatura,97,Sim,19,"19,5",2009/10_2012/13,DGES
+Instituto Politécnico de Setúbal,3150,Escola Superior de Educação,3151,Público,Politécnico,Comunicação Social,9054,Licenciatura,123,Sim,24,"19,5",2009/10_2012/13,DGES
+Escola Superior Artística do Porto,4010,Escola Superior Artística do Porto,4010,Privado,Universitário,Teatro - Interpretação e Encenação,9802,Licenciatura,41,Sim,8,"19,5",2009/10_2012/13,DGEEC
+Universidade Fernando Pessoa,2750,Universidade Fernando Pessoa,2750,Privado,Universitário,Ciência Política e Relações Internacionais,9020,Licenciatura,31,Sim,6,"19,4",2009/10_2012/13,DGEEC
+Escola Superior de Enfermagem Dr. José Timóteo Montalvão Machado,4093,Escola Superior de Enfermagem Dr. José Timóteo Montalvão Machado,4093,Privado,Politécnico,Enfermagem,9500,Licenciatura,155,Sim,30,"19,4",2009/10_2012/13,DGEEC
+Universidade de Évora,600,Escola de Artes,603,Público,Universitário,Artes Visuais - Multimédia,9684,Licenciatura,78,Sim,15,"19,2",2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências e Tecnologia,1203,Público,Universitário,Engenharia Mecânica,9123,Licenciatura,52,Sim,10,"19,2",2009/10_2012/13,DGES
+Instituto Politécnico de Viseu,3180,Escola Superior de Educação de Viseu,3181,Público,Politécnico,Comunicação Social,9054,Licenciatura,166,Sim,32,"19,2",2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Educação,9353,Licenciatura,198,Sim,38,"19,1",2009/10_2012/13,DGES
+Universidade Lusíada,2400,Universidade Lusíada,2400,Privado,Universitário,Arquitectura,9257,Mestrado Integrado,565,Sim,108,"19,1",2009/10_2012/13,DGEEC
+Universidade Lusíada do Porto,2401,Universidade Lusíada do Porto,2401,Privado,Universitário,Psicologia,9219,Licenciatura,179,Sim,34,19,2009/10_2012/13,DGEEC
+Universidade Fernando Pessoa,2750,Universidade Fernando Pessoa,2750,Privado,Universitário,Ciências Empresariais,9045,Licenciatura,63,Sim,12,19,2009/10_2012/13,DGEEC
+Instituto Politécnico de Portalegre,3120,Escola Superior de Educação,3121,Público,Politécnico,Turismo,9254,Licenciatura,63,Sim,12,19,2009/10_2012/13,DGES
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,Arquitectura,9257,Mestrado Integrado,111,Sim,21,"18,9",2009/10_2012/13,DGEEC
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Arqueologia,9006,Licenciatura,53,Sim,10,"18,8",2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências e Tecnologia,1203,Público,Universitário,Comunicação e Multimédia,9052,Licenciatura,138,Sim,26,"18,8",2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências da Vida e do Ambiente,1204,Público,Universitário,Engenharia do Ambiente,9099,Licenciatura,53,Sim,10,"18,8",2009/10_2012/13,DGES
+Instituto Politécnico de Portalegre,3120,Escola Superior de Educação,3121,Público,Politécnico,Serviço Social,9238,Licenciatura,217,Sim,41,"18,8",2009/10_2012/13,DGES
+Escola Superior de Educação de Fafe,4076,Escola Superior de Educação de Fafe,4076,Privado,Politécnico,Educação Física e Desporto,9736,Licenciatura,101,Sim,19,"18,8",2009/10_2012/13,DGEEC
+Universidade de Lisboa,1500,Faculdade de Letras,1506,Público,Universitário,Ciências da Cultura,9025,Licenciatura,112,Sim,21,"18,7",2009/10_2012/13,DGES
+Instituto Politécnico da Guarda,3090,"Escola Superior de Educação, Comunicação e Desporto",3091,Público,Politécnico,Animação Sociocultural,9005,Licenciatura,80,Sim,15,"18,7",2009/10_2012/13,DGES
+Universidade Católica Portuguesa,2200,Faculdade de Filosofia,2230,Privado,Universitário,Ciências da Comunicação,9023,Licenciatura,118,Sim,22,"18,6",2009/10_2012/13,DGEEC
+Universidade Atlântica,2700,Escola Superior de Saúde Atlântica,2701,Privado,Politécnico,Radiologia,9505,Licenciatura,43,Sim,8,"18,6",2009/10_2012/13,DGEEC
+Instituto Politécnico de Beja,3020,Escola Superior Agrária,3021,Público,Politécnico,Engenharia do Ambiente,9099,Licenciatura,86,Sim,16,"18,6",2009/10_2012/13,DGES
+Escola Universitária das Artes de Coimbra,4120,Escola Universitária das Artes de Coimbra,4120,Privado,Universitário,Design de Comunicação,9070,Licenciatura,59,Sim,11,"18,6",2009/10_2012/13,DGEEC
+Instituto Politécnico de Beja,3020,Escola Superior de Educação,3022,Público,Politécnico,Artes Plásticas e Multimédia,9347,Licenciatura,97,Sim,18,"18,5",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Escola Superior de Tecnologia e Gestão de Águeda,3012,Público,Politécnico,Técnico Superior de Secretariado,9805,Licenciatura,114,Sim,21,"18,4",2009/10_2012/13,DGES
+Universidade do Algarve,200,Faculdade de Ciências Humanas e Sociais,201,Público,Universitário,Ciências da Educação e da Formação,9821,Licenciatura,87,Sim,16,"18,3",2009/10_2012/13,DGES
+Universidade Lusíada,2400,Universidade Lusíada,2400,Privado,Universitário,Serviço Social,9238,Licenciatura,180,Sim,33,"18,3",2009/10_2012/13,DGEEC
+Instituto de Estudos Superiores Financeiros e Fiscais (Porto),4141,Instituto de Estudos Superiores Financeiros e Fiscais (Porto),4141,Privado,Politécnico,Gestão Financeira e Fiscal,9172,Licenciatura,66,Sim,12,"18,2",2009/10_2012/13,DGEEC
+Instituto Universitário da Maia - ISMAI,4358,Instituto Universitário da Maia - ISMAI,4358,Privado,Universitário,Solicitadoria,9242,Licenciatura,297,Sim,54,"18,2",2009/10_2012/13,DGEEC
+Instituto Superior de Paços de Brandão,4380,Instituto Superior de Paços de Brandão,4380,Privado,Politécnico,"Marketing, Publicidade e Relações Públicas",9208,Licenciatura,44,Sim,8,"18,2",2009/10_2012/13,DGEEC
+Instituto Politécnico de Bragança,3040,Escola Superior de Saúde de Bragança,7015,Público,Politécnico,Gerontologia,9833,Licenciatura,148,Sim,27,"18,2",2009/10_2012/13,DGES
+Instituto Politécnico de Bragança,3040,Escola Superior de Educação de Bragança,3042,Público,Politécnico,Educação Social,9084,Licenciatura,352,Sim,64,"18,1",2009/10_2012/13,DGES
+Instituto Politécnico de Viseu,3180,Escola Superior de Educação de Viseu,3181,Público,Politécnico,Publicidade e Relações Públicas,9930,Licenciatura,99,Sim,18,"18,1",2009/10_2012/13,DGES
+Instituto Politécnico de Bragança,3040,Escola Superior Agrária de Bragança,3041,Público,Politécnico,Ciência e Tecnologia Alimentar,L016,Licenciatura,111,Sim,20,18,2009/10_2012/13,DGES
+Instituto Politécnico de Bragança,3040,Escola Superior de Tecnologia e de Gestão de Bragança,3043,Público,Politécnico,Gestão,9147,Licenciatura,150,Sim,27,18,2009/10_2012/13,DGES
+Instituto Politécnico de Coimbra,3060,Escola Superior de Tecnologia e Gestão de Oliveira do Hospital,3065,Público,Politécnico,Administração e Finanças,9671,Licenciatura,144,Sim,26,18,2009/10_2012/13,DGES
+Instituto Politécnico de Viseu,3180,Escola Superior de Educação de Viseu,3181,Público,Politécnico,Animação Cultural,9466,Licenciatura,122,Sim,22,18,2009/10_2012/13,DGES
+Instituto Politécnico de Viseu,3180,Escola Superior de Tecnologia e Gestão de Lamego,3186,Público,Politécnico,"Gestão Turística, Cultural e Patrimonial",9179,Licenciatura,83,Sim,15,18,2009/10_2012/13,DGES
+Instituto Superior de Ciências da Informação e da Administração,4277,Instituto Superior de Ciências da Informação e da Administração,4277,Privado,Politécnico,Comunicação,9050,Licenciatura,50,Sim,9,18,2009/10_2012/13,DGEEC
+Universidade de Coimbra,500,Faculdade de Letras,505,Público,Universitário,"Ciência da Informação, Arquivística e Biblioteconómica",9695,Licenciatura,89,Sim,16,"17,9",2009/10_2012/13,DGES
+Universidade de Évora,600,Escola de Ciências Sociais,604,Público,Universitário,Ciências da Educação,9026,Licenciatura,67,Sim,12,"17,9",2009/10_2012/13,DGES
+Instituto Politécnico de Castelo Branco,3050,Escola Superior Agrária de Castelo Branco,3051,Público,Politécnico,Agronomia,9003,Licenciatura,39,Sim,7,"17,9",2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências e Tecnologia,1203,Público,Universitário,Engenharia de Energias,9744,Licenciatura,73,Sim,13,"17,8",2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências da Vida e do Ambiente,1204,Público,Universitário,Ciência Alimentar,9693,Licenciatura,95,Sim,17,"17,8",2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências da Vida e do Ambiente,1204,Público,Universitário,Reabilitação Psicomotora,9841,Licenciatura,207,Sim,37,"17,8",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Turismo e Tecnologia do Mar de Peniche,3105,Público,Politécnico,Gestão de Eventos,8514,Licenciatura,56,Sim,10,"17,8",2009/10_2012/13,DGES
+Universidade de Évora,600,Escola de Artes,603,Público,Universitário,Design,9069,Licenciatura,79,Sim,14,"17,7",2009/10_2012/13,DGES
+Universidade de Évora,600,Escola de Artes,603,Público,Universitário,Arquitectura,9257,Mestrado Integrado,45,Sim,8,"17,7",2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,História,9181,Licenciatura,90,Sim,16,"17,7",2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Arquitectura,9257,Mestrado Integrado,152,Sim,27,"17,7",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior de Ciências Sociais e Políticas,1516,Público,Universitário,Ciências da Comunicação,9023,Licenciatura,186,Sim,33,"17,7",2009/10_2012/13,DGES
+Instituto Politécnico de Bragança,3040,Escola Superior de Saúde de Bragança,7015,Público,Politécnico,Dietética e Nutrição,8149,Licenciatura,130,Sim,23,"17,6",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Tecnologia da Saúde do Porto,7230,Público,Politécnico,Saúde Ambiental,9861,Licenciatura,142,Sim,25,"17,6",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Engenharia,1105,Público,Universitário,Engenharia do Ambiente,9508,Mestrado Integrado,137,Sim,24,"17,5",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Psicologia e de Ciências da Educação,1109,Público,Universitário,Psicologia,9555,Mestrado Integrado,483,Sim,85,"17,5",2009/10_2012/13,DGES
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,Engenharia do Ambiente,9099,Licenciatura,40,Sim,7,"17,5",2009/10_2012/13,DGEEC
+Universidade Lusófona do Porto,4032,Universidade Lusófona do Porto,4032,Privado,Universitário,Turismo e Gestão de Empresas Turísticas,8163,Licenciatura,40,Sim,7,"17,5",2009/10_2012/13,DGEEC
+Instituto Superior de Administração e Gestão,4200,Instituto Superior de Administração e Gestão,4200,Privado,Politécnico,Gestão de Empresas,9152,Licenciatura,263,Sim,46,"17,5",2009/10_2012/13,DGEEC
+Universidade Lusíada,2400,Universidade Lusíada,2400,Privado,Universitário,Design,9069,Licenciatura,121,Sim,21,"17,4",2009/10_2012/13,DGEEC
+Universidade de Lisboa,1500,Faculdade de Psicologia,1511,Público,Universitário,Psicologia,9555,Mestrado Integrado,495,Sim,86,"17,3",2009/10_2012/13,DGES
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,Design,9069,Licenciatura,150,Sim,26,"17,3",2009/10_2012/13,DGEEC
+Instituto Politécnico de Viana do Castelo,3160,Escola Superior de Tecnologia e Gestão,3163,Público,Politécnico,Ciência e Tecnologia Alimentar,L016,Licenciatura,115,Sim,20,"17,3",2009/10_2012/13,DGES
+Escola Superior de Artes e Design,4069,Escola Superior de Artes e Design,4069,Privado,Politécnico,Artes,9679,Licenciatura,127,Sim,22,"17,3",2009/10_2012/13,DGEEC
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,Serviço Social,9238,Licenciatura,268,Sim,46,"17,2",2009/10_2012/13,DGEEC
+Instituto Politécnico de Viana do Castelo,3160,Escola Superior de Educação,3162,Público,Politécnico,Educação Social Gerontológica,9473,Licenciatura,122,Sim,21,"17,2",2009/10_2012/13,DGES
+Instituto Politécnico de Viana do Castelo,3160,Escola Superior de Tecnologia e Gestão,3163,Público,Politécnico,Engenharia de Sistemas de Energias Renováveis,9857,Licenciatura,81,Sim,14,"17,2",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Psicologia e de Ciências da Educação,507,Público,Universitário,Psicologia,9555,Mestrado Integrado,515,Sim,88,17,2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências e Tecnologia,1203,Público,Universitário,Engenharia Civil,9089,Licenciatura,117,Sim,20,17,2009/10_2012/13,DGES
+Universidade da Beira Interior,400,Universidade da Beira Interior,400,Público,Universitário,Arquitectura,9257,Mestrado Integrado,171,Sim,29,"16,9",2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Psicologia,9555,Mestrado Integrado,342,Sim,58,"16,9",2009/10_2012/13,DGES
+Instituto Politécnico de Castelo Branco,3050,Escola Superior Agrária de Castelo Branco,3051,Público,Politécnico,Nutrição Humana e Qualidade Alimentar,9482,Licenciatura,130,Sim,22,"16,9",2009/10_2012/13,DGES
+Universidade do Algarve,200,"Escola Superior de Gestão, Hotelaria e Turismo",3082,Público,Politécnico,Turismo,9254,Licenciatura,207,Sim,35,"16,9",2009/10_2012/13,DGES
+Instituto Politécnico de Portalegre,3120,Escola Superior de Tecnologia e Gestão,3122,Público,Politécnico,Design e Animação Multimédia,9469,Licenciatura,53,Sim,9,"16,9",2009/10_2012/13,DGES
+CESPU-Instituto Politécnico de Saúde do Norte,4107,Escola Superior de Saúde do Vale do Sousa,4109,Privado,Politécnico,Fisioterapia,9504,Licenciatura,231,Sim,39,"16,9",2009/10_2012/13,DGEEC
+Universidade de Coimbra,500,Faculdade de Ciências e Tecnologia,501,Público,Universitário,Engenharia do Ambiente,9508,Mestrado Integrado,107,Sim,18,"16,8",2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Estudos Portugueses e Lusófonos,9138,Licenciatura,107,Sim,18,"16,8",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Ciências,1103,Público,Universitário,Ciências de Engenharia,9824,Licenciatura,107,Sim,18,"16,8",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Tecnologia e Gestão,3102,Público,Politécnico,Engenharia da Energia e do Ambiente,9648,Licenciatura,107,Sim,18,"16,8",2009/10_2012/13,DGES
+Universidade Lusófona do Porto,4032,Universidade Lusófona do Porto,4032,Privado,Universitário,Ciências da Comunicação e da Cultura,9024,Licenciatura,78,Sim,13,"16,7",2009/10_2012/13,DGEEC
+Instituto Superior Politécnico Gaya,4440,Escola Superior de Ciência e Tecnologia,4442,Privado,Politécnico,Engenharia Informática,9119,Licenciatura,54,Sim,9,"16,7",2009/10_2012/13,DGEEC
+Universidade da Beira Interior,400,Universidade da Beira Interior,400,Público,Universitário,Economia,9081,Licenciatura,138,Sim,23,"16,6",2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências Agrárias e Veterinárias,1201,Público,Universitário,Arquitectura Paisagista,8258,Licenciatura,96,Sim,16,"16,6",2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências Agrárias e Veterinárias,1201,Público,Universitário,Medicina Veterinária,9847,Mestrado Integrado,138,Sim,23,"16,6",2009/10_2012/13,DGES
+Universidade de Aveiro,300,"Escola Superior de Design, Gestão e Tecnologias da Produção de Aveiro-Norte",3014,Público,Politécnico,Tecnologia e Design de Produto,9245,Licenciatura,78,Sim,13,"16,6",2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Gestão,9147,Licenciatura,332,Sim,55,"16,5",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Letras,1107,Público,Universitário,Sociologia,9240,Licenciatura,163,Sim,27,"16,5",2009/10_2012/13,DGES
+Instituto Politécnico de Castelo Branco,3050,Escola Superior Agrária de Castelo Branco,3051,Público,Politécnico,Engenharia Biológica e Alimentar,9742,Licenciatura,115,Sim,19,"16,5",2009/10_2012/13,DGES
+Instituto Politécnico da Guarda,3090,Escola Superior de Tecnologia e Gestão,3092,Público,Politécnico,Gestão,9147,Licenciatura,115,Sim,19,"16,5",2009/10_2012/13,DGES
+Universidade do Algarve,200,Faculdade de Economia,204,Público,Universitário,Sociologia,9240,Licenciatura,85,Sim,14,"16,4",2009/10_2012/13,DGES
+Universidade Lusíada de Vila Nova de Famalicão,2402,Universidade Lusíada de Vila Nova de Famalicão,2402,Privado,Universitário,Engenharia Electrónica e Informática,9547,Licenciatura,67,Sim,11,"16,4",2009/10_2012/13,DGEEC
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,"Comunicação Aplicada: Marketing, Publicidade e Relações Públicas",9051,Licenciatura,304,Sim,50,"16,4",2009/10_2012/13,DGEEC
+"ISPA-Instituto Universitário de Ciências Psicológicas, Sociais e da Vida",4450,"ISPA-Instituto Universitário de Ciências Psicológicas, Sociais e da Vida",4450,Privado,Universitário,Psicologia,9555,Mestrado Integrado,791,Sim,130,"16,4",2009/10_2012/13,DGEEC
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Turismo,9254,Licenciatura,98,Sim,16,"16,3",2009/10_2012/13,DGES
+Universidade de Évora,600,Escola de Ciências e Tecnologia,602,Público,Universitário,Arquitectura Paisagista,8258,Licenciatura,61,Sim,10,"16,3",2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências Agrárias e Veterinárias,1201,Público,Universitário,Engenharia Agronómica,9086,Licenciatura,55,Sim,9,"16,3",2009/10_2012/13,DGES
+Instituto Politécnico da Guarda,3090,Escola Superior de Tecnologia e Gestão,3092,Público,Politécnico,Engenharia Topográfica,9128,Licenciatura,55,Sim,9,"16,3",2009/10_2012/13,DGES
+Instituto Politécnico de Santarém,3140,Escola Superior de Educação de Santarém,3142,Público,Politécnico,Educação Social,9084,Licenciatura,177,Sim,29,"16,3",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Letras,1506,Público,Universitário,Estudos Portugueses,9917,Licenciatura,43,Sim,7,"16,2",2009/10_2012/13,DGES
+Instituto Politécnico de Coimbra,3060,Escola Superior de Educação de Coimbra,3062,Público,Politécnico,Comunicação e Design Multimédia,9894,Licenciatura,160,Sim,26,"16,2",2009/10_2012/13,DGES
+Instituto Politécnico de Viseu,3180,Escola Superior de Educação de Viseu,3181,Público,Politécnico,Educação Ambiental,9082,Licenciatura,86,Sim,14,"16,2",2009/10_2012/13,DGES
+Universidade da Beira Interior,400,Universidade da Beira Interior,400,Público,Universitário,Design Multimédia,9075,Licenciatura,142,Sim,23,"16,1",2009/10_2012/13,DGES
+Universidade da Beira Interior,400,Universidade da Beira Interior,400,Público,Universitário,Sociologia,9240,Licenciatura,99,Sim,16,"16,1",2009/10_2012/13,DGES
+Universidade de Évora,600,Escola de Ciências Sociais,604,Público,Universitário,Turismo,9254,Licenciatura,136,Sim,22,"16,1",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior de Ciências Sociais e Políticas,1516,Público,Universitário,Sociologia,9240,Licenciatura,167,Sim,27,"16,1",2009/10_2012/13,DGES
+Instituto Politécnico de Bragança,3040,Escola Superior de Educação de Bragança,3042,Público,Politécnico,Arte e Design,9898,Licenciatura,68,Sim,11,"16,1",2009/10_2012/13,DGES
+Instituto Politécnico da Guarda,3090,"Escola Superior de Educação, Comunicação e Desporto",3091,Público,Politécnico,Desporto,9563,Licenciatura,155,Sim,25,"16,1",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Instituto Superior de Engenharia do Porto,3135,Público,Politécnico,Engenharia Geotécnica e Geoambiente,9117,Licenciatura,68,Sim,11,"16,1",2009/10_2012/13,DGES
+Instituto Português de Administração de Marketing de Matosinhos,4155,Instituto Português de Administração de Marketing de Matosinhos,4155,Privado,Politécnico,Gestão de Marketing,9156,Licenciatura,497,Sim,80,"16,1",2009/10_2012/13,DGEEC
+Instituto Superior Miguel Torga,4500,Instituto Superior Miguel Torga,4500,Privado,Universitário,Serviço Social,9238,Licenciatura,149,Sim,24,"16,1",2009/10_2012/13,DGEEC
+Instituto Superior de Estudos Interculturais e Transdisciplinares - Viseu,4308,Instituto Superior de Estudos Interculturais e Transdisciplinares - Viseu,4308,Privado,Universitário,Psicologia,9219,Licenciatura,75,Sim,12,16,2009/10_2012/13,DGEEC
+Instituto de Estudos Superiores Financeiros e Fiscais (Porto),4141,Instituto de Estudos Superiores Financeiros e Fiscais (Porto),4141,Privado,Politécnico,Gestão e Negócios,9169,Licenciatura,63,Sim,10,"15,9",2009/10_2012/13,DGEEC
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências Humanas e Sociais,1202,Público,Universitário,Gestão,9147,Licenciatura,164,Sim,26,"15,8",2009/10_2012/13,DGES
+Instituto Politécnico de Castelo Branco,3050,Escola Superior de Artes Aplicadas de Castelo Branco,3055,Público,Politécnico,Design de Interiores e Equipamento,9725,Licenciatura,126,Sim,20,"15,8",2009/10_2012/13,DGES
+Instituto Politécnico de Coimbra,3060,Escola Superior de Educação de Coimbra,3062,Público,Politécnico,Arte e Design,9898,Licenciatura,107,Sim,17,"15,8",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Música e das Artes do Espectáculo,3132,Público,Politécnico,Tecnologia da Comunicação Audiovisual,9244,Licenciatura,101,Sim,16,"15,8",2009/10_2012/13,DGES
+Universidade do Algarve,200,Escola Superior de Educação e Comunicação,3081,Público,Politécnico,Ciências da Comunicação,9023,Licenciatura,133,Sim,21,"15,7",2009/10_2012/13,DGES
+Instituto Politécnico da Guarda,3090,Escola Superior de Tecnologia e Gestão,3092,Público,Politécnico,Energia e Ambiente,9855,Licenciatura,38,Sim,6,"15,7",2009/10_2012/13,DGES
+Instituto Politécnico de Viseu,3180,Escola Superior de Educação de Viseu,3181,Público,Politécnico,Educação Social,9084,Licenciatura,248,Sim,39,"15,7",2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Química,9223,Licenciatura,96,Sim,15,"15,6",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Letras,1107,Público,Universitário,Ciência da Informação,9694,Licenciatura,128,Sim,20,"15,6",2009/10_2012/13,DGES
+Instituto Politécnico de Santarém,3140,Escola Superior de Desporto de Rio Maior,3145,Público,Politécnico,Gestão das Organizações Desportivas,9763,Licenciatura,51,Sim,8,"15,6",2009/10_2012/13,DGES
+Instituto Politécnico de Viana do Castelo,3160,Escola Superior de Tecnologia e Gestão,3163,Público,Politécnico,Engenharia Civil e do Ambiente,9743,Licenciatura,172,Sim,27,"15,6",2009/10_2012/13,DGES
+Instituto Superior de Tecnologias Avançadas de Lisboa (Porto),4531,Instituto Superior de Tecnologias Avançadas de Lisboa (Porto),4531,Privado,Politécnico,Informática,9185,Licenciatura,45,Sim,7,"15,6",2009/10_2012/13,DGEEC
+Escola Superior de Educação de Fafe,4076,Escola Superior de Educação de Fafe,4076,Privado,Politécnico,Educação Básica,9853,Licenciatura,103,Sim,16,"15,5",2009/10_2012/13,DGEEC
+Instituto Politécnico do Porto,3130,Escola Superior de Tecnologia da Saúde do Porto,7230,Público,Politécnico,Radiologia,9505,Licenciatura,180,Sim,28,"15,5",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Letras,505,Público,Universitário,História,9181,Licenciatura,123,Sim,19,"15,4",2009/10_2012/13,DGES
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,Comunicação e Jornalismo,9662,Licenciatura,78,Sim,12,"15,4",2009/10_2012/13,DGEEC
+Universidade Lusófona do Porto,4032,Universidade Lusófona do Porto,4032,Privado,Universitário,Direito,9078,Licenciatura,227,Sim,35,"15,4",2009/10_2012/13,DGEEC
+Universidade de Coimbra,500,Faculdade de Letras,505,Público,Universitário,Jornalismo,9191,Licenciatura,183,Sim,28,"15,3",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Psicologia e de Ciências da Educação,1109,Público,Universitário,Ciências da Educação,9026,Licenciatura,202,Sim,31,"15,3",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Artes e Design das Caldas da Rainha,3103,Público,Politécnico,Design de Ambientes,9723,Licenciatura,91,Sim,14,"15,3",2009/10_2012/13,DGES
+Instituto Politécnico de Santarém,3140,Escola Superior de Desporto de Rio Maior,3145,Público,Politécnico,"Desporto, Condição Física e Saúde",L034,Licenciatura,104,Sim,16,"15,3",2009/10_2012/13,DGES
+Instituto Politécnico de Viseu,3180,Escola Superior de Educação de Viseu,3181,Público,Politécnico,Desporto e Actividade Física,9850,Licenciatura,124,Sim,19,"15,3",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Administração Pública,9002,Licenciatura,184,Sim,28,"15,2",2009/10_2012/13,DGES
+Universidade da Beira Interior,400,Universidade da Beira Interior,400,Público,Universitário,Engenharia Civil,9360,Mestrado Integrado,125,Sim,19,"15,2",2009/10_2012/13,DGES
+Universidade Portucalense Infante D. Henrique,2500,Universidade Portucalense Infante D. Henrique,2500,Privado,Universitário,Psicologia,9219,Licenciatura,92,Sim,14,"15,2",2009/10_2012/13,DGEEC
+Universidade de Aveiro,300,Instituto Superior de Contabilidade e Administração de Aveiro,3011,Público,Politécnico,Marketing,9205,Licenciatura,144,Sim,22,"15,2",2009/10_2012/13,DGES
+Instituto Politécnico de Bragança,3040,Escola Superior de Tecnologia e de Gestão de Bragança,3043,Público,Politécnico,Engenharia Civil,9089,Licenciatura,125,Sim,19,"15,2",2009/10_2012/13,DGES
+Escola Superior de Actividades Imobiliárias,4020,Escola Superior de Actividades Imobiliárias,4020,Privado,Universitário,Gestão Imobiliária,9174,Licenciatura,92,Sim,14,"15,2",2009/10_2012/13,DGEEC
+Instituto Superior de Administração e Gestão,4200,Instituto Superior de Administração e Gestão,4200,Privado,Politécnico,Gestão Hoteleira,9173,Licenciatura,73,Sim,11,"15,1",2009/10_2012/13,DGEEC
+Universidade da Beira Interior,400,Universidade da Beira Interior,400,Público,Universitário,Design Industrial,9074,Licenciatura,106,Sim,16,15,2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Direito,1114,Público,Universitário,Direito,9078,Licenciatura,464,Sim,70,15,2009/10_2012/13,DGES
+Instituto Politécnico do Cávado e do Ave,3030,Escola Superior de Gestão,3031,Público,Politécnico,Gestão Bancária e Seguros,9920,Licenciatura,113,Sim,17,15,2009/10_2012/13,DGES
+Instituto Politécnico de Portalegre,3120,Escola Superior de Tecnologia e Gestão,3122,Público,Politécnico,Engenharia das Energias Renováveis e Ambiente,9856,Licenciatura,60,Sim,9,15,2009/10_2012/13,DGES
+Instituto Politécnico de Viana do Castelo,3160,Escola Superior de Tecnologia e Gestão,3163,Público,Politécnico,Turismo,9254,Licenciatura,180,Sim,27,15,2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Ciências e Tecnologia,501,Público,Universitário,Arquitectura,9257,Mestrado Integrado,221,Sim,33,"14,9",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Ciências Sociais e Humanas,902,Público,Universitário,Antropologia,9448,Licenciatura,127,Sim,19,"14,9",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Arquitectura,1501,Público,Universitário,Arquitectura,9257,Mestrado Integrado,428,Sim,64,"14,9",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Arquitectura,1501,Público,Universitário,"Arquitetura, na área de especialização em Urbanismo",G004,Mestrado Integrado,154,Sim,23,"14,9",2009/10_2012/13,DGES
+Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Design e Tecnologia das Artes Gráficas,9644,Licenciatura,154,Sim,23,"14,9",2009/10_2012/13,DGES
+Instituto Universitário da Maia - ISMAI,4358,Instituto Universitário da Maia - ISMAI,4358,Privado,Universitário,Gestão de Empresas,9152,Licenciatura,249,Sim,37,"14,9",2009/10_2012/13,DGEEC
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Engenharia Civil,9360,Mestrado Integrado,412,Sim,61,"14,8",2009/10_2012/13,DGES
+Universidade Autónoma de Lisboa Luís de Camões,2100,Universidade Autónoma de Lisboa Luís de Camões,2100,Privado,Universitário,Arquitectura,9257,Mestrado Integrado,81,Sim,12,"14,8",2009/10_2012/13,DGEEC
+Instituto Politécnico de Beja,3020,Escola Superior de Educação,3022,Público,Politécnico,Serviço Social,9238,Licenciatura,215,Sim,32,"14,8",2009/10_2012/13,DGES
+Instituto Politécnico do Cávado e do Ave,3030,Escola Superior de Tecnologia,3032,Público,Politécnico,Design Industrial,9074,Licenciatura,141,Sim,21,"14,8",2009/10_2012/13,DGES
+Instituto Politécnico de Bragança,3040,Escola Superior de Educação de Bragança,3042,Público,Politécnico,Música,9214,Licenciatura,47,Sim,7,"14,8",2009/10_2012/13,DGES
+Instituto Politécnico de Coimbra,3060,Escola Superior de Educação de Coimbra,3062,Público,Politécnico,Turismo,9254,Licenciatura,188,Sim,28,"14,8",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Línguas e Estudos Editoriais,9194,Licenciatura,68,Sim,10,"14,7",2009/10_2012/13,DGES
+Universidade de Évora,600,Escola de Ciências e Tecnologia,602,Público,Universitário,Geografia,9143,Licenciatura,34,Sim,5,"14,7",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Letras,1107,Público,Universitário,Geografia,9143,Licenciatura,203,Sim,30,"14,7",2009/10_2012/13,DGES
+Universidade Lusíada do Porto,2401,Universidade Lusíada do Porto,2401,Privado,Universitário,Direito,9078,Licenciatura,448,Sim,66,"14,7",2009/10_2012/13,DGEEC
+Instituto Politécnico de Coimbra,3060,Escola Superior Agrária de Coimbra,3061,Público,Politécnico,Tecnologia e Gestão Ambiental,L024,Licenciatura,149,Sim,22,"14,7",2009/10_2012/13,DGES
+Universidade Lusófona do Porto,4032,Universidade Lusófona do Porto,4032,Privado,Universitário,Gestão,9147,Licenciatura,102,Sim,15,"14,7",2009/10_2012/13,DGEEC
+Universidade Católica Portuguesa,2200,Escola das Artes,2265,Privado,Universitário,Som e Imagem,9457,Licenciatura,205,Sim,30,"14,6",2009/10_2012/13,DGEEC
+Instituto Politécnico de Castelo Branco,3050,Escola Superior Agrária de Castelo Branco,3051,Público,Politécnico,Enfermagem Veterinária,9085,Licenciatura,89,Sim,13,"14,6",2009/10_2012/13,DGES
+Instituto Politécnico de Coimbra,3060,Instituto Superior de Engenharia de Coimbra,3064,Público,Politécnico,Engenharia Civil,9089,Licenciatura,267,Sim,39,"14,6",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Tecnologia e Gestão,3102,Público,Politécnico,Administração Pública,9002,Licenciatura,109,Sim,16,"14,6",2009/10_2012/13,DGES
+Instituto Politécnico de Viseu,3180,Escola Superior de Tecnologia e Gestão de Viseu,3182,Público,Politécnico,Engenharia do Ambiente,9099,Licenciatura,89,Sim,13,"14,6",2009/10_2012/13,DGES
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,Informática de Gestão,9186,Licenciatura,76,Sim,11,"14,5",2009/10_2012/13,DGEEC
+Instituto Superior de Administração e Gestão,4200,Instituto Superior de Administração e Gestão,4200,Privado,Politécnico,Turismo,9254,Licenciatura,110,Sim,16,"14,5",2009/10_2012/13,DGEEC
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Economia,9081,Licenciatura,249,Sim,36,"14,4",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Motricidade Humana,1510,Público,Universitário,Gestão do Desporto,9162,Licenciatura,83,Sim,12,"14,4",2009/10_2012/13,DGES
+Instituto Politécnico de Castelo Branco,3050,Escola Superior Agrária de Castelo Branco,3051,Público,Politécnico,Engenharia de Protecção Civil,8397,Licenciatura,83,Sim,12,"14,4",2009/10_2012/13,DGES
+Instituto Politécnico de Viseu,3180,Escola Superior Agrária de Viseu,3185,Público,Politécnico,Enfermagem Veterinária,9085,Licenciatura,166,Sim,24,"14,4",2009/10_2012/13,DGES
+Instituto Politécnico de Viseu,3180,Escola Superior de Tecnologia e Gestão de Lamego,3186,Público,Politécnico,Serviço Social,9238,Licenciatura,277,Sim,40,"14,4",2009/10_2012/13,DGES
+CESPU-Instituto Politécnico de Saúde do Norte,4107,Escola Superior de Saúde do Vale do Ave,4108,Privado,Politécnico,Enfermagem,9500,Licenciatura,298,Sim,43,"14,4",2009/10_2012/13,DGEEC
+Instituto Superior de Ciências da Saúde Egas Moniz,4260,Instituto Superior de Ciências da Saúde Egas Moniz,4260,Privado,Universitário,Ciências Forenses e Criminais,8059,Licenciatura,90,Sim,13,"14,4",2009/10_2012/13,DGEEC
+Universidade Lusófona do Porto,4032,Universidade Lusófona do Porto,4032,Privado,Universitário,Gestão e Engenharia Industrial,9167,Licenciatura,49,Sim,7,"14,3",2009/10_2012/13,DGEEC
+Instituto Superior de Ciências Empresariais e do Turismo,4280,Instituto Superior de Ciências Empresariais e do Turismo,4280,Privado,Politécnico,Solicitadoria,9242,Licenciatura,98,Sim,14,"14,3",2009/10_2012/13,DGEEC
+Universidade do Porto,1100,Faculdade de Letras,1107,Público,Universitário,Filosofia,9139,Licenciatura,154,Sim,22,"14,2",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Ciências,1503,Público,Universitário,Estatística Aplicada,9381,Licenciatura,42,Sim,6,"14,2",2009/10_2012/13,DGES
+Instituto Politécnico de Bragança,3040,Escola Superior de Tecnologia e de Gestão de Bragança,3043,Público,Politécnico,Engenharia Química e Biológica,9126,Licenciatura,35,Sim,5,"14,2",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Estudos Industriais e de Gestão,3133,Público,Politécnico,Recursos Humanos,9227,Licenciatura,126,Sim,18,"14,2",2009/10_2012/13,DGES
+Instituto Politécnico de Santarém,3140,Escola Superior de Desporto de Rio Maior,3145,Público,Politécnico,Treino Desportivo,9808,Licenciatura,140,Sim,20,"14,2",2009/10_2012/13,DGES
+Instituto Superior de Novas Profissões,4150,Instituto Superior de Novas Profissões,4150,Privado,Politécnico,Turismo,9254,Licenciatura,106,Sim,15,"14,2",2009/10_2012/13,DGEEC
+Instituto Politécnico de Lisboa,3110,Escola Superior de Tecnologia da Saúde de Lisboa,7220,Público,Politécnico,Radioterapia,8153,Licenciatura,126,Sim,18,"14,2",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Tecnologia da Saúde do Porto,7230,Público,Politécnico,Análises Clínicas e de Saúde Pública,9497,Licenciatura,112,Sim,16,"14,2",2009/10_2012/13,DGES
+Instituto Politécnico de Portalegre,3120,Escola Superior de Tecnologia e Gestão,3122,Público,Politécnico,Administração de Publicidade e Marketing,9670,Licenciatura,99,Sim,14,"14,1",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Educação,3131,Público,Politécnico,Gestão do Património,9767,Licenciatura,141,Sim,20,"14,1",2009/10_2012/13,DGES
+Universidade Católica Portuguesa,2200,Faculdade de Ciências Humanas,2220,Privado,Universitário,Serviço Social,9238,Licenciatura,121,Sim,17,14,2009/10_2012/13,DGEEC
+Universidade Católica Portuguesa,2200,Faculdade de Ciências Sociais,2221,Privado,Universitário,Tecnologias de Informação e Comunicação,9250,Licenciatura,50,Sim,7,14,2009/10_2012/13,DGEEC
+Universidade Católica Portuguesa,2200,Faculdade de Filosofia,2230,Privado,Universitário,Psicologia,9219,Licenciatura,178,Sim,25,14,2009/10_2012/13,DGEEC
+Universidade Lusíada do Porto,2401,Universidade Lusíada do Porto,2401,Privado,Universitário,Economia,9081,Licenciatura,107,Sim,15,14,2009/10_2012/13,DGEEC
+Instituto Politécnico de Leiria,3100,Escola Superior de Educação e Ciências Sociais,3101,Público,Politécnico,Educação Social,9084,Licenciatura,327,Sim,46,14,2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Geografia e Planeamento,8183,Licenciatura,115,Sim,16,"13,9",2009/10_2012/13,DGES
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,Engenharia Biotecnológica,9088,Licenciatura,36,Sim,5,"13,9",2009/10_2012/13,DGEEC
+Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Comunicação Social,9054,Licenciatura,86,Sim,12,"13,9",2009/10_2012/13,DGES
+Instituto Superior de Comunicação Empresarial,4295,Instituto Superior de Comunicação Empresarial,4295,Privado,Politécnico,Gestão de Marketing,9156,Licenciatura,79,Sim,11,"13,9",2009/10_2012/13,DGEEC
+Instituto Politécnico de Coimbra,3060,Escola Superior de Tecnologia da Saúde de Coimbra,7210,Público,Politécnico,Dietética e Nutrição,8149,Licenciatura,43,Sim,6,"13,9",2009/10_2012/13,DGES
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,Biologia,9011,Licenciatura,58,Sim,8,"13,8",2009/10_2012/13,DGEEC
+Instituto Politécnico de Leiria,3100,Escola Superior de Artes e Design das Caldas da Rainha,3103,Público,Politécnico,Teatro,9243,Licenciatura,65,Sim,9,"13,8",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Tecnologia e Gestão de Felgueiras,3138,Público,Politécnico,Ciências Empresariais,9045,Licenciatura,94,Sim,13,"13,8",2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Administração Pública,9002,Licenciatura,196,Sim,27,"13,7",2009/10_2012/13,DGES
+Universidade Fernando Pessoa,2750,Escola Superior de Saúde,2752,Privado,Politécnico,Enfermagem,9500,Licenciatura,182,Sim,25,"13,7",2009/10_2012/13,DGEEC
+Instituto Politécnico da Guarda,3090,Escola Superior de Turismo e Hotelaria,3095,Público,Politécnico,Turismo e Lazer,9255,Licenciatura,80,Sim,11,"13,7",2009/10_2012/13,DGES
+Universidade do Algarve,200,Faculdade de Ciências Humanas e Sociais,201,Público,Universitário,Línguas e Comunicação,9834,Licenciatura,44,Sim,6,"13,6",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Direito,1114,Público,Universitário,Criminologia,9066,Licenciatura,110,Sim,15,"13,6",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Letras,1506,Público,Universitário,Arqueologia,9006,Licenciatura,66,Sim,9,"13,6",2009/10_2012/13,DGES
+Instituto Politécnico de Castelo Branco,3050,Escola Superior de Educação de Castelo Branco,3052,Público,Politécnico,Desporto e Actividade Física,9850,Licenciatura,117,Sim,16,"13,6",2009/10_2012/13,DGES
+Instituto Politécnico de Santarém,3140,Escola Superior de Educação de Santarém,3142,Público,Politécnico,Artes Plásticas e Multimédia,9347,Licenciatura,66,Sim,9,"13,6",2009/10_2012/13,DGES
+Instituto Politécnico de Setúbal,3150,Escola Superior de Tecnologia do Barreiro,3154,Público,Politécnico,Engenharia Civil,9089,Licenciatura,183,Sim,25,"13,6",2009/10_2012/13,DGES
+Universidade Lusófona do Porto,4032,Universidade Lusófona do Porto,4032,Privado,Universitário,Engenharia Informática,9119,Licenciatura,44,Sim,6,"13,6",2009/10_2012/13,DGEEC
+Instituto Superior de Comunicação Empresarial,4295,Instituto Superior de Comunicação Empresarial,4295,Privado,Politécnico,Comunicação Empresarial,9053,Licenciatura,140,Sim,19,"13,6",2009/10_2012/13,DGEEC
+Universidade de Évora,600,Escola de Ciências e Tecnologia,602,Público,Universitário,Bioquímica,9015,Licenciatura,81,Sim,11,"13,5",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Letras,1107,Público,Universitário,"Ciências da Comunicação: Jornalismo, Assessoria, Multimédia",9701,Licenciatura,295,Sim,40,"13,5",2009/10_2012/13,DGES
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,"Contabilidade, Fiscalidade e Auditoria",9065,Licenciatura,163,Sim,22,"13,5",2009/10_2012/13,DGEEC
+Instituto Politécnico de Beja,3020,Escola Superior de Educação,3022,Público,Politécnico,Desporto,9563,Licenciatura,111,Sim,15,"13,5",2009/10_2012/13,DGES
+Universidade do Algarve,200,"Escola Superior de Gestão, Hotelaria e Turismo (Portimão)",3087,Público,Politécnico,Informação e Animação Turística,9383,Licenciatura,59,Sim,8,"13,5",2009/10_2012/13,DGES
+Instituto Politécnico da Guarda,3090,Escola Superior de Tecnologia e Gestão,3092,Público,Politécnico,Contabilidade,9056,Licenciatura,133,Sim,18,"13,5",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Tecnologia e Gestão,3102,Público,Politécnico,Protecção Civil,9218,Licenciatura,74,Sim,10,"13,5",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Tecnologia e Gestão,3102,Público,Politécnico,Tecnologia dos Equipamentos de Saúde,9489,Licenciatura,96,Sim,13,"13,5",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Artes e Design das Caldas da Rainha,3103,Público,Politécnico,Design de Produto - Cerâmica e Vidro,8525,Licenciatura,37,Sim,5,"13,5",2009/10_2012/13,DGES
+Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão Turística e Cultural,9641,Licenciatura,103,Sim,14,"13,5",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Tecnologia da Saúde do Porto,7230,Público,Politécnico,"Anatomia Patológica, Citológica e Tanatológica",8139,Licenciatura,74,Sim,10,"13,5",2009/10_2012/13,DGES
+Universidade de Évora,600,Escola de Ciências Sociais,604,Público,Universitário,Economia,9081,Licenciatura,126,Sim,17,"13,4",2009/10_2012/13,DGES
+Universidade Fernando Pessoa,2750,Universidade Fernando Pessoa,2750,Privado,Universitário,Engenharia Informática,9119,Licenciatura,67,Sim,9,"13,4",2009/10_2012/13,DGEEC
+Instituto Politécnico do Cávado e do Ave,3030,Escola Superior de Gestão,3031,Público,Politécnico,Solicitadoria,9242,Licenciatura,238,Sim,32,"13,4",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Estudos Industriais e de Gestão,3133,Público,Politécnico,Gestão e Administração Hoteleira,9164,Licenciatura,141,Sim,19,"13,4",2009/10_2012/13,DGES
+Universidade de Évora,600,Escola de Ciências Sociais,604,Público,Universitário,História e Arqueologia,8251,Licenciatura,45,Sim,6,"13,3",2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Ciências da Comunicação,9023,Licenciatura,255,Sim,34,"13,3",2009/10_2012/13,DGES
+Universidade Lusíada,2400,Universidade Lusíada,2400,Privado,Universitário,Psicologia,9219,Licenciatura,90,Sim,12,"13,3",2009/10_2012/13,DGEEC
+Instituto Politécnico de Coimbra,3060,Escola Superior Agrária de Coimbra,3061,Público,Politécnico,Tecnologia Alimentar,L015,Licenciatura,187,Sim,25,"13,3",2009/10_2012/13,DGES
+Instituto Politécnico de Portalegre,3120,Escola Superior de Tecnologia e Gestão,3122,Público,Politécnico,Relações Públicas e Secretariado,8394,Licenciatura,90,Sim,12,"13,3",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Instituto Superior de Contabilidade e Administração do Porto,3134,Público,Politécnico,Marketing,9205,Licenciatura,240,Sim,32,"13,3",2009/10_2012/13,DGES
+Instituto Superior Miguel Torga,4500,Instituto Superior Miguel Torga,4500,Privado,Universitário,Informática de Gestão,9186,Licenciatura,30,Sim,4,"13,3",2009/10_2012/13,DGEEC
+Universidade do Porto,1100,Faculdade de Letras,1107,Público,Universitário,Arqueologia,9006,Licenciatura,113,Sim,15,"13,2",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Medicina Dentária,1508,Público,Universitário,Prótese Dentária,9791,Licenciatura,166,Sim,22,"13,2",2009/10_2012/13,DGES
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,Ciências da Comunicação e da Cultura,9024,Licenciatura,129,Sim,17,"13,2",2009/10_2012/13,DGEEC
+Instituto Politécnico de Castelo Branco,3050,Escola Superior de Gestão de Idanha-a-Nova,3054,Público,Politécnico,Solicitadoria,9242,Licenciatura,189,Sim,25,"13,2",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Educação,3131,Público,Politécnico,Línguas e Culturas Estrangeiras,8002,Licenciatura,53,Sim,7,"13,2",2009/10_2012/13,DGES
+Instituto Politécnico de Viseu,3180,Escola Superior de Tecnologia e Gestão de Viseu,3182,Público,Politécnico,Gestão de Empresas,9152,Licenciatura,151,Sim,20,"13,2",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Letras,1107,Público,Universitário,História da Arte,9182,Licenciatura,91,Sim,12,"13,1",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Arquitectura,1501,Público,Universitário,Design,9069,Licenciatura,144,Sim,19,"13,1",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Turismo e Tecnologia do Mar de Peniche,3105,Público,Politécnico,Marketing Turístico,9207,Licenciatura,160,Sim,21,"13,1",2009/10_2012/13,DGES
+Instituto Português de Administração de Marketing de Matosinhos (Aveiro),4157,Instituto Português de Administração de Marketing de Matosinhos (Aveiro),4157,Privado,Politécnico,Gestão de Marketing,9156,Licenciatura,175,Sim,23,"13,1",2009/10_2012/13,DGEEC
+Instituto Universitário da Maia - ISMAI,4358,Instituto Universitário da Maia - ISMAI,4358,Privado,Universitário,Psicologia,9219,Licenciatura,419,Sim,55,"13,1",2009/10_2012/13,DGEEC
+Universidade do Porto,1100,Faculdade de Ciências da Nutrição e da Alimentação,1101,Público,Universitário,Ciências da Nutrição,9554,Licenciatura,338,Sim,44,13,2009/10_2012/13,DGES
+Universidade Autónoma de Lisboa Luís de Camões,2100,Universidade Autónoma de Lisboa Luís de Camões,2100,Privado,Universitário,Psicologia,9219,Licenciatura,69,Sim,9,13,2009/10_2012/13,DGEEC
+Instituto Politécnico do Cávado e do Ave,3030,Escola Superior de Gestão,3031,Público,Politécnico,Finanças,9140,Licenciatura,146,Sim,19,13,2009/10_2012/13,DGES
+Instituto Politécnico de Coimbra,3060,Escola Superior de Educação de Coimbra,3062,Público,Politécnico,Teatro e Educação,9899,Licenciatura,46,Sim,6,13,2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Estudos Industriais e de Gestão,3133,Público,Politécnico,Design,9069,Licenciatura,146,Sim,19,13,2009/10_2012/13,DGES
+Instituto Politécnico de Viseu,3180,Escola Superior de Tecnologia e Gestão de Lamego,3186,Público,Politécnico,Gestão e Informática,9168,Licenciatura,69,Sim,9,13,2009/10_2012/13,DGES
+Instituto Superior Politécnico Gaya,4440,Escola Superior de Ciência e Tecnologia,4442,Privado,Politécnico,Engenharia Electrónica e de Automação,9106,Licenciatura,46,Sim,6,13,2009/10_2012/13,DGEEC
+Universidade Católica Portuguesa,2200,Escola Superior de Biotecnologia,2210,Privado,Universitário,Microbiologia,8257,Licenciatura,31,Sim,4,"12,9",2009/10_2012/13,DGEEC
+Instituto Politécnico de Coimbra,3060,Escola Superior de Educação de Coimbra,3062,Público,Politécnico,Comunicação Social,9054,Licenciatura,170,Sim,22,"12,9",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Educação e Ciências Sociais,3101,Público,Politécnico,Desporto e Bem-Estar,9851,Licenciatura,178,Sim,23,"12,9",2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Escola Superior de Educação de Lisboa,3112,Público,Politécnico,Animação Sociocultural,9005,Licenciatura,162,Sim,21,"12,9",2009/10_2012/13,DGES
+Instituto Politécnico de Viseu,3180,Escola Superior de Tecnologia e Gestão de Viseu,3182,Público,Politécnico,Turismo,9254,Licenciatura,155,Sim,20,"12,9",2009/10_2012/13,DGES
+Instituto Superior de Ciências Educativas,4270,Instituto Superior de Ciências Educativas,4270,Privado,Politécnico,Turismo,9254,Licenciatura,62,Sim,8,"12,9",2009/10_2012/13,DGEEC
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Engenharia e Gestão de Sistemas de Informação,G001,Mestrado Integrado,226,Sim,29,"12,8",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Letras,1107,Público,Universitário,História,9181,Licenciatura,202,Sim,26,"12,8",2009/10_2012/13,DGES
+Instituto Politécnico de Beja,3020,Escola Superior de Educação,3022,Público,Politécnico,Educação e Comunicação Multimédia,9354,Licenciatura,101,Sim,13,"12,8",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Educação e Ciências Sociais,3101,Público,Politécnico,Serviço Social,9238,Licenciatura,405,Sim,52,"12,8",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Educação,3131,Público,Politécnico,Ciências do Desporto,9707,Licenciatura,78,Sim,10,"12,8",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Ciências,1103,Público,Universitário,Química,9223,Licenciatura,212,Sim,27,"12,7",2009/10_2012/13,DGES
+Instituto Superior Miguel Torga,4500,Instituto Superior Miguel Torga,4500,Privado,Universitário,Comunicação Empresarial,9053,Licenciatura,126,Sim,16,"12,7",2009/10_2012/13,DGEEC
+Universidade da Beira Interior,400,Universidade da Beira Interior,400,Público,Universitário,Gestão,9147,Licenciatura,189,Sim,24,"12,6",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Escola Superior de Saúde de Aveiro,3013,Público,Politécnico,Fisioterapia,9504,Licenciatura,87,Sim,11,"12,6",2009/10_2012/13,DGES
+Instituto Politécnico de Castelo Branco,3050,Escola Superior de Gestão de Idanha-a-Nova,3054,Público,Politécnico,Contabilidade e Gestão Financeira,9063,Licenciatura,87,Sim,11,"12,6",2009/10_2012/13,DGES
+Instituto Politécnico de Coimbra,3060,Instituto Superior de Contabilidade e Administração de Coimbra,3063,Público,Politécnico,Gestão de Empresas,9152,Licenciatura,324,Sim,41,"12,6",2009/10_2012/13,DGES
+Universidade do Algarve,200,Escola Superior de Educação e Comunicação,3081,Público,Politécnico,Educação Social,9084,Licenciatura,189,Sim,24,"12,6",2009/10_2012/13,DGES
+Instituto Politécnico da Guarda,3090,"Escola Superior de Educação, Comunicação e Desporto",3091,Público,Politécnico,Comunicação e Relações Públicas,9652,Licenciatura,103,Sim,13,"12,6",2009/10_2012/13,DGES
+Instituto Superior de Ciências da Saúde - Norte,4261,Instituto Superior de Ciências da Saúde - Norte,4261,Privado,Universitário,Ciências Farmacêuticas,9494,Mestrado Integrado,206,Sim,26,"12,6",2009/10_2012/13,DGEEC
+Instituto Politécnico de Bragança,3040,Escola Superior de Saúde de Bragança,7015,Público,Politécnico,Farmácia,9549,Licenciatura,150,Sim,19,"12,6",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Letras,505,Público,Universitário,Estudos Artísticos,9132,Licenciatura,127,Sim,16,"12,5",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Letras,505,Público,Universitário,Geografia,9143,Licenciatura,176,Sim,22,"12,5",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Ciências Sociais e Humanas,902,Público,Universitário,Geografia e Planeamento Regional,9145,Licenciatura,224,Sim,28,"12,5",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Letras,1107,Público,Universitário,Estudos Portugueses e Lusófonos,9138,Licenciatura,48,Sim,6,"12,5",2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências da Vida e do Ambiente,1204,Público,Universitário,Bioengenharia,9540,Licenciatura,32,Sim,4,"12,5",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Belas-Artes,1502,Público,Universitário,Design de Equipamento,9072,Licenciatura,128,Sim,16,"12,5",2009/10_2012/13,DGES
+Universidade Lusíada,2400,Universidade Lusíada,2400,Privado,Universitário,Turismo,9254,Licenciatura,56,Sim,7,"12,5",2009/10_2012/13,DGEEC
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,Direito,9078,Licenciatura,375,Sim,47,"12,5",2009/10_2012/13,DGEEC
+Instituto Politécnico da Guarda,3090,Escola Superior de Tecnologia e Gestão,3092,Público,Politécnico,Engenharia Civil,9089,Licenciatura,88,Sim,11,"12,5",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Artes e Design das Caldas da Rainha,3103,Público,Politécnico,Design Gráfico e Multimédia,9729,Licenciatura,342,Sim,43,"12,5",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Turismo e Tecnologia do Mar de Peniche,3105,Público,Politécnico,Tecnologia e Segurança Alimentar,L028,Licenciatura,128,Sim,16,"12,5",2009/10_2012/13,DGES
+Instituto Politécnico de Portalegre,3120,Escola Superior Agrária,3123,Público,Politécnico,Equinicultura,9130,Licenciatura,32,Sim,4,"12,5",2009/10_2012/13,DGES
+Instituto Português de Administração de Marketing de Lisboa,4156,Instituto Português de Administração de Marketing de Lisboa,4156,Privado,Politécnico,Gestão de Marketing,9156,Licenciatura,480,Sim,60,"12,5",2009/10_2012/13,DGEEC
+Instituto Superior Manuel Teixeira Gomes,4375,Instituto Superior Manuel Teixeira Gomes,4375,Privado,Universitário,Psicologia,9219,Licenciatura,72,Sim,9,"12,5",2009/10_2012/13,DGEEC
+Instituto Politécnico de Bragança,3040,Escola Superior de Tecnologia e de Gestão de Bragança,3043,Público,Politécnico,Contabilidade,9056,Licenciatura,129,Sim,16,"12,4",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Educação e Ciências Sociais,3101,Público,Politécnico,Relações Humanas e Comunicação Organizacional,9797,Licenciatura,137,Sim,17,"12,4",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Instituto Superior de Contabilidade e Administração de Aveiro,3011,Público,Politécnico,Finanças,9140,Licenciatura,113,Sim,14,"12,3",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Escola Superior de Tecnologia e Gestão de Águeda,3012,Público,Politécnico,Gestão Pública e Autárquica,9769,Licenciatura,89,Sim,11,"12,3",2009/10_2012/13,DGES
+Instituto Politécnico de Viana do Castelo,3160,Escola Superior de Tecnologia e Gestão,3163,Público,Politécnico,Gestão,9147,Licenciatura,194,Sim,24,"12,3",2009/10_2012/13,DGES
+Universidade do Algarve,200,Escola Superior de Saúde,7035,Público,Politécnico,Farmácia,9549,Licenciatura,73,Sim,9,"12,3",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Arquitectura,1102,Público,Universitário,Arquitectura,9257,Mestrado Integrado,537,Sim,66,"12,2",2009/10_2012/13,DGES
+Universidade Lusíada do Porto,2401,Universidade Lusíada do Porto,2401,Privado,Universitário,Gestão de Empresa,9151,Licenciatura,180,Sim,22,"12,2",2009/10_2012/13,DGEEC
+Universidade Lusíada de Vila Nova de Famalicão,2402,Universidade Lusíada de Vila Nova de Famalicão,2402,Privado,Universitário,Design,9069,Licenciatura,49,Sim,6,"12,2",2009/10_2012/13,DGEEC
+Instituto Politécnico de Santarém,3140,Escola Superior de Gestão e Tecnologia de Santarém,3143,Público,Politécnico,Gestão de Empresas,9152,Licenciatura,147,Sim,18,"12,2",2009/10_2012/13,DGES
+Instituto Politécnico da Guarda,3090,Escola Superior de Saúde da Guarda,7040,Público,Politécnico,Farmácia,9549,Licenciatura,98,Sim,12,"12,2",2009/10_2012/13,DGES
+Universidade de Évora,600,Escola de Ciências e Tecnologia,602,Público,Universitário,Engenharia de Energias Renováveis,9910,Licenciatura,41,Sim,5,"12,1",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior de Ciências Sociais e Políticas,1516,Público,Universitário,Serviço Social,9238,Licenciatura,255,Sim,31,"12,1",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Turismo e Tecnologia do Mar de Peniche,3105,Público,Politécnico,Biologia Marinha e Biotecnologia,9014,Licenciatura,156,Sim,19,"12,1",2009/10_2012/13,DGES
+Instituto Politécnico de Setúbal,3150,Escola Superior de Saúde,3155,Público,Politécnico,Terapia da Fala,9890,Licenciatura,82,Sim,10,"12,1",2009/10_2012/13,DGES
+Instituto Politécnico de Viana do Castelo,3160,Escola Superior Agrária,3161,Público,Politécnico,Enfermagem Veterinária,9085,Licenciatura,82,Sim,10,"12,1",2009/10_2012/13,DGES
+Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Conservação e Restauro,9380,Licenciatura,99,Sim,12,"12,1",2009/10_2012/13,DGES
+Universidade do Algarve,200,Faculdade de Economia,204,Público,Universitário,Gestão de Empresas,9152,Licenciatura,216,Sim,26,12,2009/10_2012/13,DGES
+Universidade da Beira Interior,400,Universidade da Beira Interior,400,Público,Universitário,Ciências Farmacêuticas,9494,Mestrado Integrado,116,Sim,14,12,2009/10_2012/13,DGES
+Universidade Fernando Pessoa,2750,Escola Superior de Saúde,2752,Privado,Politécnico,Terapêutica da Fala,9506,Licenciatura,92,Sim,11,12,2009/10_2012/13,DGEEC
+Instituto Politécnico de Coimbra,3060,Escola Superior de Educação de Coimbra,3062,Público,Politécnico,Animação Socioeducativa,9675,Licenciatura,257,Sim,31,12,2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Turismo e Tecnologia do Mar de Peniche,3105,Público,Politécnico,Animação Turística,9848,Licenciatura,50,Sim,6,12,2009/10_2012/13,DGES
+Instituto Politécnico de Portalegre,3120,Escola Superior Agrária,3123,Público,Politécnico,Enfermagem Veterinária,9085,Licenciatura,133,Sim,16,12,2009/10_2012/13,DGES
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,Medicina Veterinária,9847,Mestrado Integrado,101,Sim,12,"11,9",2009/10_2012/13,DGEEC
+Instituto Politécnico de Bragança,3040,Escola Superior de Educação de Bragança,3042,Público,Politécnico,Desporto,9563,Licenciatura,126,Sim,15,"11,9",2009/10_2012/13,DGES
+Instituto Politécnico de Castelo Branco,3050,Escola Superior de Tecnologia de Castelo Branco,3053,Público,Politécnico,Engenharia Civil,9089,Licenciatura,84,Sim,10,"11,9",2009/10_2012/13,DGES
+Instituto Politécnico de Coimbra,3060,Instituto Superior de Contabilidade e Administração de Coimbra,3063,Público,Politécnico,Contabilidade e Auditoria,9061,Licenciatura,293,Sim,35,"11,9",2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Direito,9078,Licenciatura,422,Sim,50,"11,8",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Arquitectura,1501,Público,Universitário,Design de Moda,9071,Licenciatura,127,Sim,15,"11,8",2009/10_2012/13,DGES
+Universidade do Algarve,200,Instituto Superior de Engenharia,3083,Público,Politécnico,Engenharia Mecânica,9123,Licenciatura,101,Sim,12,"11,8",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Artes e Design das Caldas da Rainha,3103,Público,Politécnico,Design Industrial,9074,Licenciatura,127,Sim,15,"11,8",2009/10_2012/13,DGES
+Instituto Politécnico de Viseu,3180,Escola Superior de Tecnologia e Gestão de Viseu,3182,Público,Politécnico,Engenharia Civil,9089,Licenciatura,160,Sim,19,"11,8",2009/10_2012/13,DGES
+Instituto Superior D. Dinis,4292,Instituto Superior D. Dinis,4292,Privado,Politécnico,Contabilidade e Administração,9058,Licenciatura,34,Sim,4,"11,8",2009/10_2012/13,DGEEC
+Instituto Politécnico do Porto,3130,Escola Superior de Tecnologia da Saúde do Porto,7230,Público,Politécnico,Farmácia,9549,Licenciatura,220,Sim,26,"11,8",2009/10_2012/13,DGES
+Universidade do Algarve,200,Faculdade de Ciências Humanas e Sociais,201,Público,Universitário,Património Cultural e Arqueologia,8509,Licenciatura,60,Sim,7,"11,6",2009/10_2012/13,DGES
+Universidade do Algarve,200,Faculdade de Ciências e Tecnologia,203,Público,Universitário,Biotecnologia,9016,Licenciatura,43,Sim,5,"11,6",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Letras,505,Público,Universitário,História da Arte,9182,Licenciatura,43,Sim,5,"11,6",2009/10_2012/13,DGES
+Universidade de Évora,600,Escola de Ciências Sociais,604,Público,Universitário,Gestão,9147,Licenciatura,171,Sim,20,"11,6",2009/10_2012/13,DGES
+Universidade Católica Portuguesa,2200,Faculdade de Direito (Porto),2281,Privado,Universitário,Direito,9078,Licenciatura,498,Sim,58,"11,6",2009/10_2012/13,DGEEC
+Universidade Fernando Pessoa,2750,Universidade Fernando Pessoa (unidade de Ponte de Lima),2751,Privado,Universitário,Gestão Comercial e Contabilidade,9762,Licenciatura,43,Sim,5,"11,6",2009/10_2012/13,DGEEC
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,Psicologia,9219,Licenciatura,579,Sim,67,"11,6",2009/10_2012/13,DGEEC
+Instituto Politécnico de Coimbra,3060,Instituto Superior de Contabilidade e Administração de Coimbra,3063,Público,Politécnico,Solicitadoria e Administração,9801,Licenciatura,292,Sim,34,"11,6",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Educação e Ciências Sociais,3101,Público,Politécnico,Comunicação Social e Educação Multimédia,9719,Licenciatura,232,Sim,27,"11,6",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Educação,3131,Público,Politécnico,Artes Visuais e Tecnologias Artísticas,8264,Licenciatura,60,Sim,7,"11,6",2009/10_2012/13,DGES
+Escola Superior de Saúde Jean Piaget de Vila Nova de Gaia,4101,Escola Superior de Saúde Jean Piaget de Vila Nova de Gaia,4101,Privado,Politécnico,Enfermagem,9500,Licenciatura,284,Sim,33,"11,6",2009/10_2012/13,DGEEC
+Instituto Universitário da Maia - ISMAI,4358,Instituto Universitário da Maia - ISMAI,4358,Privado,Universitário,Contabilidade,9056,Licenciatura,69,Sim,8,"11,6",2009/10_2012/13,DGEEC
+Universidade de Coimbra,500,Faculdade de Letras,505,Público,Universitário,Estudos Europeus,9135,Licenciatura,113,Sim,13,"11,5",2009/10_2012/13,DGES
+Universidade de Évora,600,Escola de Ciências e Tecnologia,602,Público,Universitário,Biologia,9011,Licenciatura,139,Sim,16,"11,5",2009/10_2012/13,DGES
+Universidade de Évora,600,Escola de Ciências e Tecnologia,602,Público,Universitário,Reabilitação Psicomotora,9841,Licenciatura,147,Sim,17,"11,5",2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Relações Internacionais,9229,Licenciatura,252,Sim,29,"11,5",2009/10_2012/13,DGES
+Universidade Atlântica,2700,Escola Superior de Saúde Atlântica,2701,Privado,Politécnico,Fisioterapia,9504,Licenciatura,157,Sim,18,"11,5",2009/10_2012/13,DGEEC
+Instituto Politécnico de Castelo Branco,3050,Escola Superior de Gestão de Idanha-a-Nova,3054,Público,Politécnico,Gestão de Recursos Humanos,9157,Licenciatura,104,Sim,12,"11,5",2009/10_2012/13,DGES
+Instituto Politécnico de Castelo Branco,3050,Escola Superior de Artes Aplicadas de Castelo Branco,3055,Público,Politécnico,Design de Moda e Têxtil,9726,Licenciatura,104,Sim,12,"11,5",2009/10_2012/13,DGES
+Instituto Politécnico de Coimbra,3060,Escola Superior de Educação de Coimbra,3062,Público,Politécnico,Desporto e Lazer,9731,Licenciatura,121,Sim,14,"11,5",2009/10_2012/13,DGES
+Instituto Politécnico de Santarém,3140,Escola Superior de Educação de Santarém,3142,Público,Politécnico,Educação e Comunicação Multimédia,9354,Licenciatura,139,Sim,16,"11,5",2009/10_2012/13,DGES
+Universidade Europeia,4350,Universidade Europeia,4350,Privado,Universitário,"Marketing, Publicidade e Relações Públicas",9208,Licenciatura,209,Sim,24,"11,5",2009/10_2012/13,DGEEC
+Universidade do Algarve,200,Faculdade de Ciências Humanas e Sociais,201,Público,Universitário,Artes Visuais,9817,Licenciatura,96,Sim,11,"11,4",2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências Agrárias e Veterinárias,1201,Público,Universitário,Enologia,9752,Licenciatura,87,Sim,10,"11,4",2009/10_2012/13,DGES
+Instituto Politécnico de Castelo Branco,3050,Escola Superior de Gestão de Idanha-a-Nova,3054,Público,Politécnico,Gestão Hoteleira,9173,Licenciatura,96,Sim,11,"11,4",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Artes e Design das Caldas da Rainha,3103,Público,Politécnico,Som e Imagem,9457,Licenciatura,235,Sim,27,"11,4",2009/10_2012/13,DGES
+Instituto Politécnico de Setúbal,3150,Escola Superior de Ciências Empresariais,3153,Público,Politécnico,Gestão de Recursos Humanos,9157,Licenciatura,262,Sim,30,"11,4",2009/10_2012/13,DGES
+Instituto Superior Manuel Teixeira Gomes,4375,Instituto Superior Manuel Teixeira Gomes,4375,Privado,Universitário,Design de Comunicação,9070,Licenciatura,35,Sim,4,"11,4",2009/10_2012/13,DGEEC
+Instituto Politécnico do Porto,3130,Escola Superior de Tecnologia da Saúde do Porto,7230,Público,Politécnico,Cardiopneumologia,8137,Licenciatura,105,Sim,12,"11,4",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Direito,502,Público,Universitário,Administração Público-Privada,8067,Licenciatura,115,Sim,13,"11,3",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto de Geografia e Ordenamento do Território,1514,Público,Universitário,Geografia,9143,Licenciatura,282,Sim,32,"11,3",2009/10_2012/13,DGES
+Instituto Politécnico de Beja,3020,Escola Superior de Tecnologia e de Gestão,3023,Público,Politécnico,Turismo,9254,Licenciatura,97,Sim,11,"11,3",2009/10_2012/13,DGES
+Instituto Politécnico de Viana do Castelo,3160,Escola Superior de Tecnologia e Gestão,3163,Público,Politécnico,Design do Produto,9727,Licenciatura,123,Sim,14,"11,3",2009/10_2012/13,DGES
+Instituto Politécnico de Viseu,3180,Escola Superior de Tecnologia e Gestão de Viseu,3182,Público,Politécnico,Engenharia Electrotécnica,9109,Licenciatura,123,Sim,14,"11,3",2009/10_2012/13,DGES
+Universidade da Beira Interior,400,Universidade da Beira Interior,400,Público,Universitário,Ciências da Comunicação,9023,Licenciatura,204,Sim,23,"11,2",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior de Ciências Sociais e Políticas,1516,Público,Universitário,Ciência Política,9019,Licenciatura,107,Sim,12,"11,2",2009/10_2012/13,DGES
+Instituto Politécnico de Bragança,3040,Escola Superior Agrária de Bragança,3041,Público,Politécnico,Engenharia Agronómica,9086,Licenciatura,98,Sim,11,"11,2",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Tecnologia e Gestão,3102,Público,Politécnico,Marketing,9205,Licenciatura,178,Sim,20,"11,2",2009/10_2012/13,DGES
+Instituto Politécnico de Portalegre,3120,Escola Superior de Educação,3121,Público,Politécnico,Jornalismo e Comunicação,9773,Licenciatura,98,Sim,11,"11,2",2009/10_2012/13,DGES
+Instituto Superior de Tecnologias Avançadas de Lisboa,4530,Instituto Superior de Tecnologias Avançadas de Lisboa,4530,Privado,Politécnico,Engenharia Multimédia,9124,Licenciatura,125,Sim,14,"11,2",2009/10_2012/13,DGEEC
+Universidade da Beira Interior,400,Universidade da Beira Interior,400,Público,Universitário,Ciências do Desporto,9707,Licenciatura,179,Sim,20,"11,1",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Ciências,1503,Público,Universitário,Química,9223,Licenciatura,36,Sim,4,"11,1",2009/10_2012/13,DGES
+Instituto Politécnico de Coimbra,3060,Escola Superior Agrária de Coimbra,3061,Público,Politécnico,Ciências Florestais e Recursos Naturais,L009,Licenciatura,81,Sim,9,"11,1",2009/10_2012/13,DGES
+Instituto Politécnico de Coimbra,3060,Instituto Superior de Engenharia de Coimbra,3064,Público,Politécnico,Engenharia Biológica,9474,Licenciatura,117,Sim,13,"11,1",2009/10_2012/13,DGES
+Universidade do Algarve,200,"Escola Superior de Gestão, Hotelaria e Turismo",3082,Público,Politécnico,Marketing,9205,Licenciatura,36,Sim,4,"11,1",2009/10_2012/13,DGES
+Universidade do Algarve,200,Instituto Superior de Engenharia,3083,Público,Politécnico,Engenharia Civil,9089,Licenciatura,270,Sim,30,"11,1",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Instituto Superior de Contabilidade e Administração do Porto,3134,Público,Politécnico,Comunicação Empresarial,9053,Licenciatura,206,Sim,23,"11,1",2009/10_2012/13,DGES
+Instituto Politécnico de Viana do Castelo,3160,Escola Superior de Tecnologia e Gestão,3163,Público,Politécnico,Engenharia Informática,9119,Licenciatura,81,Sim,9,"11,1",2009/10_2012/13,DGES
+Instituto Superior D. Afonso III,4290,Instituto Superior D. Afonso III,4290,Privado,Universitário,Gestão,9147,Licenciatura,72,Sim,8,"11,1",2009/10_2012/13,DGEEC
+Universidade de Coimbra,500,Faculdade de Letras,505,Público,Universitário,Arqueologia e História,9677,Licenciatura,109,Sim,12,11,2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Belas-Artes,1502,Público,Universitário,Escultura,9754,Licenciatura,109,Sim,12,11,2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Tecnologia e Gestão de Felgueiras,3138,Público,Politécnico,Solicitadoria,9242,Licenciatura,253,Sim,28,11,2009/10_2012/13,DGES
+Instituto Politécnico de Setúbal,3150,Escola Superior de Educação,3151,Público,Politécnico,Animação e Intervenção Sociocultural,9631,Licenciatura,118,Sim,13,11,2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Belas-Artes,5402,Público,Universitário,Design de Comunicação,9070,Licenciatura,172,Sim,19,11,2009/10_2012/13,DGES
+Instituto Politécnico de Coimbra,3060,Escola Superior de Tecnologia da Saúde de Coimbra,7210,Público,Politécnico,Audiologia,8141,Licenciatura,100,Sim,11,11,2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Letras,1506,Público,Universitário,"Estudos Artísticos, variante de Artes do Espectáculo",8104,Licenciatura,82,Sim,9,"10,9",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Letras,1506,Público,Universitário,"Estudos Artísticos, variante de Artes e Culturas Comparadas",8106,Licenciatura,82,Sim,9,"10,9",2009/10_2012/13,DGES
+Instituto Politécnico de Bragança,3040,Escola Superior de Tecnologia e de Gestão de Bragança,3043,Público,Politécnico,Informática de Gestão,9186,Licenciatura,55,Sim,6,"10,9",2009/10_2012/13,DGES
+Instituto Politécnico de Coimbra,3060,Escola Superior de Educação de Coimbra,3062,Público,Politécnico,Comunicação Organizacional,9717,Licenciatura,247,Sim,27,"10,9",2009/10_2012/13,DGES
+Instituto Politécnico de Coimbra,3060,Instituto Superior de Contabilidade e Administração de Coimbra,3063,Público,Politécnico,Contabilidade e Gestão Pública,9722,Licenciatura,119,Sim,13,"10,9",2009/10_2012/13,DGES
+Instituto Politécnico de Setúbal,3150,Escola Superior de Educação,3151,Público,Politécnico,Promoção Artística e Património,9632,Licenciatura,73,Sim,8,"10,9",2009/10_2012/13,DGES
+Universidade Lusófona do Porto,4032,Universidade Lusófona do Porto,4032,Privado,Universitário,Psicologia,9219,Licenciatura,147,Sim,16,"10,9",2009/10_2012/13,DGEEC
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Engenharia de Polímeros,9364,Mestrado Integrado,74,Sim,8,"10,8",2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências e Tecnologia,1203,Público,Universitário,Tecnologias de Informação e Comunicação,9250,Licenciatura,46,Sim,5,"10,8",2009/10_2012/13,DGES
+Instituto Politécnico do Cávado e do Ave,3030,Escola Superior de Gestão,3031,Público,Politécnico,Fiscalidade,9759,Licenciatura,258,Sim,28,"10,8",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Música e das Artes do Espectáculo,3132,Público,Politécnico,"Teatro, variante de Produção e Design",9843,Licenciatura,37,Sim,4,"10,8",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Instituto Superior de Engenharia do Porto,3135,Público,Politécnico,Engenharia Civil,9089,Licenciatura,571,Sim,62,"10,8",2009/10_2012/13,DGES
+ISCTE - Instituto Universitário de Lisboa,6800,ISCTE - Instituto Universitário de Lisboa,6800,Público,Universitário,Arquitectura,9257,Mestrado Integrado,166,Sim,18,"10,8",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Ciências Sociais e Humanas,902,Público,Universitário,História da Arte,9182,Licenciatura,121,Sim,13,"10,7",2009/10_2012/13,DGES
+Instituto Politécnico de Viana do Castelo,3160,Escola Superior de Educação,3162,Público,Politécnico,Gestão Artística e Cultural,9859,Licenciatura,84,Sim,9,"10,7",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Belas-Artes,5402,Público,Universitário,Artes Plásticas,9007,Licenciatura,224,Sim,24,"10,7",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior de Ciências Sociais e Políticas,1516,Público,Universitário,Antropologia,9448,Licenciatura,75,Sim,8,"10,6",2009/10_2012/13,DGES
+Universidade Católica Portuguesa,2200,Faculdade de Economia e Gestão,2271,Privado,Universitário,Economia,9081,Licenciatura,151,Sim,16,"10,6",2009/10_2012/13,DGEEC
+Instituto Politécnico de Coimbra,3060,Instituto Superior de Engenharia de Coimbra,3064,Público,Politécnico,Engenharia Electromecânica,9105,Licenciatura,141,Sim,15,"10,6",2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Escola Superior de Comunicação Social,3113,Público,Politécnico,Publicidade e Marketing,9222,Licenciatura,226,Sim,24,"10,6",2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Escola Superior de Teatro e Cinema,3116,Público,Politécnico,Cinema,9048,Licenciatura,132,Sim,14,"10,6",2009/10_2012/13,DGES
+Escola Superior de Saúde Ribeiro Sanches,4104,Escola Superior de Saúde Ribeiro Sanches,4104,Privado,Politécnico,Radiologia,9505,Licenciatura,85,Sim,9,"10,6",2009/10_2012/13,DGEEC
+ISLA - Instituto Superior de Gestão e Administração de Santarém,4352,ISLA - Instituto Superior de Gestão e Administração de Santarém,4352,Privado,Universitário,Gestão de Recursos Humanos,9157,Licenciatura,47,Sim,5,"10,6",2009/10_2012/13,DGEEC
+Instituto Superior Manuel Teixeira Gomes,4375,Instituto Superior Manuel Teixeira Gomes,4375,Privado,Universitário,Gestão de Recursos Humanos,9157,Licenciatura,66,Sim,7,"10,6",2009/10_2012/13,DGEEC
+Instituto Politécnico do Porto,3130,Escola Superior de Tecnologia da Saúde do Porto,7230,Público,Politécnico,Audiologia,8141,Licenciatura,66,Sim,7,"10,6",2009/10_2012/13,DGES
+Universidade do Algarve,200,Faculdade de Ciências e Tecnologia,203,Público,Universitário,Arquitectura Paisagista,8258,Licenciatura,114,Sim,12,"10,5",2009/10_2012/13,DGES
+Instituto Politécnico de Bragança,3040,Escola Superior de Tecnologia e de Gestão de Bragança,3043,Público,Politécnico,Engenharia Mecânica,9123,Licenciatura,85,Sim,9,"10,5",2009/10_2012/13,DGES
+Universidade do Algarve,200,Escola Superior de Educação e Comunicação,3081,Público,Politécnico,Design de Comunicação,9070,Licenciatura,104,Sim,11,"10,5",2009/10_2012/13,DGES
+Instituto Politécnico de Viana do Castelo,3160,Escola Superior de Tecnologia e Gestão,3163,Público,Politécnico,Design de Ambientes,9723,Licenciatura,85,Sim,9,"10,5",2009/10_2012/13,DGES
+Escola Superior de Tecnologias de Fafe,4115,Escola Superior de Tecnologias de Fafe,4115,Privado,Politécnico,Gestão,9147,Licenciatura,38,Sim,4,"10,5",2009/10_2012/13,DGEEC
+Instituto Politécnico do Porto,3130,Escola Superior de Tecnologia da Saúde do Porto,7230,Público,Politécnico,Terapia da Fala,9890,Licenciatura,114,Sim,12,"10,5",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Direito,502,Público,Universitário,Direito,9078,Licenciatura,963,Sim,101,"10,4",2009/10_2012/13,DGES
+Universidade Portucalense Infante D. Henrique,2500,Universidade Portucalense Infante D. Henrique,2500,Privado,Universitário,Solicitadoria,9242,Licenciatura,48,Sim,5,"10,4",2009/10_2012/13,DGEEC
+Instituto Politécnico de Beja,3020,Escola Superior Agrária,3021,Público,Politécnico,Ciência e Tecnologia dos Alimentos,9350,Licenciatura,124,Sim,13,"10,4",2009/10_2012/13,DGES
+Instituto Politécnico de Bragança,3040,"Escola Superior de Comunicação, Administração e Turismo de Mirandela",3045,Público,Politécnico,Multimédia,9213,Licenciatura,48,Sim,5,"10,4",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Artes e Design das Caldas da Rainha,3103,Público,Politécnico,Artes Plásticas,9007,Licenciatura,162,Sim,17,"10,4",2009/10_2012/13,DGES
+Instituto Politécnico de Viseu,3180,Escola Superior de Tecnologia e Gestão de Lamego,3186,Público,Politécnico,Engenharia Informática e Telecomunicações,9122,Licenciatura,67,Sim,7,"10,4",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Tradução,9252,Licenciatura,106,Sim,11,"10,3",2009/10_2012/13,DGES
+Universidade de Évora,600,Escola de Ciências e Tecnologia,602,Público,Universitário,Biotecnologia,9016,Licenciatura,58,Sim,6,"10,3",2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências Humanas e Sociais,1202,Público,Universitário,Psicologia,9219,Licenciatura,202,Sim,21,"10,3",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Escola Superior de Saúde de Aveiro,3013,Público,Politécnico,Terapia da Fala,9890,Licenciatura,87,Sim,9,"10,3",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Tecnologia e Gestão,3102,Público,Politécnico,Biomecânica,9690,Licenciatura,87,Sim,9,"10,3",2009/10_2012/13,DGES
+Instituto Politécnico de Viseu,3180,Escola Superior de Tecnologia e Gestão de Viseu,3182,Público,Politécnico,Marketing,9205,Licenciatura,135,Sim,14,"10,3",2009/10_2012/13,DGES
+Escola Superior de Enfermagem da Cruz Vermelha Portuguesa de Oliveira de Azeméis,4089,Escola Superior de Enfermagem da Cruz Vermelha Portuguesa de Oliveira de Azeméis,4089,Privado,Politécnico,Enfermagem,9500,Licenciatura,203,Sim,21,"10,3",2009/10_2012/13,DGEEC
+Escola Superior de Saúde do Alcoitão,4105,Escola Superior de Saúde do Alcoitão,4105,Privado,Politécnico,Terapia da Fala,9890,Licenciatura,136,Sim,14,"10,3",2009/10_2012/13,DGEEC
+Instituto Superior Politécnico do Oeste,4385,Instituto Superior Politécnico do Oeste,4385,Privado,Politécnico,Gestão de Recursos Humanos,9157,Licenciatura,39,Sim,4,"10,3",2009/10_2012/13,DGEEC
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Economia,9081,Licenciatura,196,Sim,20,"10,2",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Ciências Sociais e Humanas,902,Público,Universitário,Arqueologia,9006,Licenciatura,88,Sim,9,"10,2",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Letras,1506,Público,Universitário,Estudos Europeus,9135,Licenciatura,107,Sim,11,"10,2",2009/10_2012/13,DGES
+Universidade Lusíada,2400,Universidade Lusíada,2400,Privado,Universitário,Solicitadoria,9242,Licenciatura,49,Sim,5,"10,2",2009/10_2012/13,DGEEC
+Universidade Atlântica,2700,Universidade Atlântica,2700,Privado,Universitário,Gestão,9147,Licenciatura,49,Sim,5,"10,2",2009/10_2012/13,DGEEC
+Instituto Politécnico do Porto,3130,Instituto Superior de Engenharia do Porto,3135,Público,Politécnico,Engenharia Mecânica,9123,Licenciatura,527,Sim,54,"10,2",2009/10_2012/13,DGES
+Escola Superior de Saúde da Cruz Vermelha Portuguesa,4091,Escola Superior de Saúde da Cruz Vermelha Portuguesa,4091,Privado,Politécnico,Cardiopneumologia,8137,Licenciatura,98,Sim,10,"10,2",2009/10_2012/13,DGEEC
+Instituto Superior Manuel Teixeira Gomes,4375,Instituto Superior Manuel Teixeira Gomes,4375,Privado,Universitário,Direito,9078,Licenciatura,108,Sim,11,"10,2",2009/10_2012/13,DGEEC
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências Agrárias e Veterinárias,1201,Público,Universitário,Engenharia Zootécnica,9129,Licenciatura,59,Sim,6,"10,1",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Tecnologia e Gestão,3102,Público,Politécnico,Solicitadoria,9242,Licenciatura,434,Sim,44,"10,1",2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Escola Superior de Comunicação Social,3113,Público,Politécnico,Jornalismo,9191,Licenciatura,197,Sim,20,"10,1",2009/10_2012/13,DGES
+Universidade Europeia,4350,Universidade Europeia,4350,Privado,Universitário,Gestão de Recursos Humanos e Organização Estratégica,9158,Licenciatura,178,Sim,18,"10,1",2009/10_2012/13,DGEEC
+Universidade do Algarve,200,Escola Superior de Saúde,7035,Público,Politécnico,Dietética e Nutrição,8149,Licenciatura,79,Sim,8,"10,1",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Economia,503,Público,Universitário,Relações Internacionais,9229,Licenciatura,120,Sim,12,10,2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Letras,505,Público,Universitário,Filosofia,9139,Licenciatura,40,Sim,4,10,2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Estatística Aplicada,9381,Licenciatura,40,Sim,4,10,2009/10_2012/13,DGES
+Universidade Lusíada de Vila Nova de Famalicão,2402,Universidade Lusíada de Vila Nova de Famalicão,2402,Privado,Universitário,Engenharia e Gestão Industrial,9104,Licenciatura,70,Sim,7,10,2009/10_2012/13,DGEEC
+Instituto Politécnico de Bragança,3040,Escola Superior de Tecnologia e de Gestão de Bragança,3043,Público,Politécnico,Engenharia Electrotécnica e de Computadores,9112,Licenciatura,60,Sim,6,10,2009/10_2012/13,DGES
+Instituto Politécnico da Guarda,3090,Escola Superior de Tecnologia e Gestão,3092,Público,Politécnico,Engenharia Informática,9119,Licenciatura,70,Sim,7,10,2009/10_2012/13,DGES
+Instituto Politécnico de Viana do Castelo,3160,Escola Superior de Educação,3162,Público,Politécnico,Educação Básica,9853,Licenciatura,278,Sim,28,10,2009/10_2012/13,DGES
+CESPU-Instituto Politécnico de Saúde do Norte,4107,Escola Superior de Saúde do Vale do Sousa,4109,Privado,Politécnico,Prótese Dentária,9791,Licenciatura,110,Sim,11,10,2009/10_2012/13,DGEEC
+Instituto Politécnico de Lisboa,3110,Escola Superior de Tecnologia da Saúde de Lisboa,7220,Público,Politécnico,Ortoprotesia,8152,Licenciatura,100,Sim,10,10,2009/10_2012/13,DGES
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Design,9069,Licenciatura,202,Sim,20,"9,9",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Letras,1506,Público,Universitário,História,9181,Licenciatura,131,Sim,13,"9,9",2009/10_2012/13,DGES
+Universidade Católica Portuguesa,2200,Escola Superior Politécnica de Saúde (Porto),2216,Privado,Politécnico,Enfermagem,9500,Licenciatura,364,Sim,36,"9,9",2009/10_2012/13,DGEEC
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,Gestão de Empresas,9152,Licenciatura,372,Sim,37,"9,9",2009/10_2012/13,DGEEC
+Instituto Politécnico do Porto,3130,Instituto Superior de Contabilidade e Administração do Porto,3134,Público,Politécnico,Contabilidade e Administração,9058,Licenciatura,734,Sim,73,"9,9",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Gestão,9147,Licenciatura,173,Sim,17,"9,8",2009/10_2012/13,DGES
+Universidade de Évora,600,Escola de Ciências Sociais,604,Público,Universitário,Relações Internacionais,9229,Licenciatura,102,Sim,10,"9,8",2009/10_2012/13,DGES
+Universidade Atlântica,2700,Universidade Atlântica,2700,Privado,Universitário,Ciências da Nutrição,9554,Licenciatura,102,Sim,10,"9,8",2009/10_2012/13,DGEEC
+Instituto Politécnico de Viseu,3180,Escola Superior de Tecnologia e Gestão de Viseu,3182,Público,Politécnico,Tecnologias e Design de Multimédia,9491,Licenciatura,122,Sim,12,"9,8",2009/10_2012/13,DGES
+Escola Superior Náutica Infante D. Henrique,7105,Escola Superior Náutica Infante D. Henrique,7105,Público,Politécnico,Gestão de Transportes e Logística,9924,Licenciatura,61,Sim,6,"9,8",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Engenharia Civil,9360,Mestrado Integrado,185,Sim,18,"9,7",2009/10_2012/13,DGES
+Universidade de Évora,600,Escola de Ciências e Tecnologia,602,Público,Universitário,Ciências do Desporto,9707,Licenciatura,123,Sim,12,"9,7",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Economia,1104,Público,Universitário,Gestão,9147,Licenciatura,501,Sim,49,"9,7",2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências da Vida e do Ambiente,1204,Público,Universitário,Biologia,9011,Licenciatura,82,Sim,8,"9,7",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Belas-Artes,1502,Público,Universitário,Design de Comunicação,9070,Licenciatura,185,Sim,18,"9,7",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior de Agronomia,1515,Público,Universitário,Engenharia Zootécnica,9129,Licenciatura,103,Sim,10,"9,7",2009/10_2012/13,DGES
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,Economia,9081,Licenciatura,145,Sim,14,"9,7",2009/10_2012/13,DGEEC
+Instituto Politécnico do Porto,3130,Instituto Superior de Contabilidade e Administração do Porto,3134,Público,Politécnico,Comércio Internacional,9716,Licenciatura,72,Sim,7,"9,7",2009/10_2012/13,DGES
+Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Civil,9089,Licenciatura,164,Sim,16,"9,7",2009/10_2012/13,DGES
+Instituto Superior de Ciências da Saúde Egas Moniz,4260,Instituto Superior de Ciências da Saúde Egas Moniz,4260,Privado,Universitário,Ciências da Saúde,9822,Licenciatura,31,Sim,3,"9,7",2009/10_2012/13,DGEEC
+Instituto Politécnico de Bragança,3040,"Escola Superior de Comunicação, Administração e Turismo de Mirandela",3045,Público,Politécnico,Gestão e Administração Pública,9165,Licenciatura,124,Sim,12,"9,6",2009/10_2012/13,DGES
+Instituto Politécnico de Santarém,3140,Escola Superior de Gestão e Tecnologia de Santarém,3143,Público,Politécnico,Marketing e Publicidade,9206,Licenciatura,124,Sim,12,"9,6",2009/10_2012/13,DGES
+Instituto Politécnico de Setúbal,3150,Escola Superior de Ciências Empresariais,3153,Público,Politécnico,Marketing,9205,Licenciatura,218,Sim,21,"9,6",2009/10_2012/13,DGES
+Universidade do Algarve,200,Escola Superior de Saúde,7035,Público,Politécnico,Análises Clínicas e de Saúde Pública,9497,Licenciatura,83,Sim,8,"9,6",2009/10_2012/13,DGES
+Universidade da Beira Interior,400,Universidade da Beira Interior,400,Público,Universitário,Marketing,9205,Licenciatura,115,Sim,11,"9,5",2009/10_2012/13,DGES
+Universidade Fernando Pessoa,2750,Universidade Fernando Pessoa,2750,Privado,Universitário,Medicina Dentária,9548,Mestrado Integrado,348,Sim,33,"9,5",2009/10_2012/13,DGEEC
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,Ciências da Educação,9026,Licenciatura,42,Sim,4,"9,5",2009/10_2012/13,DGEEC
+Instituto Politécnico de Beja,3020,Escola Superior de Tecnologia e de Gestão,3023,Público,Politécnico,Gestão de Empresas,9152,Licenciatura,210,Sim,20,"9,5",2009/10_2012/13,DGES
+Instituto Politécnico da Guarda,3090,Escola Superior de Tecnologia e Gestão,3092,Público,Politécnico,Gestão de Recursos Humanos,9157,Licenciatura,146,Sim,14,"9,5",2009/10_2012/13,DGES
+Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Empresas,9152,Licenciatura,167,Sim,16,"9,5",2009/10_2012/13,DGES
+Escola Superior de Saúde Jean Piaget - Algarve,4102,Escola Superior de Saúde Jean Piaget - Algarve,4102,Privado,Politécnico,Fisioterapia,9504,Licenciatura,189,Sim,18,"9,5",2009/10_2012/13,DGEEC
+Universidade de Lisboa,1500,Faculdade de Letras,1506,Público,Universitário,Ciências da Linguagem,9040,Licenciatura,53,Sim,5,"9,4",2009/10_2012/13,DGES
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,Turismo,9254,Licenciatura,139,Sim,13,"9,4",2009/10_2012/13,DGEEC
+Instituto Politécnico de Beja,3020,Escola Superior de Tecnologia e de Gestão,3023,Público,Politécnico,Engenharia Informática,9119,Licenciatura,85,Sim,8,"9,4",2009/10_2012/13,DGES
+Instituto Politécnico de Setúbal,3150,Escola Superior de Tecnologia do Barreiro,3154,Público,Politécnico,Gestão da Construção,9478,Licenciatura,53,Sim,5,"9,4",2009/10_2012/13,DGES
+Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Fotografia,9645,Licenciatura,74,Sim,7,"9,4",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Letras,1506,Público,Universitário,"Línguas, Literaturas e Culturas",9204,Licenciatura,376,Sim,35,"9,3",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Instituto Superior de Contabilidade e Administração de Aveiro,3011,Público,Politécnico,Contabilidade,9056,Licenciatura,419,Sim,39,"9,3",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Escola Superior de Saúde de Aveiro,3013,Público,Politécnico,Gerontologia,9833,Licenciatura,75,Sim,7,"9,3",2009/10_2012/13,DGES
+Universidade do Algarve,200,"Escola Superior de Gestão, Hotelaria e Turismo",3082,Público,Politécnico,Gestão Hoteleira,9173,Licenciatura,129,Sim,12,"9,3",2009/10_2012/13,DGES
+Universidade de Évora,600,Escola de Ciências e Tecnologia,602,Público,Universitário,Engenharia Mecatrónica,9751,Licenciatura,54,Sim,5,"9,2",2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Matemática,9209,Licenciatura,65,Sim,6,"9,2",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior de Agronomia,1515,Público,Universitário,Arquitectura Paisagista,8258,Licenciatura,228,Sim,21,"9,2",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Escola Superior de Saúde de Aveiro,3013,Público,Politécnico,Radiologia,9505,Licenciatura,76,Sim,7,"9,2",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Música e das Artes do Espectáculo,3132,Público,Politécnico,"Música, variante de Produção e Tecnologias da Música",9840,Licenciatura,54,Sim,5,"9,2",2009/10_2012/13,DGES
+Instituto Politécnico de Viana do Castelo,3160,Escola Superior de Desporto e Lazer de Melgaço,3165,Público,Politécnico,Desporto e Lazer,9731,Licenciatura,97,Sim,9,"9,2",2009/10_2012/13,DGES
+Universidade Autónoma de Lisboa Luís de Camões,2100,Universidade Autónoma de Lisboa Luís de Camões,2100,Privado,Universitário,Ciências da Comunicação,9023,Licenciatura,154,Sim,14,"9,1",2009/10_2012/13,DGEEC
+Universidade Lusíada de Vila Nova de Famalicão,2402,Universidade Lusíada de Vila Nova de Famalicão,2402,Privado,Universitário,Marketing,9205,Licenciatura,44,Sim,4,"9,1",2009/10_2012/13,DGEEC
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,Gestão de Recursos Humanos,9157,Licenciatura,372,Sim,34,"9,1",2009/10_2012/13,DGEEC
+Instituto Politécnico de Lisboa,3110,Instituto Superior de Engenharia de Lisboa,3118,Público,Politécnico,Engenharia Civil,9089,Licenciatura,522,Sim,48,"9,1",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Educação,3131,Público,Politécnico,Tradução e Interpretação em Língua Gestual Portuguesa,9807,Licenciatura,120,Sim,11,"9,1",2009/10_2012/13,DGES
+Instituto Superior de Ciências Educativas,4270,Instituto Superior de Ciências Educativas,4270,Privado,Politécnico,Educação Física e Desporto,9736,Licenciatura,198,Sim,18,"9,1",2009/10_2012/13,DGEEC
+Universidade do Algarve,200,Faculdade de Ciências e Tecnologia,203,Público,Universitário,Bioquímica,9015,Licenciatura,33,Sim,3,9,2009/10_2012/13,DGES
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Línguas e Relações Empresariais,9196,Licenciatura,143,Sim,13,9,2009/10_2012/13,DGES
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Engenharia Química,9461,Mestrado Integrado,100,Sim,9,9,2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Filosofia,9139,Licenciatura,66,Sim,6,9,2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Belas-Artes,1502,Público,Universitário,Pintura,9790,Licenciatura,121,Sim,11,9,2009/10_2012/13,DGES
+Universidade Católica Portuguesa,2200,Faculdade de Teologia,2240,Privado,Universitário,Ciências Religiosas,9452,Licenciatura,67,Sim,6,9,2009/10_2012/13,DGEEC
+Instituto Politécnico de Viana do Castelo,3160,Escola Superior de Tecnologia e Gestão,3163,Público,Politécnico,Engenharia Electrónica e Redes de Computadores,9750,Licenciatura,66,Sim,6,9,2009/10_2012/13,DGES
+Escola Superior de Hotelaria e Turismo do Estoril,7110,Escola Superior de Hotelaria e Turismo do Estoril,7110,Público,Politécnico,Gestão do Lazer e Animação Turística,9163,Licenciatura,165,Sim,15,9,2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Escola Superior de Tecnologia da Saúde de Lisboa,7220,Público,Politécnico,Farmácia,9549,Licenciatura,100,Sim,9,9,2009/10_2012/13,DGES
+Universidade do Porto,1100,Instituto de Ciências Biomédicas Abel Salazar,1110,Público,Universitário,Ciências do Meio Aquático,9708,Licenciatura,56,Sim,5,"8,9",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior de Agronomia,1515,Público,Universitário,Engenharia Agronómica,9086,Licenciatura,145,Sim,13,"8,9",2009/10_2012/13,DGES
+Universidade Lusíada,2400,Universidade Lusíada,2400,Privado,Universitário,Economia,9081,Licenciatura,112,Sim,10,"8,9",2009/10_2012/13,DGEEC
+Instituto Politécnico de Leiria,3100,Escola Superior de Tecnologia e Gestão,3102,Público,Politécnico,Engenharia Civil,9089,Licenciatura,212,Sim,19,"8,9",2009/10_2012/13,DGES
+Escola Superior Gallaecia,4025,Escola Superior Gallaecia,4025,Privado,Universitário,Arquitectura e Urbanismo,9507,Mestrado Integrado,45,Sim,4,"8,9",2009/10_2012/13,DGEEC
+Universidade Nova de Lisboa,900,Faculdade de Ciências Sociais e Humanas,902,Público,Universitário,História,9181,Licenciatura,169,Sim,15,"8,8",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Ciências Sociais e Humanas,902,Público,Universitário,Tradução,9252,Licenciatura,158,Sim,14,"8,8",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Letras,1107,Público,Universitário,"Línguas, Literaturas e Culturas",9204,Licenciatura,249,Sim,22,"8,8",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior de Agronomia,1515,Público,Universitário,Engenharia do Ambiente,9099,Licenciatura,79,Sim,7,"8,8",2009/10_2012/13,DGES
+Universidade Atlântica,2700,Universidade Atlântica,2700,Privado,Universitário,Gestão em Saúde,9170,Licenciatura,34,Sim,3,"8,8",2009/10_2012/13,DGEEC
+Instituto Politécnico de Coimbra,3060,Escola Superior de Educação de Coimbra,3062,Público,Politécnico,Língua Gestual Portuguesa,9774,Licenciatura,113,Sim,10,"8,8",2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Escola Superior de Comunicação Social,3113,Público,Politécnico,Audiovisual e Multimédia,9010,Licenciatura,180,Sim,16,"8,8",2009/10_2012/13,DGES
+Instituto Universitário da Maia - ISMAI,4358,Instituto Universitário da Maia - ISMAI,4358,Privado,Universitário,Educação Física e Desporto,9736,Licenciatura,683,Sim,60,"8,8",2009/10_2012/13,DGEEC
+Universidade de Coimbra,500,Faculdade de Economia,503,Público,Universitário,Gestão,9147,Licenciatura,285,Sim,25,"8,7",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Letras,1506,Público,Universitário,Estudos Africanos,9131,Licenciatura,57,Sim,5,"8,7",2009/10_2012/13,DGES
+Instituto Superior de Saúde do Alto Ave,4460,Instituto Superior de Saúde do Alto Ave,4460,Privado,Politécnico,Enfermagem,9500,Licenciatura,368,Sim,32,"8,7",2009/10_2012/13,DGEEC
+Instituto Politécnico de Lisboa,3110,Escola Superior de Tecnologia da Saúde de Lisboa,7220,Público,Politécnico,Dietética e Nutrição,8149,Licenciatura,126,Sim,11,"8,7",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Tecnologia da Saúde do Porto,7230,Público,Politécnico,Fisioterapia,9504,Licenciatura,229,Sim,20,"8,7",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Ciências Sociais e Humanas,902,Público,Universitário,Ciência Política e Relações Internacionais,9020,Licenciatura,278,Sim,24,"8,6",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Ciências Sociais e Humanas,902,Público,Universitário,Ciências da Comunicação,9023,Licenciatura,337,Sim,29,"8,6",2009/10_2012/13,DGES
+Universidade Fernando Pessoa,2750,Escola Superior de Saúde,2752,Privado,Politécnico,Fisioterapia,9504,Licenciatura,302,Sim,26,"8,6",2009/10_2012/13,DGEEC
+Instituto Politécnico de Castelo Branco,3050,Escola Superior de Artes Aplicadas de Castelo Branco,3055,Público,Politécnico,Design de Comunicação e Produção Audiovisual,9907,Licenciatura,138,Sim,12,"8,6",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Instituto Superior de Engenharia do Porto,3135,Público,Politécnico,Engenharia Química,9125,Licenciatura,186,Sim,16,"8,6",2009/10_2012/13,DGES
+ISCTE - Instituto Universitário de Lisboa,6800,ISCTE - Instituto Universitário de Lisboa,6800,Público,Universitário,História Moderna e Contemporânea,9927,Licenciatura,81,Sim,7,"8,6",2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola Superior de Enfermagem de Vila Real,7080,Público,Politécnico,Enfermagem,9500,Licenciatura,277,Sim,24,"8,6",2009/10_2012/13,DGES
+Universidade do Algarve,200,Faculdade de Economia,204,Público,Universitário,Economia,9081,Licenciatura,129,Sim,11,"8,5",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Química,9223,Licenciatura,35,Sim,3,"8,5",2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências Humanas e Sociais,1202,Público,Universitário,Educação Básica,9853,Licenciatura,164,Sim,14,"8,5",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Medicina Dentária,1508,Público,Universitário,Higiene Oral,9556,Licenciatura,164,Sim,14,"8,5",2009/10_2012/13,DGES
+Universidade Lusíada,2400,Universidade Lusíada,2400,Privado,Universitário,Direito,9078,Licenciatura,342,Sim,29,"8,5",2009/10_2012/13,DGEEC
+Instituto Politécnico de Bragança,3040,Escola Superior de Educação de Bragança,3042,Público,Politécnico,Educação Ambiental,9082,Licenciatura,47,Sim,4,"8,5",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Tecnologia e Gestão,3102,Público,Politécnico,Gestão,9147,Licenciatura,338,Sim,29,"8,5",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Turismo e Tecnologia do Mar de Peniche,3105,Público,Politécnico,Gestão Turística e Hoteleira,9178,Licenciatura,246,Sim,21,"8,5",2009/10_2012/13,DGES
+Instituto Politécnico de Santarém,3140,Escola Superior Agrária de Santarém,3141,Público,Politécnico,Tecnologia Alimentar,L015,Licenciatura,129,Sim,11,"8,5",2009/10_2012/13,DGES
+Escola Superior de Enfermagem S. Francisco das Misericórdias,4096,Escola Superior de Enfermagem S. Francisco das Misericórdias,4096,Privado,Politécnico,Enfermagem,9500,Licenciatura,94,Sim,8,"8,5",2009/10_2012/13,DGEEC
+Instituto Superior de Ciências da Saúde Egas Moniz,4260,Instituto Superior de Ciências da Saúde Egas Moniz,4260,Privado,Universitário,Ciências Farmacêuticas,9494,Mestrado Integrado,234,Sim,20,"8,5",2009/10_2012/13,DGEEC
+Universidade Europeia,4350,Universidade Europeia,4350,Privado,Universitário,Gestão Hoteleira,9173,Licenciatura,259,Sim,22,"8,5",2009/10_2012/13,DGEEC
+Instituto Superior de Línguas e Administração de Leiria,4354,Instituto Superior de Línguas e Administração de Leiria,4354,Privado,Universitário,Gestão de Empresas,9152,Licenciatura,59,Sim,5,"8,5",2009/10_2012/13,DGEEC
+Universidade da Beira Interior,400,Universidade da Beira Interior,400,Público,Universitário,Design de Moda,9071,Licenciatura,106,Sim,9,"8,4",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior de Agronomia,1515,Público,Universitário,Biologia,9011,Licenciatura,107,Sim,9,"8,4",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior de Ciências Sociais e Políticas,1516,Público,Universitário,Relações Internacionais,9229,Licenciatura,296,Sim,25,"8,4",2009/10_2012/13,DGES
+Universidade Autónoma de Lisboa Luís de Camões,2100,Universidade Autónoma de Lisboa Luís de Camões,2100,Privado,Universitário,Gestão,9147,Licenciatura,311,Sim,26,"8,4",2009/10_2012/13,DGEEC
+Universidade Católica Portuguesa,2200,Faculdade de Ciências Humanas,2220,Privado,Universitário,Comunicação Social e Cultural,9453,Licenciatura,463,Sim,39,"8,4",2009/10_2012/13,DGEEC
+Instituto Politécnico de Coimbra,3060,Escola Superior Agrária de Coimbra,3061,Público,Politécnico,Engenharia Agro-Pecuária,9619,Licenciatura,154,Sim,13,"8,4",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Música e das Artes do Espectáculo,3132,Público,Politécnico,"Teatro, variante de Interpretação",9842,Licenciatura,59,Sim,5,"8,4",2009/10_2012/13,DGES
+Instituto Politécnico de Viseu,3180,Escola Superior de Tecnologia e Gestão de Viseu,3182,Público,Politécnico,Engenharia Mecânica,9123,Licenciatura,107,Sim,9,"8,4",2009/10_2012/13,DGES
+Instituto Politécnico de Coimbra,3060,Escola Superior de Tecnologia da Saúde de Coimbra,7210,Público,Politécnico,Fisioterapia,9504,Licenciatura,118,Sim,10,"8,4",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Ciências e Tecnologia,501,Público,Universitário,Química,9223,Licenciatura,60,Sim,5,"8,3",2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Engenharia e Gestão Industrial,9509,Mestrado Integrado,156,Sim,13,"8,3",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Desporto,1111,Público,Universitário,Ciências do Desporto,9707,Licenciatura,685,Sim,57,"8,3",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Belas-Artes,1502,Público,Universitário,Arte Multimédia,9904,Licenciatura,155,Sim,13,"8,3",2009/10_2012/13,DGES
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,Engenharia Informática,9119,Licenciatura,132,Sim,11,"8,3",2009/10_2012/13,DGEEC
+Instituto Politécnico de Leiria,3100,Escola Superior de Tecnologia e Gestão,3102,Público,Politécnico,Engenharia Electrotécnica,9109,Licenciatura,191,Sim,16,"8,3",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Turismo e Tecnologia do Mar de Peniche,3105,Público,Politécnico,Turismo,9254,Licenciatura,132,Sim,11,"8,3",2009/10_2012/13,DGES
+Escola Superior de Saúde Jean Piaget de Viseu,4103,Escola Superior de Saúde Jean Piaget de Viseu,4103,Privado,Politécnico,Enfermagem,9500,Licenciatura,302,Sim,25,"8,3",2009/10_2012/13,DGEEC
+Escola Superior de Saúde Egas Moniz,4106,Escola Superior de Saúde Egas Moniz,4106,Privado,Politécnico,Prótese Dentária,9791,Licenciatura,120,Sim,10,"8,3",2009/10_2012/13,DGEEC
+Instituto Superior de Novas Profissões,4150,Instituto Superior de Novas Profissões,4150,Privado,Politécnico,Gestão Comercial e Vendas,8274,Licenciatura,36,Sim,3,"8,3",2009/10_2012/13,DGEEC
+Universidade Europeia,4350,Universidade Europeia,4350,Privado,Universitário,Secretariado e Comunicação Empresarial,9235,Licenciatura,72,Sim,6,"8,3",2009/10_2012/13,DGEEC
+Universidade do Algarve,200,Escola Superior de Saúde,7035,Público,Politécnico,Terapia da Fala,9890,Licenciatura,96,Sim,8,"8,3",2009/10_2012/13,DGES
+Universidade de Évora,600,Escola de Ciências e Tecnologia,602,Público,Universitário,Agronomia,9003,Licenciatura,121,Sim,10,"8,2",2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Línguas e Literaturas Europeias,9195,Licenciatura,219,Sim,18,"8,2",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Ciências,1103,Público,Universitário,Ciências e Tecnologia do Ambiente,9709,Licenciatura,133,Sim,11,"8,2",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Motricidade Humana,1510,Público,Universitário,Reabilitação Psicomotora,9841,Licenciatura,218,Sim,18,"8,2",2009/10_2012/13,DGES
+Instituto Politécnico de Bragança,3040,Escola Superior de Educação de Bragança,3042,Público,Politécnico,Educação Básica,9853,Licenciatura,182,Sim,15,"8,2",2009/10_2012/13,DGES
+Universidade do Algarve,200,"Escola Superior de Gestão, Hotelaria e Turismo",3082,Público,Politécnico,Gestão,9147,Licenciatura,317,Sim,26,"8,2",2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Instituto Superior de Engenharia de Lisboa,3118,Público,Politécnico,Engenharia Química e Biológica,9126,Licenciatura,169,Sim,14,"8,2",2009/10_2012/13,DGES
+Instituto Politécnico de Setúbal,3150,Escola Superior de Tecnologia de Setúbal,3152,Público,Politécnico,Engenharia Biomédica,9455,Licenciatura,109,Sim,9,"8,2",2009/10_2012/13,DGES
+Universidade Europeia,4350,Universidade Europeia,4350,Privado,Universitário,Gestão de Empresas,9152,Licenciatura,233,Sim,19,"8,2",2009/10_2012/13,DGEEC
+Universidade do Minho,1000,Escola Superior de Enfermagem,7010,Público,Politécnico,Enfermagem,9500,Licenciatura,303,Sim,25,"8,2",2009/10_2012/13,DGES
+Escola Superior Náutica Infante D. Henrique,7105,Escola Superior Náutica Infante D. Henrique,7105,Público,Politécnico,Pilotagem,9789,Licenciatura,109,Sim,9,"8,2",2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Escola Superior de Tecnologia da Saúde de Lisboa,7220,Público,Politécnico,Radiologia,9505,Licenciatura,134,Sim,11,"8,2",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Ciências e Tecnologia,501,Público,Universitário,Engenharia Civil,9360,Mestrado Integrado,333,Sim,27,"8,1",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Engenharia,1105,Público,Universitário,Engenharia Civil,9360,Mestrado Integrado,812,Sim,66,"8,1",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Letras,1107,Público,Universitário,Ciências da Linguagem,9040,Licenciatura,37,Sim,3,"8,1",2009/10_2012/13,DGES
+Universidade Aberta,1400,Universidade Aberta,1400,Público,Universitário,Estudos Artísticos,9132,Licenciatura,37,Sim,3,"8,1",2009/10_2012/13,DGEEC/DGES
+Universidade Católica Portuguesa,2200,Faculdade de Economia e Gestão,2271,Privado,Universitário,Gestão,9147,Licenciatura,408,Sim,33,"8,1",2009/10_2012/13,DGEEC
+Instituto Politécnico de Coimbra,3060,Instituto Superior de Engenharia de Coimbra,3064,Público,Politécnico,Engenharia Electrotécnica,9109,Licenciatura,294,Sim,24,"8,1",2009/10_2012/13,DGES
+Instituto Superior de Ciências da Saúde - Norte,4261,Instituto Superior de Ciências da Saúde - Norte,4261,Privado,Universitário,Medicina Dentária,9548,Mestrado Integrado,393,Sim,32,"8,1",2009/10_2012/13,DGEEC
+Instituto Superior de Ciências da Administração,4275,Instituto Superior de Ciências da Administração,4275,Privado,Politécnico,Gestão Hoteleira,9173,Licenciatura,37,Sim,3,"8,1",2009/10_2012/13,DGEEC
+Instituto Superior de Entre Douro e Vouga,4283,Instituto Superior de Entre Douro e Vouga,4283,Privado,Politécnico,Contabilidade,9056,Licenciatura,86,Sim,7,"8,1",2009/10_2012/13,DGEEC
+Escola Superior Náutica Infante D. Henrique,7105,Escola Superior Náutica Infante D. Henrique,7105,Público,Politécnico,Engenharia de Máquinas Marítimas,9745,Licenciatura,74,Sim,6,"8,1",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Engenharia de Materiais,9096,Licenciatura,62,Sim,5,8,2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Farmácia,1106,Público,Universitário,Ciências Farmacêuticas,9494,Mestrado Integrado,741,Sim,60,8,2009/10_2012/13,DGES
+Universidade Aberta,1400,Universidade Aberta,1400,Público,Universitário,História,9181,Licenciatura,125,Sim,10,8,2009/10_2012/13,DGEEC/DGES
+Universidade de Lisboa,1500,Instituto Superior Técnico (Alameda),1518,Público,Universitário,Engenharia Civil,9360,Mestrado Integrado,557,Sim,45,8,2009/10_2012/13,DGES
+Universidade Lusíada de Vila Nova de Famalicão,2402,Universidade Lusíada de Vila Nova de Famalicão,2402,Privado,Universitário,Ciências Económicas e Empresariais,9044,Licenciatura,125,Sim,10,8,2009/10_2012/13,DGEEC
+Instituto Politécnico do Porto,3130,Instituto Superior de Contabilidade e Administração do Porto,3134,Público,Politécnico,Assessoria e Tradução,9009,Licenciatura,175,Sim,14,8,2009/10_2012/13,DGES
+Instituto Superior Politécnico do Oeste,4385,Instituto Superior Politécnico do Oeste,4385,Privado,Politécnico,Contabilidade e Administração,9058,Licenciatura,75,Sim,6,8,2009/10_2012/13,DGEEC
+Universidade de Coimbra,500,Faculdade de Ciências e Tecnologia,501,Público,Universitário,Engenharia Química,9461,Mestrado Integrado,88,Sim,7,"7,9",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Direito,1504,Público,Universitário,Direito,9078,Licenciatura,1463,Sim,116,"7,9",2009/10_2012/13,DGES
+Instituto Superior de Ciências Educativas,4270,Instituto Superior de Ciências Educativas,4270,Privado,Politécnico,Animação Sociocultural,9005,Licenciatura,38,Sim,3,"7,9",2009/10_2012/13,DGEEC
+Universidade de Coimbra,500,Faculdade de Letras,505,Público,Universitário,"Turismo, Lazer e Património",9810,Licenciatura,165,Sim,13,"7,8",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Engenharia,1105,Público,Universitário,Ciências de Engenharia - Engenharia de Minas e Geoambiente,9897,Licenciatura,38,Sim,3,"7,8",2009/10_2012/13,DGES
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,Ciência Política e Relações Internacionais,9020,Licenciatura,154,Sim,12,"7,8",2009/10_2012/13,DGEEC
+Instituto Politécnico de Bragança,3040,Escola Superior de Tecnologia e de Gestão de Bragança,3043,Público,Politécnico,Engenharia Biomédica,9455,Licenciatura,127,Sim,10,"7,8",2009/10_2012/13,DGES
+ISCTE - Instituto Universitário de Lisboa,6800,ISCTE - Instituto Universitário de Lisboa,6800,Público,Universitário,Economia,9081,Licenciatura,280,Sim,22,"7,8",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Novas Tecnologias da Comunicação,9215,Licenciatura,231,Sim,18,"7,7",2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Engenharia Mecânica,9369,Mestrado Integrado,142,Sim,11,"7,7",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Ciências,1503,Público,Universitário,Geologia,9146,Licenciatura,168,Sim,13,"7,7",2009/10_2012/13,DGES
+Instituto Politécnico de Tomar,3240,Escola Superior de Gestão de Tomar,3241,Público,Politécnico,Gestão de Recursos Humanos e Comportamento Organizacional,9640,Licenciatura,142,Sim,11,"7,7",2009/10_2012/13,DGES
+Escola Superior de Saúde Ribeiro Sanches,4104,Escola Superior de Saúde Ribeiro Sanches,4104,Privado,Politécnico,Análises Clínicas e de Saúde Pública,9497,Licenciatura,117,Sim,9,"7,7",2009/10_2012/13,DGEEC
+Instituto Superior de Gestão,4300,Instituto Superior de Gestão,4300,Privado,Universitário,Gestão,9147,Licenciatura,323,Sim,25,"7,7",2009/10_2012/13,DGEEC
+Universidade Lusíada,2400,Universidade Lusíada,2400,Privado,Universitário,Gestão de Empresa,9151,Licenciatura,224,Sim,17,"7,6",2009/10_2012/13,DGEEC
+Universidade Fernando Pessoa,2750,Universidade Fernando Pessoa,2750,Privado,Universitário,Engenharia Civil,9089,Licenciatura,197,Sim,15,"7,6",2009/10_2012/13,DGEEC
+Universidade do Algarve,200,Instituto Superior de Engenharia,3083,Público,Politécnico,Engenharia Eléctrica e Electrónica,9503,Licenciatura,117,Sim,9,"7,6",2009/10_2012/13,DGES
+Instituto Politécnico de Bragança,3040,Escola Superior de Saúde de Bragança,7015,Público,Politécnico,Enfermagem,9500,Licenciatura,287,Sim,22,"7,6",2009/10_2012/13,DGES
+Universidade Lusíada,2400,Universidade Lusíada,2400,Privado,Universitário,Gestão de Recursos Humanos,9157,Licenciatura,67,Sim,5,"7,5",2009/10_2012/13,DGEEC
+Instituto Politécnico de Beja,3020,Escola Superior Agrária,3021,Público,Politécnico,Agronomia,9003,Licenciatura,133,Sim,10,"7,5",2009/10_2012/13,DGES
+Instituto Politécnico de Viana do Castelo,3160,Escola Superior Agrária,3161,Público,Politécnico,Biotecnologia,9016,Licenciatura,66,Sim,5,"7,5",2009/10_2012/13,DGES
+Instituto Politécnico de Castelo Branco,3050,Escola Superior de Saúde Dr. Lopes Dias,7020,Público,Politécnico,Fisioterapia,9504,Licenciatura,93,Sim,7,"7,5",2009/10_2012/13,DGES
+Universidade da Beira Interior,400,Universidade da Beira Interior,400,Público,Universitário,Cinema,9048,Licenciatura,134,Sim,10,"7,4",2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Instituto Superior de Contabilidade e Administração de Lisboa,3117,Público,Politécnico,Gestão,9147,Licenciatura,445,Sim,33,"7,4",2009/10_2012/13,DGES
+Instituto Politécnico de Portalegre,3120,Escola Superior de Tecnologia e Gestão,3122,Público,Politécnico,Gestão,9147,Licenciatura,188,Sim,14,"7,4",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Estudos Industriais e de Gestão,3133,Público,Politécnico,Ciências e Tecnologias da Documentação e Informação,9043,Licenciatura,54,Sim,4,"7,4",2009/10_2012/13,DGES
+Instituto Politécnico de Viseu,3180,Escola Superior de Tecnologia e Gestão de Lamego,3186,Público,Politécnico,Secretariado de Administração (regime nocturno),9800,Licenciatura,107,Sim,8,"7,4",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Ciências,1103,Público,Universitário,Biologia,9011,Licenciatura,396,Sim,29,"7,3",2009/10_2012/13,DGES
+Universidade do Porto,1100,Instituto de Ciências Biomédicas Abel Salazar,1110,Público,Universitário,Medicina Veterinária,9847,Mestrado Integrado,204,Sim,15,"7,3",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Letras,1506,Público,Universitário,História da Arte,9182,Licenciatura,95,Sim,7,"7,3",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior Técnico (Alameda),1518,Público,Universitário,Engenharia Química,9461,Mestrado Integrado,150,Sim,11,"7,3",2009/10_2012/13,DGES
+Universidade Católica Portuguesa,2200,Escola Superior de Biotecnologia,2210,Privado,Universitário,Bioengenharia,9540,Licenciatura,82,Sim,6,"7,3",2009/10_2012/13,DGEEC
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,Engenharia Civil,9089,Licenciatura,151,Sim,11,"7,3",2009/10_2012/13,DGEEC
+Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Tecnologias de Informação e Comunicação,9250,Licenciatura,41,Sim,3,"7,3",2009/10_2012/13,DGES
+Instituto Superior D. Afonso III,4290,Instituto Superior D. Afonso III,4290,Privado,Universitário,Educação Física e Desporto,9736,Licenciatura,82,Sim,6,"7,3",2009/10_2012/13,DGEEC
+Instituto Superior de Educação e Ciências,4298,Instituto Superior de Educação e Ciências,4298,Privado,Politécnico,Gestão Aeronáutica,8042,Licenciatura,41,Sim,3,"7,3",2009/10_2012/13,DGEEC
+Universidade da Beira Interior,400,Universidade da Beira Interior,400,Público,Universitário,Engenharia Aeronáutica,8470,Mestrado Integrado,69,Sim,5,"7,2",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Economia,503,Público,Universitário,Economia,9081,Licenciatura,521,Sim,38,"7,2",2009/10_2012/13,DGES
+Instituto Politécnico de Coimbra,3060,Escola Superior de Educação de Coimbra,3062,Público,Politécnico,Música,9214,Licenciatura,42,Sim,3,"7,1",2009/10_2012/13,DGES
+Instituto Politécnico da Guarda,3090,Escola Superior de Turismo e Hotelaria,3095,Público,Politécnico,Gestão Hoteleira,9173,Licenciatura,112,Sim,8,"7,1",2009/10_2012/13,DGES
+Escola Superior de Enfermagem de Santa Maria,4097,Escola Superior de Enfermagem de Santa Maria,4097,Privado,Politécnico,Enfermagem,9500,Licenciatura,281,Sim,20,"7,1",2009/10_2012/13,DGEEC
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Línguas Aplicadas,9192,Licenciatura,141,Sim,10,7,2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Letras,1107,Público,Universitário,Línguas e Relações Internacionais,9197,Licenciatura,127,Sim,9,7,2009/10_2012/13,DGES
+Instituto Politécnico de Castelo Branco,3050,Escola Superior de Educação de Castelo Branco,3052,Público,Politécnico,Educação Básica,9853,Licenciatura,155,Sim,11,7,2009/10_2012/13,DGES
+Instituto Politécnico de Portalegre,3120,Escola Superior de Educação,3121,Público,Politécnico,Educação Básica,9853,Licenciatura,57,Sim,4,7,2009/10_2012/13,DGES
+Universidade Lusófona do Porto,4032,Universidade Lusófona do Porto,4032,Privado,Universitário,"Estudos Europeus, Estudos Lusófonos e Relações Internacionais",8378,Licenciatura,43,Sim,3,7,2009/10_2012/13,DGEEC
+Escola Superior de Saúde Ribeiro Sanches,4104,Escola Superior de Saúde Ribeiro Sanches,4104,Privado,Politécnico,Farmácia,9549,Licenciatura,86,Sim,6,7,2009/10_2012/13,DGEEC
+Universidade do Porto,1100,Faculdade de Letras,1107,Público,Universitário,Línguas Aplicadas,9192,Licenciatura,86,Sim,6,"6,9",2009/10_2012/13,DGES
+Instituto Politécnico de Viana do Castelo,3160,Escola Superior de Tecnologia e Gestão,3163,Público,Politécnico,Engenharia da Computação Gráfica e Multimédia,8407,Licenciatura,43,Sim,3,"6,9",2009/10_2012/13,DGES
+Instituto Superior de Entre Douro e Vouga,4283,Instituto Superior de Entre Douro e Vouga,4283,Privado,Politécnico,Gestão de Empresas,9152,Licenciatura,173,Sim,12,"6,9",2009/10_2012/13,DGEEC
+Universidade Europeia,4350,Universidade Europeia,4350,Privado,Universitário,Turismo,9254,Licenciatura,217,Sim,15,"6,9",2009/10_2012/13,DGEEC
+Instituto Politécnico de Bragança,3040,Escola Superior de Tecnologia e de Gestão de Bragança,3043,Público,Politécnico,Engenharia Informática,9119,Licenciatura,88,Sim,6,"6,8",2009/10_2012/13,DGES
+Universidade do Algarve,200,"Escola Superior de Gestão, Hotelaria e Turismo (Portimão)",3087,Público,Politécnico,Turismo,9254,Licenciatura,73,Sim,5,"6,8",2009/10_2012/13,DGES
+Instituto Politécnico de Santarém,3140,Escola Superior de Gestão e Tecnologia de Santarém,3143,Público,Politécnico,Contabilidade e Fiscalidade,9498,Licenciatura,147,Sim,10,"6,8",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Farmácia,504,Público,Universitário,Ciências Farmacêuticas,9494,Mestrado Integrado,668,Sim,45,"6,7",2009/10_2012/13,DGES
+Escola Superior de Saúde da Cruz Vermelha Portuguesa,4091,Escola Superior de Saúde da Cruz Vermelha Portuguesa,4091,Privado,Politécnico,Enfermagem,9500,Licenciatura,149,Sim,10,"6,7",2009/10_2012/13,DGEEC
+CESPU-Instituto Politécnico de Saúde do Norte,4107,Escola Superior de Saúde do Vale do Sousa,4109,Privado,Politécnico,Enfermagem,9500,Licenciatura,283,Sim,19,"6,7",2009/10_2012/13,DGEEC
+Universidade Nova de Lisboa,900,Faculdade de Ciências Sociais e Humanas,902,Público,Universitário,Sociologia,9240,Licenciatura,212,Sim,14,"6,6",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Motricidade Humana,1510,Público,Universitário,Dança,9068,Licenciatura,45,Sim,3,"6,6",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior de Agronomia,1515,Público,Universitário,Engenharia Florestal e dos Recursos Naturais,8377,Licenciatura,60,Sim,4,"6,6",2009/10_2012/13,DGES
+Instituto Politécnico de Castelo Branco,3050,Escola Superior de Artes Aplicadas de Castelo Branco,3055,Público,Politécnico,"Música, variante de Música Electrónica e Produção Musical",9816,Licenciatura,30,Sim,2,"6,6",2009/10_2012/13,DGES
+Instituto Politécnico de Setúbal,3150,Escola Superior de Tecnologia de Setúbal,3152,Público,Politécnico,Engenharia Mecânica,9123,Licenciatura,136,Sim,9,"6,6",2009/10_2012/13,DGES
+Instituto Superior de Tecnologias Avançadas de Lisboa,4530,Instituto Superior de Tecnologias Avançadas de Lisboa,4530,Privado,Politécnico,Informática,9185,Licenciatura,183,Sim,12,"6,6",2009/10_2012/13,DGEEC
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Design e Marketing de Moda,9499,Licenciatura,92,Sim,6,"6,5",2009/10_2012/13,DGES
+Instituto Politécnico de Bragança,3040,"Escola Superior de Comunicação, Administração e Turismo de Mirandela",3045,Público,Politécnico,Tecnologias da Comunicação,9247,Licenciatura,46,Sim,3,"6,5",2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Instituto Superior de Contabilidade e Administração de Lisboa,3117,Público,Politécnico,Contabilidade e Administração,9058,Licenciatura,807,Sim,53,"6,5",2009/10_2012/13,DGES
+Instituto Politécnico de Setúbal,3150,Escola Superior de Ciências Empresariais,3153,Público,Politécnico,Gestão da Distribuição e da Logística,9629,Licenciatura,198,Sim,13,"6,5",2009/10_2012/13,DGES
+Instituto Superior de Educação e Ciências,4298,Instituto Superior de Educação e Ciências,4298,Privado,Politécnico,Ciências Aeronáuticas,9021,Licenciatura,31,Sim,2,"6,5",2009/10_2012/13,DGEEC
+ISCTE - Instituto Universitário de Lisboa,6800,ISCTE - Instituto Universitário de Lisboa,6800,Público,Universitário,Gestão de Marketing,9156,Licenciatura,138,Sim,9,"6,5",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Ciências do Desporto e Educação Física,508,Público,Universitário,Ciências do Desporto,9707,Licenciatura,358,Sim,23,"6,4",2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Biologia-Geologia,9689,Licenciatura,109,Sim,7,"6,4",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Ciências,1103,Público,Universitário,Matemática,9209,Licenciatura,124,Sim,8,"6,4",2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Instituto Superior de Engenharia de Lisboa,3118,Público,Politécnico,Engenharia Mecânica,9123,Licenciatura,405,Sim,26,"6,4",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Instituto Superior de Engenharia do Porto,3135,Público,Politécnico,Engenharia de Computação e Instrumentação Médica,9495,Licenciatura,77,Sim,5,"6,4",2009/10_2012/13,DGES
+Instituto Politécnico de Viseu,3180,Escola Superior de Tecnologia e Gestão de Lamego,3186,Público,Politécnico,Contabilidade e Auditoria,9061,Licenciatura,108,Sim,7,"6,4",2009/10_2012/13,DGES
+Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Abrantes,3243,Público,Politécnico,Engenharia Mecânica,9123,Licenciatura,62,Sim,4,"6,4",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Tecnologia da Saúde do Porto,7230,Público,Politécnico,Neurofisiologia,8145,Licenciatura,62,Sim,4,"6,4",2009/10_2012/13,DGES
+Universidade Atlântica,2700,Escola Superior de Saúde Atlântica,2701,Privado,Politécnico,Análises Clínicas e de Saúde Pública,9497,Licenciatura,63,Sim,4,"6,3",2009/10_2012/13,DGEEC
+Universidade de Aveiro,300,Escola Superior de Tecnologia e Gestão de Águeda,3012,Público,Politécnico,Tecnologias da Informação,8016,Licenciatura,63,Sim,4,"6,3",2009/10_2012/13,DGES
+Instituto Politécnico do Cávado e do Ave,3030,Escola Superior de Gestão,3031,Público,Politécnico,Contabilidade,9056,Licenciatura,283,Sim,18,"6,3",2009/10_2012/13,DGES
+Escola Superior de Saúde Egas Moniz,4106,Escola Superior de Saúde Egas Moniz,4106,Privado,Politécnico,Fisioterapia,9504,Licenciatura,207,Sim,13,"6,3",2009/10_2012/13,DGEEC
+ISCTE - Instituto Universitário de Lisboa,6800,ISCTE - Instituto Universitário de Lisboa,6800,Público,Universitário,Sociologia,9240,Licenciatura,472,Sim,30,"6,3",2009/10_2012/13,DGES
+Universidade do Algarve,200,Faculdade de Ciências e Tecnologia,203,Público,Universitário,Biologia,9011,Licenciatura,96,Sim,6,"6,2",2009/10_2012/13,DGES
+Universidade da Beira Interior,400,Universidade da Beira Interior,400,Público,Universitário,Optometria - Ciências da Visão,9216,Licenciatura,175,Sim,11,"6,2",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior de Agronomia,1515,Público,Universitário,Engenharia Alimentar,9087,Licenciatura,159,Sim,10,"6,2",2009/10_2012/13,DGES
+Instituto Politécnico de Setúbal,3150,Escola Superior de Tecnologia de Setúbal,3152,Público,Politécnico,Engenharia Electrotécnica e de Computadores,9112,Licenciatura,128,Sim,8,"6,2",2009/10_2012/13,DGES
+Escola Superior de Enfermagem do Porto,7003,Escola Superior de Enfermagem do Porto,7003,Público,Politécnico,Enfermagem,9500,Licenciatura,925,Sim,58,"6,2",2009/10_2012/13,DGES
+Instituto Politécnico de Coimbra,3060,Escola Superior de Tecnologia da Saúde de Coimbra,7210,Público,Politécnico,Farmácia,9549,Licenciatura,112,Sim,7,"6,2",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Biologia,9011,Licenciatura,178,Sim,11,"6,1",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Ciências e Tecnologia,501,Público,Universitário,Engenharia Electrotécnica e de Computadores,9367,Mestrado Integrado,261,Sim,16,"6,1",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Engenharia,1105,Público,Universitário,Engenharia Química,9461,Mestrado Integrado,212,Sim,13,"6,1",2009/10_2012/13,DGES
+Instituto Superior Politécnico Gaya,4440,Escola Superior de Ciência e Tecnologia,4442,Privado,Politécnico,Gestão,9147,Licenciatura,33,Sim,2,"6,1",2009/10_2012/13,DGEEC
+Universidade do Algarve,200,Faculdade de Ciências e Tecnologia,203,Público,Universitário,Engenharia Informática,9119,Licenciatura,82,Sim,5,6,2009/10_2012/13,DGES
+Universidade da Beira Interior,400,Universidade da Beira Interior,400,Público,Universitário,Estudos Portugueses e Espanhóis,9918,Licenciatura,82,Sim,5,6,2009/10_2012/13,DGES
+Universidade de Évora,600,Escola de Ciências Sociais,604,Público,Universitário,Educação Básica,9853,Licenciatura,100,Sim,6,6,2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Ciências Sociais e Humanas,902,Público,Universitário,Filosofia,9139,Licenciatura,83,Sim,5,6,2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Tecnologia e Gestão,3102,Público,Politécnico,Contabilidade e Finanças,9627,Licenciatura,214,Sim,13,6,2009/10_2012/13,DGES
+Instituto Politécnico de Setúbal,3150,Escola Superior de Educação,3151,Público,Politécnico,Desporto,9563,Licenciatura,83,Sim,5,6,2009/10_2012/13,DGES
+Instituto Politécnico de Setúbal,3150,Escola Superior de Saúde,3155,Público,Politécnico,Fisioterapia,9504,Licenciatura,166,Sim,10,6,2009/10_2012/13,DGES
+Escola Superior de Saúde da Cruz Vermelha Portuguesa,4091,Escola Superior de Saúde da Cruz Vermelha Portuguesa,4091,Privado,Politécnico,Fisioterapia,9504,Licenciatura,184,Sim,11,6,2009/10_2012/13,DGEEC
+Instituto Superior Miguel Torga,4500,Instituto Superior Miguel Torga,4500,Privado,Universitário,Psicologia,9219,Licenciatura,348,Sim,21,6,2009/10_2012/13,DGEEC
+ISCTE - Instituto Universitário de Lisboa,6800,ISCTE - Instituto Universitário de Lisboa,6800,Público,Universitário,Antropologia,9448,Licenciatura,166,Sim,10,6,2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Tecnologia da Saúde do Porto,7230,Público,Politécnico,Terapia Ocupacional,8138,Licenciatura,199,Sim,12,6,2009/10_2012/13,DGES
+Universidade de Évora,600,Escola de Ciências e Tecnologia,602,Público,Universitário,Ciência e Tecnologia Animal,9818,Licenciatura,67,Sim,4,"5,9",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Farmácia,1505,Público,Universitário,Ciências Farmacêuticas,9494,Mestrado Integrado,977,Sim,58,"5,9",2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Instituto Superior de Contabilidade e Administração de Lisboa,3117,Público,Politécnico,Finanças Empresariais,9476,Licenciatura,168,Sim,10,"5,9",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Instituto Superior de Engenharia do Porto,3135,Público,Politécnico,Engenharia Informática,9119,Licenciatura,617,Sim,37,"5,9",2009/10_2012/13,DGES
+Universidade de Évora,600,Escola de Ciências Sociais,604,Público,Universitário,Psicologia,9219,Licenciatura,170,Sim,10,"5,8",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Ciências e Tecnologia,903,Público,Universitário,Engenharia do Ambiente,9508,Mestrado Integrado,411,Sim,24,"5,8",2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências da Vida e do Ambiente,1204,Público,Universitário,Biologia e Geologia,9012,Licenciatura,34,Sim,2,"5,8",2009/10_2012/13,DGES
+Instituto Politécnico de Coimbra,3060,Instituto Superior de Engenharia de Coimbra,3064,Público,Politécnico,Engenharia Mecânica,9123,Licenciatura,239,Sim,14,"5,8",2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Escola Superior de Música,3114,Público,Politécnico,"Música, variante de Composição, Direção e Formação Musical",L012,Licenciatura,51,Sim,3,"5,8",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Instituto Superior de Engenharia do Porto,3135,Público,Politécnico,Engenharia Electrotécnica - Sistemas Eléctricos de Energia,9110,Licenciatura,205,Sim,12,"5,8",2009/10_2012/13,DGES
+Instituto Politécnico de Viseu,3180,Escola Superior de Tecnologia e Gestão de Viseu,3182,Público,Politécnico,Engenharia Informática,9119,Licenciatura,155,Sim,9,"5,8",2009/10_2012/13,DGES
+ISCTE - Instituto Universitário de Lisboa,6800,ISCTE - Instituto Universitário de Lisboa,6800,Público,Universitário,Gestão de Recursos Humanos,9157,Licenciatura,153,Sim,9,"5,8",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Tecnologia da Saúde do Porto,7230,Público,Politécnico,Medicina Nuclear,8151,Licenciatura,51,Sim,3,"5,8",2009/10_2012/13,DGES
+Universidade do Algarve,200,Faculdade de Ciências Humanas e Sociais,201,Público,Universitário,Psicologia,9219,Licenciatura,210,Sim,12,"5,7",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Instituto Superior de Estatística e Gestão de Informação,906,Público,Universitário,Gestão de Informação,9155,Licenciatura,139,Sim,8,"5,7",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Economia,1104,Público,Universitário,Economia,9081,Licenciatura,935,Sim,54,"5,7",2009/10_2012/13,DGES
+Universidade Autónoma de Lisboa Luís de Camões,2100,Universidade Autónoma de Lisboa Luís de Camões,2100,Privado,Universitário,Relações Internacionais,9229,Licenciatura,53,Sim,3,"5,7",2009/10_2012/13,DGEEC
+Instituto Politécnico de Portalegre,3120,Escola Superior de Tecnologia e Gestão,3122,Público,Politécnico,Engenharia Informática,9119,Licenciatura,35,Sim,2,"5,7",2009/10_2012/13,DGES
+Instituto Politécnico de Santarém,3140,Escola Superior Agrária de Santarém,3141,Público,Politécnico,Produção Animal,L011,Licenciatura,87,Sim,5,"5,7",2009/10_2012/13,DGES
+Instituto Superior de Ciências da Saúde Egas Moniz,4260,Instituto Superior de Ciências da Saúde Egas Moniz,4260,Privado,Universitário,Ciências da Nutrição,9554,Licenciatura,300,Sim,17,"5,7",2009/10_2012/13,DGEEC
+Universidade Nova de Lisboa,900,Faculdade de Ciências e Tecnologia,903,Público,Universitário,Engenharia Química e Bioquímica,9370,Mestrado Integrado,141,Sim,8,"5,6",2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Educação Básica,9853,Licenciatura,283,Sim,16,"5,6",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Universidade de Lisboa,1500,Público,Universitário,Ciências da Saúde,9822,Licenciatura,125,Sim,7,"5,6",2009/10_2012/13,DGES
+Universidade Lusíada,2400,Universidade Lusíada,2400,Privado,Universitário,Relações Internacionais,9229,Licenciatura,72,Sim,4,"5,6",2009/10_2012/13,DGEEC
+Instituto Politécnico de Lisboa,3110,Escola Superior de Teatro e Cinema,3116,Público,Politécnico,Teatro,9243,Licenciatura,177,Sim,10,"5,6",2009/10_2012/13,DGES
+Instituto Superior de Entre Douro e Vouga,4283,Instituto Superior de Entre Douro e Vouga,4283,Privado,Politécnico,Engenharia de Produção Industrial,9097,Licenciatura,71,Sim,4,"5,6",2009/10_2012/13,DGEEC
+Instituto Superior de Educação e Ciências,4298,Instituto Superior de Educação e Ciências,4298,Privado,Politécnico,Engenharia da Segurança do Trabalho,8187,Licenciatura,126,Sim,7,"5,6",2009/10_2012/13,DGEEC
+Universidade Nova de Lisboa,900,Faculdade de Ciências e Tecnologia,903,Público,Universitário,Bioquímica,9015,Licenciatura,181,Sim,10,"5,5",2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Engenharia de Materiais,9363,Mestrado Integrado,54,Sim,3,"5,5",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Motricidade Humana,1510,Público,Universitário,Ciências do Desporto,9707,Licenciatura,395,Sim,22,"5,5",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior Técnico (Alameda),1518,Público,Universitário,Engenharia Biológica,9358,Mestrado Integrado,143,Sim,8,"5,5",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior Técnico (Alameda),1518,Público,Universitário,Engenharia do Ambiente,9508,Mestrado Integrado,90,Sim,5,"5,5",2009/10_2012/13,DGES
+Escola Superior de Saúde do Alcoitão,4105,Escola Superior de Saúde do Alcoitão,4105,Privado,Politécnico,Terapia Ocupacional,8138,Licenciatura,164,Sim,9,"5,5",2009/10_2012/13,DGEEC
+Instituto Superior de Educação e Ciências,4298,Instituto Superior de Educação e Ciências,4298,Privado,Politécnico,Gestão Hoteleira,9173,Licenciatura,73,Sim,4,"5,5",2009/10_2012/13,DGEEC
+Instituto Superior de Gestão Bancária,4305,Instituto Superior de Gestão Bancária,4305,Privado,Politécnico,Gestão Bancária,9646,Licenciatura,400,Sim,22,"5,5",2009/10_2012/13,DGEEC
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Engenharia de Computadores e Telemática,9361,Mestrado Integrado,128,Sim,7,"5,4",2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Ciências da Computação,9397,Licenciatura,91,Sim,5,"5,4",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Ciências,1103,Público,Universitário,Ciência de Computadores,9696,Licenciatura,73,Sim,4,"5,4",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior Técnico (Alameda),1518,Público,Universitário,Engenharia Mecânica,9369,Mestrado Integrado,333,Sim,18,"5,4",2009/10_2012/13,DGES
+Instituto Politécnico de Castelo Branco,3050,Escola Superior de Tecnologia de Castelo Branco,3053,Público,Politécnico,Tecnologias da Informação e Multimédia,9248,Licenciatura,74,Sim,4,"5,4",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Educação e Ciências Sociais,3101,Público,Politécnico,Tradução e Interpretação: Português/Chinês - Chinês/Português,9492,Licenciatura,37,Sim,2,"5,4",2009/10_2012/13,DGES
+Instituto Superior de Estudos Interculturais e Transdisciplinares - Almada,4306,Instituto Superior de Estudos Interculturais e Transdisciplinares - Almada,4306,Privado,Universitário,Gestão,9147,Licenciatura,37,Sim,2,"5,4",2009/10_2012/13,DGEEC
+Instituto Superior Miguel Torga,4500,Instituto Superior Miguel Torga,4500,Privado,Universitário,Gestão,9147,Licenciatura,56,Sim,3,"5,4",2009/10_2012/13,DGEEC
+Universidade de Coimbra,500,Faculdade de Ciências e Tecnologia,501,Público,Universitário,Engenharia Mecânica,9369,Mestrado Integrado,204,Sim,11,"5,3",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Ciências,1503,Público,Universitário,Química Tecnológica,9226,Licenciatura,56,Sim,3,"5,3",2009/10_2012/13,DGES
+Instituto Politécnico de Castelo Branco,3050,Escola Superior de Artes Aplicadas de Castelo Branco,3055,Público,Politécnico,"Música, variante de Instrumento",9784,Licenciatura,56,Sim,3,"5,3",2009/10_2012/13,DGES
+Instituto Politécnico de Coimbra,3060,Escola Superior Agrária de Coimbra,3061,Público,Politécnico,Biotecnologia,9016,Licenciatura,130,Sim,7,"5,3",2009/10_2012/13,DGES
+Instituto Politécnico de Setúbal,3150,Escola Superior de Ciências Empresariais,3153,Público,Politécnico,Contabilidade e Finanças,9627,Licenciatura,371,Sim,20,"5,3",2009/10_2012/13,DGES
+Universidade da Beira Interior,400,Universidade da Beira Interior,400,Público,Universitário,Bioquímica,9015,Licenciatura,96,Sim,5,"5,2",2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Optometria e Ciências da Visão,8184,Licenciatura,228,Sim,12,"5,2",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Ciências,1103,Público,Universitário,Geologia,9146,Licenciatura,57,Sim,3,"5,2",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Medicina Veterinária,1509,Público,Universitário,Medicina Veterinária,9847,Mestrado Integrado,345,Sim,18,"5,2",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Ciências,1503,Público,Universitário,Engenharia Geográfica,9115,Licenciatura,77,Sim,4,"5,1",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Ciências,1503,Público,Universitário,Engenharia Biomédica e Biofísica,9845,Mestrado Integrado,39,Sim,2,"5,1",2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Escola Superior de Comunicação Social,3113,Público,Politécnico,Relações Públicas e Comunicação Empresarial,9231,Licenciatura,174,Sim,9,"5,1",2009/10_2012/13,DGES
+Instituto Superior de Ciências da Administração,4275,Instituto Superior de Ciências da Administração,4275,Privado,Politécnico,Contabilidade e Administração,9058,Licenciatura,117,Sim,6,"5,1",2009/10_2012/13,DGEEC
+Instituto Superior de Línguas e Administração de Leiria,4354,Instituto Superior de Línguas e Administração de Leiria,4354,Privado,Universitário,Gestão de Recursos Humanos,9157,Licenciatura,39,Sim,2,"5,1",2009/10_2012/13,DGEEC
+Universidade do Algarve,200,Faculdade de Ciências e Tecnologia,203,Público,Universitário,Biologia Marinha,9013,Licenciatura,99,Sim,5,5,2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Biologia Aplicada,9688,Licenciatura,177,Sim,9,5,2009/10_2012/13,DGES
+Universidade Aberta,1400,Universidade Aberta,1400,Público,Universitário,Educação,9353,Licenciatura,318,Sim,16,5,2009/10_2012/13,DGEEC/DGES
+Universidade Aberta,1400,Universidade Aberta,1400,Público,Universitário,Ciências Sociais,9712,Licenciatura,965,Sim,48,5,2009/10_2012/13,DGEEC/DGES
+Universidade Autónoma de Lisboa Luís de Camões,2100,Universidade Autónoma de Lisboa Luís de Camões,2100,Privado,Universitário,Direito,9078,Licenciatura,660,Sim,33,5,2009/10_2012/13,DGEEC
+Universidade Católica Portuguesa,2200,Escola Superior Politécnica de Saúde (Lisboa),2215,Privado,Politécnico,Enfermagem,9500,Licenciatura,222,Sim,11,5,2009/10_2012/13,DGEEC
+Instituto Politécnico de Leiria,3100,Escola Superior de Turismo e Tecnologia do Mar de Peniche,3105,Público,Politécnico,Restauração e Catering,9484,Licenciatura,80,Sim,4,5,2009/10_2012/13,DGES
+Instituto Superior de Educação e Ciências,4298,Instituto Superior de Educação e Ciências,4298,Privado,Politécnico,Engenharia da Protecção Civil,8383,Licenciatura,80,Sim,4,5,2009/10_2012/13,DGEEC
+Instituto Superior de Gestão Bancária,4305,Instituto Superior de Gestão Bancária,4305,Privado,Politécnico,Gestão e Sistemas de Informação,9647,Licenciatura,40,Sim,2,5,2009/10_2012/13,DGEEC
+Universidade do Porto,1100,Faculdade de Ciências,1103,Público,Universitário,Arquitectura Paisagista,8258,Licenciatura,121,Sim,6,"4,9",2009/10_2012/13,DGES
+Universidade Aberta,1400,Universidade Aberta,1400,Público,Universitário,Estudos Europeus,9135,Licenciatura,102,Sim,5,"4,9",2009/10_2012/13,DGEEC/DGES
+Universidade de Lisboa,1500,Faculdade de Letras,1506,Público,Universitário,Filosofia,9139,Licenciatura,61,Sim,3,"4,9",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Letras,1506,Público,Universitário,Tradução,9252,Licenciatura,121,Sim,6,"4,9",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior de Economia e Gestão,1517,Público,Universitário,Finanças,9140,Licenciatura,81,Sim,4,"4,9",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior de Economia e Gestão,1517,Público,Universitário,Gestão,9147,Licenciatura,744,Sim,37,"4,9",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior Técnico (Alameda),1518,Público,Universitário,Arquitectura,9257,Mestrado Integrado,181,Sim,9,"4,9",2009/10_2012/13,DGES
+Instituto Politécnico de Coimbra,3060,Instituto Superior de Engenharia de Coimbra,3064,Público,Politécnico,Engenharia e Gestão Industrial,9104,Licenciatura,61,Sim,3,"4,9",2009/10_2012/13,DGES
+Instituto Politécnico de Setúbal,3150,Escola Superior de Educação,3151,Público,Politécnico,Educação Básica,9853,Licenciatura,221,Sim,11,"4,9",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Engenharia Física,9368,Mestrado Integrado,62,Sim,3,"4,8",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Ciências e Tecnologia,903,Público,Universitário,Engenharia Mecânica,9369,Mestrado Integrado,143,Sim,7,"4,8",2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências da Vida e do Ambiente,1204,Público,Universitário,Bioquímica,9015,Licenciatura,103,Sim,5,"4,8",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior de Economia e Gestão,1517,Público,Universitário,Economia,9081,Licenciatura,500,Sim,24,"4,8",2009/10_2012/13,DGES
+Instituto Politécnico de Castelo Branco,3050,Escola Superior de Educação de Castelo Branco,3052,Público,Politécnico,Secretariado,9485,Licenciatura,82,Sim,4,"4,8",2009/10_2012/13,DGES
+Universidade do Algarve,200,Escola Superior de Educação e Comunicação,3081,Público,Politécnico,Educação Básica,9853,Licenciatura,125,Sim,6,"4,8",2009/10_2012/13,DGES
+Instituto Politécnico da Guarda,3090,"Escola Superior de Educação, Comunicação e Desporto",3091,Público,Politécnico,Educação Básica,9853,Licenciatura,83,Sim,4,"4,8",2009/10_2012/13,DGES
+Instituto Superior de Estudos Interculturais e Transdisciplinares - Almada,4306,Instituto Superior de Estudos Interculturais e Transdisciplinares - Almada,4306,Privado,Universitário,Psicologia,9219,Licenciatura,83,Sim,4,"4,8",2009/10_2012/13,DGEEC
+Instituto Superior Manuel Teixeira Gomes,4375,Instituto Superior Manuel Teixeira Gomes,4375,Privado,Universitário,Educação Física e Desporto,9736,Licenciatura,42,Sim,2,"4,8",2009/10_2012/13,DGEEC
+Instituto Politécnico de Viana do Castelo,3160,Escola Superior de Saúde de Viana do Castelo,7075,Público,Politécnico,Enfermagem,9500,Licenciatura,247,Sim,12,"4,8",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Psicologia e de Ciências da Educação,507,Público,Universitário,Ciências da Educação,9026,Licenciatura,230,Sim,11,"4,7",2009/10_2012/13,DGES
+Instituto Politécnico de Bragança,3040,Escola Superior de Educação de Bragança,3042,Público,Politécnico,Línguas para Relações Internacionais,8374,Licenciatura,42,Sim,2,"4,7",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Engenharia,1105,Público,Universitário,Engenharia Metalúrgica e de Materiais,9460,Mestrado Integrado,86,Sim,4,"4,6",2009/10_2012/13,DGES
+Instituto Politécnico de Coimbra,3060,Instituto Superior de Engenharia de Coimbra,3064,Público,Politécnico,Engenharia Informática,9119,Licenciatura,279,Sim,13,"4,6",2009/10_2012/13,DGES
+Instituto Politécnico de Viseu,3180,Escola Superior de Saúde de Viseu,7085,Público,Politécnico,Enfermagem,9500,Licenciatura,385,Sim,18,"4,6",2009/10_2012/13,DGES
+Escola Superior de Hotelaria e Turismo do Estoril,7110,Escola Superior de Hotelaria e Turismo do Estoril,7110,Público,Politécnico,Direcção e Gestão Hoteleira,9076,Licenciatura,326,Sim,15,"4,6",2009/10_2012/13,DGES
+Escola Superior de Hotelaria e Turismo do Estoril,7110,Escola Superior de Hotelaria e Turismo do Estoril,7110,Público,Politécnico,Produção Alimentar em Restauração,9217,Licenciatura,236,Sim,11,"4,6",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Bioquímica,9015,Licenciatura,154,Sim,7,"4,5",2009/10_2012/13,DGES
+Universidade da Beira Interior,400,Universidade da Beira Interior,400,Público,Universitário,Biotecnologia,9016,Licenciatura,44,Sim,2,"4,5",2009/10_2012/13,DGES
+Universidade da Beira Interior,400,Universidade da Beira Interior,400,Público,Universitário,Engenharia Informática,9119,Licenciatura,132,Sim,6,"4,5",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Ciências e Tecnologia,501,Público,Universitário,Antropologia,9448,Licenciatura,131,Sim,6,"4,5",2009/10_2012/13,DGES
+Universidade Católica Portuguesa,2200,Centro Regional das Beiras,2225,Privado,Universitário,Medicina Dentária,9548,Mestrado Integrado,198,Sim,9,"4,5",2009/10_2012/13,DGEEC
+Universidade Atlântica,2700,Escola Superior de Saúde Atlântica,2701,Privado,Politécnico,Enfermagem,9500,Licenciatura,176,Sim,8,"4,5",2009/10_2012/13,DGEEC
+Instituto Politécnico de Setúbal,3150,Escola Superior de Tecnologia de Setúbal,3152,Público,Politécnico,Tecnologia e Gestão Industrial (regime nocturno),9862,Licenciatura,66,Sim,3,"4,5",2009/10_2012/13,DGES
+ISCTE - Instituto Universitário de Lisboa,6800,ISCTE - Instituto Universitário de Lisboa,6800,Público,Universitário,Finanças e Contabilidade,8029,Licenciatura,200,Sim,9,"4,5",2009/10_2012/13,DGES
+Escola Superior Náutica Infante D. Henrique,7105,Escola Superior Náutica Infante D. Henrique,7105,Público,Politécnico,Gestão Portuária,9926,Licenciatura,44,Sim,2,"4,5",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Música,9214,Licenciatura,157,Sim,7,"4,4",2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Engenharia Biomédica,9359,Mestrado Integrado,178,Sim,8,"4,4",2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências e Tecnologia,1203,Público,Universitário,Engenharia Biomédica,9455,Licenciatura,45,Sim,2,"4,4",2009/10_2012/13,DGES
+Universidade do Algarve,200,"Escola Superior de Gestão, Hotelaria e Turismo",3082,Público,Politécnico,Assessoria de Administração (regime nocturno),9008,Licenciatura,113,Sim,5,"4,4",2009/10_2012/13,DGES
+Instituto Politécnico de Santarém,3140,Escola Superior de Educação de Santarém,3142,Público,Politécnico,Educação Básica,9853,Licenciatura,202,Sim,9,"4,4",2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Escola Superior de Tecnologia da Saúde de Lisboa,7220,Público,Politécnico,Saúde Ambiental,9861,Licenciatura,89,Sim,4,"4,4",2009/10_2012/13,DGES
+Universidade da Beira Interior,400,Universidade da Beira Interior,400,Público,Universitário,Engenharia Electromecânica,9105,Licenciatura,69,Sim,3,"4,3",2009/10_2012/13,DGES
+Universidade de Évora,600,Escola de Artes,603,Público,Universitário,Música,9214,Licenciatura,114,Sim,5,"4,3",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Ciências,1103,Público,Universitário,Bioquímica,9015,Licenciatura,184,Sim,8,"4,3",2009/10_2012/13,DGES
+Universidade Católica Portuguesa,2200,Faculdade de Educação e Psicologia,2289,Privado,Universitário,Psicologia,9219,Licenciatura,164,Sim,7,"4,3",2009/10_2012/13,DGEEC
+Universidade de Aveiro,300,Escola Superior de Saúde de Aveiro,3013,Público,Politécnico,Enfermagem,9500,Licenciatura,254,Sim,11,"4,3",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Instituto Superior de Engenharia do Porto,3135,Público,Politécnico,Engenharia Electrotécnica e de Computadores,9112,Licenciatura,388,Sim,17,"4,3",2009/10_2012/13,DGES
+Escola Superior de Saúde Jean Piaget - Algarve,4102,Escola Superior de Saúde Jean Piaget - Algarve,4102,Privado,Politécnico,Enfermagem,9500,Licenciatura,186,Sim,8,"4,3",2009/10_2012/13,DGEEC
+Instituto Superior Autónomo de Estudos Politécnicos,4160,Instituto Superior Autónomo de Estudos Politécnicos,4160,Privado,Politécnico,Engenharia Mecânica,9123,Licenciatura,46,Sim,2,"4,3",2009/10_2012/13,DGEEC
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,"Línguas, Literaturas e Culturas",9204,Licenciatura,95,Sim,4,"4,2",2009/10_2012/13,DGES
+Instituto Politécnico de Setúbal,3150,Escola Superior de Tecnologia de Setúbal,3152,Público,Politécnico,"Engenharia de Automação, Controlo e Instrumentação",9092,Licenciatura,47,Sim,2,"4,2",2009/10_2012/13,DGES
+Instituto Politécnico de Viseu,3180,Escola Superior de Educação de Viseu,3181,Público,Politécnico,Educação Básica,9853,Licenciatura,166,Sim,7,"4,2",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Ciências e Tecnologia,903,Público,Universitário,Conservação - Restauro,8036,Licenciatura,72,Sim,3,"4,1",2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências e Tecnologia,1203,Público,Universitário,Engenharia Electrotécnica e de Computadores,9112,Licenciatura,96,Sim,4,"4,1",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior Técnico (Taguspark),1519,Público,Universitário,Engenharia e Gestão Industrial,9104,Licenciatura,195,Sim,8,"4,1",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Tecnologia e Gestão,3102,Público,Politécnico,Engenharia Automóvel,9741,Licenciatura,143,Sim,6,"4,1",2009/10_2012/13,DGES
+Instituto Politécnico de Setúbal,3150,Escola Superior de Ciências Empresariais,3153,Público,Politécnico,Gestão de Sistemas de Informação,9630,Licenciatura,120,Sim,5,"4,1",2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Escola Superior de Tecnologia da Saúde de Lisboa,7220,Público,Politécnico,Medicina Nuclear,8151,Licenciatura,97,Sim,4,"4,1",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Matemática,9209,Licenciatura,50,Sim,2,4,2009/10_2012/13,DGES
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Psicologia,9219,Licenciatura,100,Sim,4,4,2009/10_2012/13,DGES
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Engenharia Mecânica,9369,Mestrado Integrado,222,Sim,9,4,2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Ciências e Tecnologia,501,Público,Universitário,Matemática,9209,Licenciatura,74,Sim,3,4,2009/10_2012/13,DGES
+Universidade de Évora,600,Escola de Ciências e Tecnologia,602,Público,Universitário,Engenharia Informática,9119,Licenciatura,74,Sim,3,4,2009/10_2012/13,DGES
+Escola Universitária Vasco da Gama,4126,Escola Universitária Vasco da Gama,4126,Privado,Universitário,Medicina Veterinária,9847,Mestrado Integrado,100,Sim,4,4,2009/10_2012/13,DGEEC
+Escola Superior de Enfermagem de Coimbra,7001,Escola Superior de Enfermagem de Coimbra,7001,Público,Politécnico,Enfermagem,9500,Licenciatura,1221,Sim,50,4,2009/10_2012/13,DGES
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Educação Básica,9853,Licenciatura,226,Sim,9,"3,9",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Ciências e Tecnologia,903,Público,Universitário,Engenharia Geológica,9116,Licenciatura,51,Sim,2,"3,9",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Ciências,1503,Público,Universitário,Física,9141,Licenciatura,51,Sim,2,"3,9",2009/10_2012/13,DGES
+Universidade Autónoma de Lisboa Luís de Camões,2100,Universidade Autónoma de Lisboa Luís de Camões,2100,Privado,Universitário,Engenharia Informática,9119,Licenciatura,153,Sim,6,"3,9",2009/10_2012/13,DGEEC
+Universidade de Coimbra,500,Faculdade de Ciências e Tecnologia,501,Público,Universitário,Biologia,9011,Licenciatura,310,Sim,12,"3,8",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Ciências e Tecnologia,903,Público,Universitário,Química Aplicada,9224,Licenciatura,103,Sim,4,"3,8",2009/10_2012/13,DGES
+Universidade Aberta,1400,Universidade Aberta,1400,Público,Universitário,Gestão,9147,Licenciatura,341,Sim,13,"3,8",2009/10_2012/13,DGEEC/DGES
+Instituto Politécnico de Santarém,3140,Escola Superior Agrária de Santarém,3141,Público,Politécnico,Agronomia,9003,Licenciatura,105,Sim,4,"3,8",2009/10_2012/13,DGES
+Universidade da Beira Interior,400,Universidade da Beira Interior,400,Público,Universitário,Ciências Biomédicas,9351,Licenciatura,158,Sim,6,"3,7",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Ciências e Tecnologia,501,Público,Universitário,Engenharia Biomédica,9359,Mestrado Integrado,158,Sim,6,"3,7",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Ciências Sociais e Humanas,902,Público,Universitário,"Línguas, Literaturas e Culturas",9204,Licenciatura,214,Sim,8,"3,7",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Ciências e Tecnologia,903,Público,Universitário,Engenharia de Materiais,9363,Mestrado Integrado,54,Sim,2,"3,7",2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Escola Superior de Tecnologia da Saúde de Lisboa,7220,Público,Politécnico,Cardiopneumologia,8137,Licenciatura,135,Sim,5,"3,7",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Ciências e Tecnologia,903,Público,Universitário,Engenharia Civil,9360,Mestrado Integrado,277,Sim,10,"3,6",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior Técnico (Alameda),1518,Público,Universitário,Engenharia Física Tecnológica,9458,Mestrado Integrado,111,Sim,4,"3,6",2009/10_2012/13,DGES
+Universidade Católica Portuguesa,2200,Faculdade de Ciências Económicas e Empresariais,2270,Privado,Universitário,Economia,9081,Licenciatura,139,Sim,5,"3,6",2009/10_2012/13,DGEEC
+Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Electrotécnica e de Computadores,9112,Licenciatura,82,Sim,3,"3,6",2009/10_2012/13,DGES
+Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Engenharia Informática,9119,Licenciatura,83,Sim,3,"3,6",2009/10_2012/13,DGES
+Escola Superior de Educação Jean Piaget de Almada,4077,Escola Superior de Educação Jean Piaget de Almada,4077,Privado,Politécnico,Educação Básica,9853,Licenciatura,137,Sim,5,"3,6",2009/10_2012/13,DGEEC
+Escola Superior de Saúde Ribeiro Sanches,4104,Escola Superior de Saúde Ribeiro Sanches,4104,Privado,Politécnico,Enfermagem,9500,Licenciatura,196,Sim,7,"3,6",2009/10_2012/13,DGEEC
+Instituto Superior de Novas Profissões,4150,Instituto Superior de Novas Profissões,4150,Privado,Politécnico,Secretariado (Assessoria de Direcção e Administração),9233,Licenciatura,55,Sim,2,"3,6",2009/10_2012/13,DGEEC
+ISCTE - Instituto Universitário de Lisboa,6800,ISCTE - Instituto Universitário de Lisboa,6800,Público,Universitário,Gestão,9147,Licenciatura,791,Sim,29,"3,6",2009/10_2012/13,DGES
+Instituto Politécnico de Coimbra,3060,Instituto Superior de Contabilidade e Administração de Coimbra,3063,Público,Politécnico,Informática de Gestão,9186,Licenciatura,85,Sim,3,"3,5",2009/10_2012/13,DGES
+Instituto Superior de Estudos Interculturais e Transdisciplinares - Almada,4306,Instituto Superior de Estudos Interculturais e Transdisciplinares - Almada,4306,Privado,Universitário,Motricidade Humana,9780,Licenciatura,113,Sim,4,"3,5",2009/10_2012/13,DGEEC
+ISCTE - Instituto Universitário de Lisboa,6800,ISCTE - Instituto Universitário de Lisboa,6800,Público,Universitário,Psicologia,9219,Licenciatura,226,Sim,8,"3,5",2009/10_2012/13,DGES
+Universidade da Beira Interior,400,Universidade da Beira Interior,400,Público,Universitário,Psicologia,9219,Licenciatura,147,Sim,5,"3,4",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Engenharia,1105,Público,Universitário,Bioengenharia,9493,Mestrado Integrado,117,Sim,4,"3,4",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Ciências,1503,Público,Universitário,Biologia,9011,Licenciatura,547,Sim,19,"3,4",2009/10_2012/13,DGES
+Universidade Europeia,4350,Universidade Europeia,4350,Privado,Universitário,Informática de Gestão,9186,Licenciatura,87,Sim,3,"3,4",2009/10_2012/13,DGEEC
+Escola Superior de Hotelaria e Turismo do Estoril,7110,Escola Superior de Hotelaria e Turismo do Estoril,7110,Público,Politécnico,Informação Turística,9183,Licenciatura,117,Sim,4,"3,4",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Engenharia,1105,Público,Universitário,Engenharia Electrotécnica e de Computadores,9367,Mestrado Integrado,716,Sim,24,"3,3",2009/10_2012/13,DGES
+Universidade Autónoma de Lisboa Luís de Camões,2100,Universidade Autónoma de Lisboa Luís de Camões,2100,Privado,Universitário,Informática de Gestão,9186,Licenciatura,30,Sim,1,"3,3",2009/10_2012/13,DGEEC
+Universidade do Algarve,200,Escola Superior de Saúde,7035,Público,Politécnico,Ortoprotesia,8152,Licenciatura,59,Sim,2,"3,3",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Ciências e Tecnologia,501,Público,Universitário,Geologia,9146,Licenciatura,62,Sim,2,"3,2",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior Técnico (Alameda),1518,Público,Universitário,Engenharia Biomédica,9359,Mestrado Integrado,125,Sim,4,"3,2",2009/10_2012/13,DGES
+Instituto Politécnico de Setúbal,3150,Escola Superior de Tecnologia de Setúbal,3152,Público,Politécnico,Engenharia Informática,9119,Licenciatura,125,Sim,4,"3,2",2009/10_2012/13,DGES
+Instituto Politécnico de Tomar,3240,Escola Superior de Tecnologia de Tomar,3242,Público,Politécnico,Artes Plásticas - Pintura e Intermédia,9643,Licenciatura,61,Sim,2,"3,2",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Ciências Sociais e Humanas,902,Público,Universitário,Ciências Musicais,9046,Licenciatura,94,Sim,3,"3,1",2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Engenharia Electrónica Industrial e Computadores,9366,Mestrado Integrado,221,Sim,7,"3,1",2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências da Vida e do Ambiente,1204,Público,Universitário,Genética e Biotecnologia,9761,Licenciatura,161,Sim,5,"3,1",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior Técnico (Alameda),1518,Público,Universitário,Engenharia Informática e de Computadores,9121,Licenciatura,439,Sim,14,"3,1",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior Técnico (Alameda),1518,Público,Universitário,Engenharia e Arquitectura Naval,9911,Licenciatura,32,Sim,1,"3,1",2009/10_2012/13,DGES
+Universidade Lusíada,2400,Universidade Lusíada,2400,Privado,Universitário,Políticas de Segurança,8058,Licenciatura,64,Sim,2,"3,1",2009/10_2012/13,DGEEC
+Universidade Atlântica,2700,Universidade Atlântica,2700,Privado,Universitário,Gestão do Ambiente e do Território,9161,Licenciatura,32,Sim,1,"3,1",2009/10_2012/13,DGEEC
+Instituto Politécnico de Lisboa,3110,Instituto Superior de Engenharia de Lisboa,3118,Público,Politécnico,Engenharia Electrotécnica,9109,Licenciatura,347,Sim,11,"3,1",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Estudos Industriais e de Gestão,3133,Público,Politécnico,Contabilidade e Administração,9058,Licenciatura,190,Sim,6,"3,1",2009/10_2012/13,DGES
+Instituto Politécnico de Beja,3020,Escola Superior de Saúde,7005,Público,Politécnico,Enfermagem,9500,Licenciatura,251,Sim,8,"3,1",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Engenharia,1105,Público,Universitário,Engenharia Mecânica,9369,Mestrado Integrado,499,Sim,15,3,2009/10_2012/13,DGES
+Universidade de Trás-os-Montes e Alto Douro,1200,Escola de Ciências e Tecnologia,1203,Público,Universitário,Engenharia Informática,9119,Licenciatura,65,Sim,2,3,2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Ciências,1503,Público,Universitário,"Meteorologia, Oceanografia e Geofísica",9212,Licenciatura,33,Sim,1,3,2009/10_2012/13,DGES
+Instituto Politécnico de Coimbra,3060,Instituto Superior de Engenharia de Coimbra,3064,Público,Politécnico,Engenharia Biomédica,9455,Licenciatura,66,Sim,2,3,2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Instituto Superior de Engenharia de Lisboa,3118,Público,Politécnico,Engenharia Electrónica e Telecomunicações e de Computadores,9108,Licenciatura,165,Sim,5,3,2009/10_2012/13,DGES
+Escola Superior de Saúde Egas Moniz,4106,Escola Superior de Saúde Egas Moniz,4106,Privado,Politécnico,Enfermagem,9500,Licenciatura,169,Sim,5,3,2009/10_2012/13,DGEEC
+Universidade Europeia,4350,Universidade Europeia,4350,Privado,Universitário,Gestão da Segurança e Protecção Civil,8148,Licenciatura,99,Sim,3,3,2009/10_2012/13,DGEEC
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Engenharia Informática,9119,Licenciatura,401,Sim,12,"2,9",2009/10_2012/13,DGES
+Universidade Aberta,1400,Universidade Aberta,1400,Público,Universitário,Línguas Aplicadas,9192,Licenciatura,34,Sim,1,"2,9",2009/10_2012/13,DGEEC/DGES
+Universidade Aberta,1400,Universidade Aberta,1400,Público,Universitário,Ciências do Ambiente,9379,Licenciatura,35,Sim,1,"2,9",2009/10_2012/13,DGEEC/DGES
+Universidade de Lisboa,1500,Faculdade de Ciências,1503,Público,Universitário,Bioquímica,9015,Licenciatura,167,Sim,5,"2,9",2009/10_2012/13,DGES
+Universidade Católica Portuguesa,2200,Faculdade de Ciências Económicas e Empresariais,2270,Privado,Universitário,Administração e Gestão de Empresas,9059,Licenciatura,629,Sim,18,"2,9",2009/10_2012/13,DGEEC
+Universidade Católica Portuguesa,2200,Faculdade de Direito,2280,Privado,Universitário,Direito,9078,Licenciatura,342,Sim,10,"2,9",2009/10_2012/13,DGEEC
+Instituto Politécnico de Portalegre,3120,Escola Superior Agrária,3123,Público,Politécnico,Agronomia,9003,Licenciatura,67,Sim,2,"2,9",2009/10_2012/13,DGES
+Instituto Politécnico de Santarém,3140,Escola Superior de Desporto de Rio Maior,3145,Público,Politécnico,Desporto de Natureza e Turismo Activo,9730,Licenciatura,68,Sim,2,"2,9",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Saúde de Leiria,7045,Público,Politécnico,Enfermagem,9500,Licenciatura,471,Sim,14,"2,9",2009/10_2012/13,DGES
+Instituto Politécnico de Portalegre,3120,Escola Superior de Saúde de Portalegre,7055,Público,Politécnico,Enfermagem,9500,Licenciatura,309,Sim,9,"2,9",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Medicina Dentária,1113,Público,Universitário,Medicina Dentária,9548,Mestrado Integrado,351,Sim,10,"2,8",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Medicina Dentária,1508,Público,Universitário,Medicina Dentária,9548,Mestrado Integrado,248,Sim,7,"2,8",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Estudos Industriais e de Gestão,3133,Público,Politécnico,Engenharia e Gestão Industrial,9104,Licenciatura,70,Sim,2,"2,8",2009/10_2012/13,DGES
+Escola Superior de Hotelaria e Turismo do Estoril,7110,Escola Superior de Hotelaria e Turismo do Estoril,7110,Público,Politécnico,Gestão Turística,9177,Licenciatura,284,Sim,8,"2,8",2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Escola Superior de Tecnologia da Saúde de Lisboa,7220,Público,Politécnico,Fisioterapia,9504,Licenciatura,139,Sim,4,"2,8",2009/10_2012/13,DGES
+Universidade do Algarve,200,Universidade do Algarve,200,Público,Universitário,Ciências Biomédicas,9351,Licenciatura,111,Sim,3,"2,7",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Engenharia e Gestão Industrial,9104,Licenciatura,221,Sim,6,"2,7",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Direito,911,Público,Universitário,Direito,9078,Licenciatura,329,Sim,9,"2,7",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Ciências,1503,Público,Universitário,Matemática Aplicada,9385,Licenciatura,111,Sim,3,"2,7",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior Técnico (Alameda),1518,Público,Universitário,Engenharia Aeroespacial,9357,Mestrado Integrado,147,Sim,4,"2,7",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior Técnico (Alameda),1518,Público,Universitário,Engenharia Geológica e de Minas,9913,Licenciatura,36,Sim,1,"2,7",2009/10_2012/13,DGES
+Instituto Superior de Ciências Educativas,4270,Instituto Superior de Ciências Educativas,4270,Privado,Politécnico,Educação Social,9084,Licenciatura,75,Sim,2,"2,7",2009/10_2012/13,DGEEC
+Instituto Superior D. Dinis,4292,Instituto Superior D. Dinis,4292,Privado,Politécnico,Engenharia de Produção Industrial,9097,Licenciatura,37,Sim,1,"2,7",2009/10_2012/13,DGEEC
+Universidade do Algarve,200,Escola Superior de Saúde,7035,Público,Politécnico,Enfermagem,9500,Licenciatura,110,Sim,3,"2,7",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Economia,904,Público,Universitário,Economia,9081,Licenciatura,714,Sim,19,"2,6",2009/10_2012/13,DGES
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,Educação Física e Desporto,9736,Licenciatura,458,Sim,12,"2,6",2009/10_2012/13,DGEEC
+Universidade Nova de Lisboa,900,Faculdade de Ciências e Tecnologia,903,Público,Universitário,Engenharia Biomédica,9359,Mestrado Integrado,154,Sim,4,"2,5",2009/10_2012/13,DGES
+Instituto Politécnico de Coimbra,3060,Escola Superior de Educação de Coimbra,3062,Público,Politécnico,Educação Básica,9853,Licenciatura,273,Sim,7,"2,5",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Educação e Ciências Sociais,3101,Público,Politécnico,Educação Básica,9853,Licenciatura,280,Sim,7,"2,5",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Ciências e Tecnologia,903,Público,Universitário,Engenharia Informática,G005,Mestrado Integrado,446,Sim,11,"2,4",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior Técnico (Alameda),1518,Público,Universitário,Engenharia Electrotécnica e de Computadores,9367,Mestrado Integrado,527,Sim,13,"2,4",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Educação,3131,Público,Politécnico,Educação Básica,9853,Licenciatura,243,Sim,6,"2,4",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Tecnologia e Gestão de Felgueiras,3138,Público,Politécnico,Engenharia Informática,9119,Licenciatura,81,Sim,2,"2,4",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Ciências Biomédicas,9351,Licenciatura,126,Sim,3,"2,3",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Ciências e Tecnologia,501,Público,Universitário,Bioquímica,9015,Licenciatura,168,Sim,4,"2,3",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Farmácia,504,Público,Universitário,Ciências Bioanalíticas,9819,Licenciatura,42,Sim,1,"2,3",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Farmácia,504,Público,Universitário,Farmácia Biomédica,9832,Licenciatura,43,Sim,1,"2,3",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Ciências e Tecnologia,903,Público,Universitário,Matemática,9209,Licenciatura,43,Sim,1,"2,3",2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Bioquímica,9015,Licenciatura,128,Sim,3,"2,3",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Ciências,1503,Público,Universitário,Engenharia Informática,9119,Licenciatura,295,Sim,7,"2,3",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Engenharia Electrónica e Telecomunicações,9365,Mestrado Integrado,281,Sim,6,"2,1",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Ciências e Tecnologia,501,Público,Universitário,Design e Multimédia,9891,Licenciatura,47,Sim,1,"2,1",2009/10_2012/13,DGES
+Escola Superior de Enfermagem de Lisboa,7002,Escola Superior de Enfermagem de Lisboa,7002,Público,Politécnico,Enfermagem,9500,Licenciatura,1175,Sim,25,"2,1",2009/10_2012/13,DGES
+Universidade da Beira Interior,400,Universidade da Beira Interior,400,Público,Universitário,Tecnologias e Sistemas de Informação,9251,Licenciatura,49,Sim,1,2,2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Letras,505,Público,Universitário,Línguas Modernas,9779,Licenciatura,241,Sim,5,2,2009/10_2012/13,DGES
+Universidade de Évora,600,Escola de Ciências e Tecnologia,602,Público,Universitário,Medicina Veterinária,9847,Mestrado Integrado,98,Sim,2,2,2009/10_2012/13,DGES
+Instituto Superior de Ciências da Administração,4275,Instituto Superior de Ciências da Administração,4275,Privado,Politécnico,Administração e Gestão Pública,8056,Licenciatura,50,Sim,1,2,2009/10_2012/13,DGEEC
+Universidade do Algarve,200,Faculdade de Ciências e Tecnologia,203,Público,Universitário,Ciências Farmacêuticas,9494,Mestrado Integrado,52,Sim,1,"1,9",2009/10_2012/13,DGES
+Instituto Politécnico de Beja,3020,Escola Superior de Educação,3022,Público,Politécnico,Educação Básica,9853,Licenciatura,105,Sim,2,"1,9",2009/10_2012/13,DGES
+Instituto Politécnico de Castelo Branco,3050,Escola Superior de Tecnologia de Castelo Branco,3053,Público,Politécnico,Engenharia Electrotécnica e das Telecomunicações,9111,Licenciatura,51,Sim,1,"1,9",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Tecnologia e Gestão,3102,Público,Politécnico,Engenharia Informática,9119,Licenciatura,254,Sim,5,"1,9",2009/10_2012/13,DGES
+Escola Superior de Educação de Paula Frassinetti,4085,Escola Superior de Educação de Paula Frassinetti,4085,Privado,Politécnico,Educação Básica,9853,Licenciatura,372,Sim,7,"1,9",2009/10_2012/13,DGEEC
+Escola Superior de Saúde do Alcoitão,4105,Escola Superior de Saúde do Alcoitão,4105,Privado,Politécnico,Fisioterapia,9504,Licenciatura,215,Sim,4,"1,9",2009/10_2012/13,DGEEC
+ISCTE - Instituto Universitário de Lisboa,6800,ISCTE - Instituto Universitário de Lisboa,6800,Público,Universitário,Engenharia de Telecomunicações e Informática,9098,Licenciatura,104,Sim,2,"1,9",2009/10_2012/13,DGES
+Universidade de Évora,600,Escola Superior de Enfermagem de São João de Deus,7030,Público,Politécnico,Enfermagem,9500,Licenciatura,261,Sim,5,"1,9",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Ciências e Tecnologia,903,Público,Universitário,Biologia Celular e Molecular,9348,Licenciatura,160,Sim,3,"1,8",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Instituto Superior de Estatística e Gestão de Informação,906,Público,Universitário,Sistemas e Tecnologias de Informação,8259,Licenciatura,55,Sim,1,"1,8",2009/10_2012/13,DGES
+Universidade Aberta,1400,Universidade Aberta,1400,Público,Universitário,Ciências da Informação e da Documentação,9039,Licenciatura,226,Sim,4,"1,8",2009/10_2012/13,DGEEC/DGES
+Universidade Lusófona de Humanidades e Tecnologias,2800,Universidade Lusófona de Humanidades e Tecnologias,2800,Privado,Universitário,Estudos de Segurança,8283,Licenciatura,56,Sim,1,"1,8",2009/10_2012/13,DGEEC
+Instituto Politécnico de Leiria,3100,Escola Superior de Tecnologia e Gestão,3102,Público,Politécnico,Informática para a Saúde,9481,Licenciatura,108,Sim,2,"1,8",2009/10_2012/13,DGES
+Instituto Superior de Ciências da Saúde Egas Moniz,4260,Instituto Superior de Ciências da Saúde Egas Moniz,4260,Privado,Universitário,Medicina Dentária,9548,Mestrado Integrado,333,Sim,6,"1,8",2009/10_2012/13,DGEEC
+ISCTE - Instituto Universitário de Lisboa,6800,ISCTE - Instituto Universitário de Lisboa,6800,Público,Universitário,Engenharia Informática,9119,Licenciatura,107,Sim,2,"1,8",2009/10_2012/13,DGES
+Instituto Politécnico da Guarda,3090,Escola Superior de Saúde da Guarda,7040,Público,Politécnico,Enfermagem,9500,Licenciatura,267,Sim,5,"1,8",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Escola Superior de Tecnologia e Gestão de Águeda,3012,Público,Politécnico,Gestão Comercial,L021,Licenciatura,58,Sim,1,"1,7",2009/10_2012/13,DGES
+Instituto Politécnico de Setúbal,3150,Escola Superior de Saúde,3155,Público,Politécnico,Enfermagem,9500,Licenciatura,169,Sim,3,"1,7",2009/10_2012/13,DGES
+Academia Nacional Superior de Orquestra,4002,Academia Nacional Superior de Orquestra,4002,Privado,Politécnico,Instrumentista de Orquestra,9771,Licenciatura,59,Sim,1,"1,7",2009/10_2012/13,DGEEC
+Escola Superior de Educação de João de Deus,4080,Escola Superior de Educação de João de Deus,4080,Privado,Politécnico,Educação Básica,9853,Licenciatura,230,Sim,4,"1,7",2009/10_2012/13,DGEEC
+Instituto Superior de Ciências Educativas,4270,Instituto Superior de Ciências Educativas,4270,Privado,Politécnico,Educação Básica,9853,Licenciatura,172,Sim,3,"1,7",2009/10_2012/13,DGEEC
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Biotecnologia,9016,Licenciatura,124,Sim,2,"1,6",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Economia,904,Público,Universitário,Gestão,9147,Licenciatura,666,Sim,11,"1,6",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Estudos Industriais e de Gestão,3133,Público,Politécnico,Engenharia Mecânica,9123,Licenciatura,59,Sim,1,"1,6",2009/10_2012/13,DGES
+Instituto Superior Manuel Teixeira Gomes,4375,Instituto Superior Manuel Teixeira Gomes,4375,Privado,Universitário,Engenharia Informática,9119,Licenciatura,62,Sim,1,"1,6",2009/10_2012/13,DGEEC
+Instituto Politécnico de Santarém,3140,Escola Superior de Saúde de Santarém,7065,Público,Politécnico,Enfermagem,9500,Licenciatura,295,Sim,5,"1,6",2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Escola Superior de Tecnologia da Saúde de Lisboa,7220,Público,Politécnico,Ortóptica,8143,Licenciatura,118,Sim,2,"1,6",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Engenharia,1105,Público,Universitário,Engenharia Informática e Computação,9459,Mestrado Integrado,390,Sim,6,"1,5",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior Técnico (Taguspark),1519,Público,Universitário,Engenharia de Telecomunicações e Informática,9098,Licenciatura,128,Sim,2,"1,5",2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Escola Superior de Dança,3111,Público,Politécnico,Dança,9068,Licenciatura,132,Sim,2,"1,5",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Estudos Industriais e de Gestão,3133,Público,Politécnico,Engenharia Biomédica,9455,Licenciatura,64,Sim,1,"1,5",2009/10_2012/13,DGES
+Instituto Superior de Educação e Ciências,4298,Instituto Superior de Educação e Ciências,4298,Privado,Politécnico,Educação Básica,9853,Licenciatura,203,Sim,3,"1,5",2009/10_2012/13,DGEEC
+ISCTE - Instituto Universitário de Lisboa,6800,ISCTE - Instituto Universitário de Lisboa,6800,Público,Universitário,Informática e Gestão de Empresas,9189,Licenciatura,133,Sim,2,"1,5",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Ciências,1103,Público,Universitário,Engenharia de Redes e Sistemas Informáticos,9812,Mestrado Integrado,69,Sim,1,"1,4",2009/10_2012/13,DGES
+Instituto Politécnico de Leiria,3100,Escola Superior de Tecnologia e Gestão,3102,Público,Politécnico,Engenharia Mecânica,9123,Licenciatura,138,Sim,2,"1,4",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Ciências e Tecnologia,501,Público,Universitário,Engenharia e Gestão Industrial,9104,Licenciatura,75,Sim,1,"1,3",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Medicina,506,Público,Universitário,Medicina Dentária,9548,Mestrado Integrado,151,Sim,2,"1,3",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior de Economia e Gestão,1517,Público,Universitário,Matemática Aplicada à Economia e à Gestão,9210,Licenciatura,73,Sim,1,"1,3",2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Escola Superior de Educação de Lisboa,3112,Público,Politécnico,Educação Básica,9853,Licenciatura,585,Sim,8,"1,3",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Ciências Sociais e Humanas,902,Público,Universitário,Estudos Portugueses,9917,Licenciatura,80,Sim,1,"1,2",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Engenharia,1105,Público,Universitário,Engenharia Industrial e Gestão,9510,Mestrado Integrado,239,Sim,3,"1,2",2009/10_2012/13,DGES
+Universidade Fernando Pessoa,2750,Universidade Fernando Pessoa (unidade de Ponte de Lima - ensino politécnico),2753,Privado,Politécnico,Enfermagem,9500,Licenciatura,85,Sim,1,"1,2",2009/10_2012/13,DGEEC
+Universidade do Algarve,200,"Escola Superior de Gestão, Hotelaria e Turismo (Portimão)",3087,Público,Politécnico,Gestão,9147,Licenciatura,165,Sim,2,"1,2",2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Ciências e Tecnologia,903,Público,Universitário,Engenharia Electrotécnica e de Computadores,9367,Mestrado Integrado,168,Sim,2,"1,1",2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Ciências e Tecnologia,501,Público,Universitário,Engenharia Informática,9119,Licenciatura,368,Sim,4,1,2009/10_2012/13,DGES
+Instituto Politécnico de Castelo Branco,3050,Escola Superior de Tecnologia de Castelo Branco,3053,Público,Politécnico,Engenharia Informática,9119,Licenciatura,95,Sim,1,1,2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Instituto Superior de Engenharia de Lisboa,3118,Público,Politécnico,Engenharia Informática e de Computadores,9121,Licenciatura,165,Sim,1,"0,6",2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Música e das Artes do Espectáculo,3132,Público,Politécnico,"Música, variante de Instrumento",9784,Licenciatura,152,Sim,1,"0,6",2009/10_2012/13,DGES
+Instituto Politécnico de Castelo Branco,3050,Escola Superior de Saúde Dr. Lopes Dias,7020,Público,Politécnico,Enfermagem,9500,Licenciatura,190,Sim,1,"0,5",2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior Técnico (Taguspark),1519,Público,Universitário,Engenharia Informática e de Computadores,9121,Licenciatura,245,Sim,1,"0,4",2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Escola Superior de Música,3114,Público,Politécnico,"Música, variante de Execução",9782,Licenciatura,201,Sim,1,"0,4",2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Medicina,1108,Público,Universitário,Medicina,9813,Mestrado Integrado,965,Sim,1,"0,1",2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Escola Superior de Educação de Lisboa,3112,Público,Politécnico,Música na Comunidade,8009,Licenciatura,31,Sim,1,"0,032",2009/10_2012/13,DGES
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Biologia e Geologia,9012,Licenciatura,46,Sim,0,0,2009/10_2012/13,DGES
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,Engenharia Geológica,9116,Licenciatura,33,Sim,0,0,2009/10_2012/13,DGES
+Universidade de Aveiro,300,Universidade de Aveiro,300,Público,Universitário,"Meteorologia, Oceanografia e Geofísica",9212,Licenciatura,38,Sim,0,0,2009/10_2012/13,DGES
+Universidade da Beira Interior,400,Universidade da Beira Interior,400,Público,Universitário,Medicina,9813,Mestrado Integrado,320,Sim,0,0,2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Ciências e Tecnologia,501,Público,Universitário,Física,9141,Licenciatura,36,Sim,0,0,2009/10_2012/13,DGES
+Universidade de Coimbra,500,Faculdade de Medicina,506,Público,Universitário,Medicina,9813,Mestrado Integrado,1042,Sim,0,0,2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Ciências Médicas,901,Público,Universitário,Medicina,9813,Mestrado Integrado,802,Sim,0,0,2009/10_2012/13,DGES
+Universidade Nova de Lisboa,900,Faculdade de Ciências e Tecnologia,903,Público,Universitário,Engenharia e Gestão Industrial,9509,Mestrado Integrado,91,Sim,0,0,2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Línguas e Culturas Orientais,9193,Licenciatura,45,Sim,0,0,2009/10_2012/13,DGES
+Universidade do Minho,1000,Universidade do Minho,1000,Público,Universitário,Medicina,9813,Mestrado Integrado,258,Sim,0,0,2009/10_2012/13,DGES
+Universidade do Porto,1100,Faculdade de Ciências,1103,Público,Universitário,Física,9141,Licenciatura,54,Sim,0,0,2009/10_2012/13,DGES
+Universidade do Porto,1100,Instituto de Ciências Biomédicas Abel Salazar,1110,Público,Universitário,Medicina,9813,Mestrado Integrado,637,Sim,0,0,2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Ciências,1503,Público,Universitário,Matemática,9209,Licenciatura,50,Sim,0,0,2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Faculdade de Medicina,1507,Público,Universitário,Medicina,9813,Mestrado Integrado,1316,Sim,1,0,2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior Técnico (Alameda),1518,Público,Universitário,Engenharia de Materiais,9096,Licenciatura,39,Sim,0,0,2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior Técnico (Alameda),1518,Público,Universitário,Matemática Aplicada e Computação,9345,Licenciatura,78,Sim,0,0,2009/10_2012/13,DGES
+Universidade de Lisboa,1500,Instituto Superior Técnico (Taguspark),1519,Público,Universitário,Engenharia Electrónica,9912,Licenciatura,56,Sim,0,0,2009/10_2012/13,DGES
+Universidade Católica Portuguesa,2200,Faculdade de Teologia,2240,Privado,Universitário,Teologia,9553,Mestrado Integrado,64,Sim,0,0,2009/10_2012/13,DGEEC
+Universidade Católica Portuguesa,2200,Faculdade de Teologia (Braga),2241,Privado,Universitário,Teologia,9553,Mestrado Integrado,30,Sim,0,0,2009/10_2012/13,DGEEC
+Universidade Católica Portuguesa,2200,Faculdade de Teologia (Porto),2242,Privado,Universitário,Teologia,9553,Mestrado Integrado,51,Sim,0,0,2009/10_2012/13,DGEEC
+Instituto Politécnico de Castelo Branco,3050,Escola Superior de Artes Aplicadas de Castelo Branco,3055,Público,Politécnico,"Música, variante de Formação Musical",9783,Licenciatura,31,Sim,0,0,2009/10_2012/13,DGES
+Instituto Politécnico de Coimbra,3060,Escola Superior de Tecnologia e Gestão de Oliveira do Hospital,3065,Público,Politécnico,Engenharia Informática,9119,Licenciatura,40,Sim,0,0,2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Escola Superior de Música,3114,Público,Politécnico,"Música, variante de Jazz (regime pós-laboral)",8343,Licenciatura,47,Sim,0,0,2009/10_2012/13,DGES
+Instituto Politécnico de Lisboa,3110,Instituto Superior de Contabilidade e Administração de Lisboa,3117,Público,Politécnico,Solicitadoria,9242,Licenciatura,33,Sim,0,0,2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Educação,3131,Público,Politécnico,Educação Musical,9878,Licenciatura,49,Sim,0,0,2009/10_2012/13,DGES
+Instituto Politécnico do Porto,3130,Escola Superior de Música e das Artes do Espectáculo,3132,Público,Politécnico,"Música, variante de Jazz",9838,Licenciatura,40,Sim,0,0,2009/10_2012/13,DGES
+Instituto Politécnico de Santarém,3140,Escola Superior Agrária de Santarém,3141,Público,Politécnico,Engenharia do Ambiente,9099,Licenciatura,32,Sim,0,0,2009/10_2012/13,DGES
+Instituto Politécnico de Santarém,3140,Escola Superior de Gestão e Tecnologia de Santarém,3143,Público,Politécnico,Informática,9185,Licenciatura,94,Sim,0,0,2009/10_2012/13,DGES
+Universidade Lusófona do Porto,4032,Universidade Lusófona do Porto,4032,Privado,Universitário,Gestão e Desenvolvimento de Recursos Humanos,8166,Licenciatura,37,Sim,0,0,2009/10_2012/13,DGEEC
+Escola Superior de Saúde da Cruz Vermelha Portuguesa,4091,Escola Superior de Saúde da Cruz Vermelha Portuguesa,4091,Privado,Politécnico,Enfermagem (entrada no 2.º semestre),9501,Licenciatura,56,Sim,0,0,2009/10_2012/13,DGEEC
+Instituto Superior de Ciências da Informação e da Administração,4277,Instituto Superior de Ciências da Informação e da Administração,4277,Privado,Politécnico,Segurança Comunitária,8169,Licenciatura,46,Sim,0,0,2009/10_2012/13,DGEEC
