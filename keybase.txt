@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/tdevezas
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://tiagodevezas.pt
+  * I am tdevezas (https://keybase.io/tdevezas) on keybase.
+  * I have a public key ASBV0nGkWGpnFVEPSOm3_zbwzd02QCUmMgntrfbk34JGyQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012055d271a4586a6715510f48e9b7ff36f0cddd364025263209edadf6e4df8246c90a",
+      "host": "keybase.io",
+      "kid": "012055d271a4586a6715510f48e9b7ff36f0cddd364025263209edadf6e4df8246c90a",
+      "uid": "9b67f19d718b457d6a69c61377560f19",
+      "username": "tdevezas"
+    },
+    "merkle_root": {
+      "ctime": 1520725556,
+      "hash": "a5b0f49bad2b7a501880b4bdd47184f916c818407273386ba681b3995c228e7bc639b6f5f578e371c97023dc52fe61ba9c97407c853899246e983708bf3467e4",
+      "hash_meta": "0bde3083b9792737dcaf979e985621aa21b081e6cf4ef0af05d1bba4de48ca80",
+      "seqno": 2217292
+    },
+    "service": {
+      "hostname": "tiagodevezas.pt",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1520725569,
+  "expire_in": 504576000,
+  "prev": "7ad0cad65398673d8154341174a1cd68bea4e418f45f9b83a0746228efce7881",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgVdJxpFhqZxVRD0jpt/828M3dNkAlJjIJ7a325N+CRskKp3BheWxvYWTFA0Z7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNTVkMjcxYTQ1ODZhNjcxNTUxMGY0OGU5YjdmZjM2ZjBjZGRkMzY0MDI1MjYzMjA5ZWRhZGY2ZTRkZjgyNDZjOTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNTVkMjcxYTQ1ODZhNjcxNTUxMGY0OGU5YjdmZjM2ZjBjZGRkMzY0MDI1MjYzMjA5ZWRhZGY2ZTRkZjgyNDZjOTBhIiwidWlkIjoiOWI2N2YxOWQ3MThiNDU3ZDZhNjljNjEzNzc1NjBmMTkiLCJ1c2VybmFtZSI6InRkZXZlemFzIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTIwNzI1NTU2LCJoYXNoIjoiYTViMGY0OWJhZDJiN2E1MDE4ODBiNGJkZDQ3MTg0ZjkxNmM4MTg0MDcyNzMzODZiYTY4MWIzOTk1YzIyOGU3YmM2MzliNmY1ZjU3OGUzNzFjOTcwMjNkYzUyZmU2MWJhOWM5NzQwN2M4NTM4OTkyNDZlOTgzNzA4YmYzNDY3ZTQiLCJoYXNoX21ldGEiOiIwYmRlMzA4M2I5NzkyNzM3ZGNhZjk3OWU5ODU2MjFhYTIxYjA4MWU2Y2Y0ZWYwYWYwNWQxYmJhNGRlNDhjYTgwIiwic2Vxbm8iOjIyMTcyOTJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoidGlhZ29kZXZlemFzLnB0IiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC40NSJ9LCJjdGltZSI6MTUyMDcyNTU2OSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI3YWQwY2FkNjUzOTg2NzNkODE1NDM0MTE3NGExY2Q2OGJlYTRlNDE4ZjQ1ZjliODNhMDc0NjIyOGVmY2U3ODgxIiwic2Vxbm8iOjcsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA2FHZzO3SAeTuXUuWK1jxnx5WMAd5osEMw5Wu7WGDj4QKvlOF0bxuRYyoV70cMdkbaJocvo2C0QWIlXqfnDcJC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJQLv8EFOUc6BnzJFsz995W6DH2qbaV4jT3c93dQXA2jo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tdevezas
+
+==================================================================
