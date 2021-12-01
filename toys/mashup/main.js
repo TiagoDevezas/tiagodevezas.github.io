@@ -3,9 +3,9 @@
 const ICON_BASE_URL = 'images/weather-';
 const EXTENSION = '.svg.png';
 
-const PLACE_API_BASE_URL = 'https://api.geonames.org/searchJSON?formatted=true&username=twlab&style=full&lang=pt&q=';
-const WEATHER_API_BASE_URL = 'https://api.geonames.org/weatherJSON?formatted=true&username=twlab&style=full';
-const WEATHER_REVERSE_API_BASE_URL = 'https://api.geonames.org/findNearByWeatherJSON?formatted=true&username=twlab&style=full';
+const PLACE_API_BASE_URL = '//api.geonames.org/searchJSON?formatted=true&username=twlab&style=full&lang=pt&q=';
+const WEATHER_API_BASE_URL = '//api.geonames.org/weatherJSON?formatted=true&username=twlab&style=full';
+const WEATHER_REVERSE_API_BASE_URL = '//api.geonames.org/findNearByWeatherJSON?formatted=true&username=twlab&style=full';
 
 let selectedWeatherApi; // Store the selected weather API (bounding box or reverse geocoding)
 
