@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <script src="main.js" type="text/javascript" defer></script>
+  <title>Mashup - Meteo</title>
+</head>
+<body>
+  <main>
+
+    <div class="align-center">
+      <label for="api-select">API&nbsp;&nbsp;</label>
+      <select name="api-select" id="api-select">
+        <option value="bbox" selected>Bounding Box</option>
+        <option value="lat-long">Latitude/Longitude</option>
+      </select>
+    </div>
+
+    <form id="get-place">
+      <input type="text" id="place-name" placeholder="Introduzir local">
+      <button type="submit"></button>
+    </form>
+
+    <div class="align-center">
+      <label for="get-place">ícone&nbsp;&nbsp;</label>
+      <select name="icon-select" id="icon-select">
+        <option value="SKC">Céu limpo</option>
+        <option value="FEW">Pouco nublado</option>
+        <option value="SCT">Nuvens dispersas</option>
+        <option value="BNC">Muito nublado</option>
+        <option value="OVC">Encoberto</option>
+        <option value="OTHER">Outro</option>
+      </select>
+    </div>
+
+    <p id="loader"></p>
+
+    <div class="card">
+      <img src="" alt="" id="meteo-icon">
+    </div>
+    
+  </main>
+</body>
+</html>
