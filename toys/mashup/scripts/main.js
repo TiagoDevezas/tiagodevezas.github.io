@@ -1,6 +1,6 @@
 "use strict";
 
-const ICON_BASE_URL = "../images/weather-";
+const ICON_BASE_URL = "./images/weather-";
 const EXTENSION = ".svg.png";
 
 const PLACE_API_BASE_URL =
